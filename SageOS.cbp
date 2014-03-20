@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SageOS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SageOS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SageOS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="SageOS.cbp" />
+		<Unit filename="bufHist.bh" />
+		<Unit filename="bufHist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bufHist.h" />
+		<Unit filename="dc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dc.h" />
+		<Unit filename="log.txt" />
+		<Unit filename="logger.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="logger.h" />
+		<Unit filename="os345.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345.h" />
+		<Unit filename="os345config.h" />
+		<Unit filename="os345fat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345fat.h" />
+		<Unit filename="os345interrupts.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345lc3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345lc3.h" />
+		<Unit filename="os345mmu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345p1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345p2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345p3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345p4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345p5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345p6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345park.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345park.h" />
+		<Unit filename="os345semaphores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345signals.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="os345signals.h" />
+		<Unit filename="os345tasks.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queue.h" />
+		<Unit filename="sqlite3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sqlite3.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

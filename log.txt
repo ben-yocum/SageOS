@@ -1,0 +1,4878 @@
+Sun Jan 26 20:36:41 2014
+Beginning to run SageOSSun Jan 26 21:07:15 2014
+Beginning to run SageOS
+Sun Jan 26 21:09:32 2014
+Beginning to run SageOS
+(null) >> Beginning to run SageOS
+(null) >> Beginning to run SageOS
+pþ# >> Beginning to run SageOS
+26-01-14 23:39:59 >> Beginning to run SageOS
+26-01-14 23:43:17 >> Beginning to run SageOS
+26-01-14 23:43:17 >> Power up.
+26-01-14 23:43:22 >> Power down.
+27-01-14 15:43:58 >> Testing PQueue
+27-01-14 16:01:56 >> Testing PQueue
+27-01-14 16:01:56 >> PQueue test complete
+27-01-14 16:31:52 >> Testing PQueue
+27-01-14 16:34:40 >> Testing PQueue
+27-01-14 16:38:20 >> Testing PQueue
+27-01-14 16:38:20 >> PQueue test complete
+27-01-14 16:38:23 >> Testing PQueue
+27-01-14 16:39:05 >> Testing PQueue
+27-01-14 16:39:05 >> PQueue test complete
+27-01-14 16:39:26 >> Testing PQueue
+27-01-14 16:40:14 >> Testing PQueue
+27-01-14 16:40:14 >> PQueue test complete
+27-01-14 16:40:54 >> Testing PQueue
+27-01-14 16:41:49 >> Testing PQueue
+27-01-14 16:41:59 >> Testing PQueue
+27-01-14 16:41:59 >> PQueue test complete
+27-01-14 16:43:04 >> Testing PQueue
+27-01-14 17:07:35 >> Testing PQueue
+27-01-14 17:07:54 >> Testing PQueue
+27-01-14 17:08:02 >> Testing PQueue
+27-01-14 17:13:12 >> Testing PQueue
+27-01-14 17:13:12 >> PQueue test complete
+27-01-14 17:13:21 >> Testing PQueue
+27-01-14 17:14:35 >> Testing PQueue
+27-01-14 17:14:40 >> Testing PQueue
+27-01-14 17:14:44 >> Testing PQueue
+27-01-14 17:14:44 >> PQueue test complete
+27-01-14 17:16:36 >> Testing PQueue
+27-01-14 17:16:36 >> PQueue test complete
+27-01-14 17:16:38 >> Testing PQueue
+27-01-14 17:16:38 >> PQueue test complete
+27-01-14 17:16:39 >> Testing PQueue
+27-01-14 17:16:39 >> PQueue test complete
+27-01-14 17:16:40 >> Testing PQueue
+27-01-14 17:16:40 >> PQueue test complete
+27-01-14 17:16:41 >> Testing PQueue
+27-01-14 17:16:41 >> PQueue test complete
+27-01-14 17:16:42 >> Testing PQueue
+27-01-14 17:16:42 >> PQueue test complete
+27-01-14 17:16:43 >> Testing PQueue
+27-01-14 17:16:43 >> PQueue test complete
+27-01-14 17:16:44 >> Testing PQueue
+27-01-14 17:16:44 >> PQueue test complete
+27-01-14 17:16:45 >> Testing PQueue
+27-01-14 17:16:45 >> PQueue test complete
+27-01-14 17:16:46 >> Testing PQueue
+27-01-14 17:16:46 >> PQueue test complete
+27-01-14 17:16:47 >> Testing PQueue
+27-01-14 17:16:47 >> PQueue test complete
+27-01-14 17:16:48 >> Testing PQueue
+27-01-14 17:16:48 >> PQueue test complete
+27-01-14 17:16:49 >> Testing PQueue
+27-01-14 17:16:49 >> PQueue test complete
+27-01-14 17:16:50 >> Testing PQueue
+27-01-14 17:16:50 >> PQueue test complete
+27-01-14 17:16:51 >> Testing PQueue
+27-01-14 17:16:51 >> PQueue test complete
+27-01-14 17:16:52 >> Testing PQueue
+27-01-14 17:16:52 >> PQueue test complete
+27-01-14 17:16:53 >> Testing PQueue
+27-01-14 17:16:53 >> PQueue test complete
+27-01-14 17:17:29 >> Testing PQueue
+27-01-14 17:17:29 >> PQueue test complete
+27-01-14 17:17:31 >> Testing PQueue
+27-01-14 17:17:31 >> PQueue test complete
+27-01-14 17:17:32 >> Testing PQueue
+27-01-14 17:17:32 >> PQueue test complete
+27-01-14 17:20:22 >> Testing PQueue
+27-01-14 17:20:22 >> PQueue test complete
+27-01-14 17:20:37 >> Testing PQueue
+27-01-14 17:20:37 >> PQueue test complete
+27-01-14 17:20:39 >> Testing PQueue
+27-01-14 17:20:39 >> PQueue test complete
+27-01-14 17:20:40 >> Testing PQueue
+27-01-14 17:20:40 >> PQueue test complete
+27-01-14 17:20:41 >> Testing PQueue
+27-01-14 17:20:41 >> PQueue test complete
+27-01-14 17:20:41 >> Testing PQueue
+27-01-14 17:20:41 >> PQueue test complete
+27-01-14 17:20:42 >> Testing PQueue
+27-01-14 17:20:42 >> PQueue test complete
+27-01-14 17:20:43 >> Testing PQueue
+27-01-14 17:20:43 >> PQueue test complete
+27-01-14 17:23:03 >> Testing PQueue
+27-01-14 17:23:03 >> PQueue test complete
+27-01-14 17:23:31 >> Testing PQueue
+27-01-14 17:23:31 >> PQueue test complete
+27-01-14 17:47:58 >> ******Testing PQueue******
+27-01-14 17:47:58 >> Allocating memory for queue of size 10
+27-01-14 17:47:58 >> Adding valid element
+27-01-14 17:47:58 >> FAILED
+27-01-14 17:47:58 >> QUITTING
+27-01-14 18:52:11 >> ******Testing PQueue******
+27-01-14 18:52:11 >> Allocating memory for queue of size 10
+27-01-14 18:52:11 >> Adding valid element
+27-01-14 18:52:11 >> FAILED
+27-01-14 18:52:11 >> QUITTING
+27-01-14 18:55:11 >> ******Testing PQueue******
+27-01-14 18:55:11 >> Allocating memory for queue of size 10
+27-01-14 18:55:11 >> Adding valid element
+27-01-14 18:55:11 >> FAILED
+27-01-14 18:55:11 >> QUITTING
+27-01-14 18:55:11 >> PQueue test complete
+27-01-14 18:55:16 >> ******Testing PQueue******
+27-01-14 18:55:16 >> Allocating memory for queue of size 10
+27-01-14 18:55:16 >> Adding valid element
+27-01-14 18:55:16 >> FAILED
+27-01-14 18:55:16 >> QUITTING
+27-01-14 18:55:16 >> PQueue test complete
+27-01-14 18:55:17 >> ******Testing PQueue******
+27-01-14 18:55:17 >> Allocating memory for queue of size 10
+27-01-14 18:55:17 >> Adding valid element
+27-01-14 18:55:17 >> FAILED
+27-01-14 18:55:17 >> QUITTING
+27-01-14 18:55:17 >> PQueue test complete
+27-01-14 18:55:18 >> ******Testing PQueue******
+27-01-14 18:55:18 >> Allocating memory for queue of size 10
+27-01-14 18:55:18 >> Adding valid element
+27-01-14 18:55:18 >> FAILED
+27-01-14 18:55:18 >> QUITTING
+27-01-14 18:55:18 >> PQueue test complete
+27-01-14 18:55:19 >> ******Testing PQueue******
+27-01-14 18:55:19 >> Allocating memory for queue of size 10
+27-01-14 18:55:19 >> Adding valid element
+27-01-14 18:55:19 >> FAILED
+27-01-14 18:55:19 >> QUITTING
+27-01-14 18:55:19 >> PQueue test complete
+27-01-14 18:55:20 >> ******Testing PQueue******
+27-01-14 18:55:20 >> Allocating memory for queue of size 10
+27-01-14 18:55:20 >> Adding valid element
+27-01-14 18:55:20 >> FAILED
+27-01-14 18:55:20 >> QUITTING
+27-01-14 18:55:20 >> PQueue test complete
+27-01-14 18:56:13 >> ******Testing PQueue******
+27-01-14 18:56:13 >> Allocating memory for queue of size 10
+27-01-14 18:56:13 >> Adding valid element
+27-01-14 18:56:13 >> FAILED
+27-01-14 18:56:13 >> QUITTING
+27-01-14 18:58:56 >> ******Testing PQueue******
+27-01-14 18:58:56 >> Allocating memory for queue of size 10
+27-01-14 18:58:56 >> Adding valid element
+27-01-14 18:58:56 >> FAILED
+27-01-14 18:58:56 >> QUITTING
+27-01-14 18:58:56 >> PQueue test complete
+27-01-14 19:04:30 >> 
+******Testing PQueue******
+27-01-14 19:04:30 >> Allocating memory for queue of size 10
+27-01-14 19:04:30 >> Adding valid element
+27-01-14 19:04:30 >> FAILED
+27-01-14 19:04:30 >> QUITTING
+27-01-14 19:04:30 >> PQueue test complete
+27-01-14 19:07:24 >> 
+******Testing PQueue******
+27-01-14 19:07:24 >> Allocating memory for queue of size 10
+27-01-14 19:07:24 >> Adding valid element
+27-01-14 19:07:24 >> Success
+27-01-14 19:07:24 >> PQueue test complete
+27-01-14 19:09:09 >> 
+******Testing PQueue******
+27-01-14 19:09:09 >> Allocating memory for queue of size 10
+27-01-14 19:09:09 >> Adding valid element with id 1, priority 1
+27-01-14 19:09:46 >> 
+27-01-14 19:09:46 >> ******Testing PQueue******
+27-01-14 19:09:46 >> Allocating memory for queue of size 10
+27-01-14 19:09:46 >> Adding valid element with id 1, priority 1
+27-01-14 19:10:16 >> 
+27-01-14 19:10:16 >> ******Testing PQueue******
+27-01-14 19:10:16 >> Allocating memory for queue of size 10
+27-01-14 19:10:16 >> Adding valid element with id 1, priority 1
+27-01-14 19:12:11 >> 
+27-01-14 19:12:11 >> ******Testing PQueue******
+27-01-14 19:12:11 >> Allocating memory for queue of size 10
+27-01-14 19:12:11 >> Adding valid element with id 1, priority 1
+27-01-14 19:12:11 >> SUCCESS
+27-01-14 19:12:54 >> 
+27-01-14 19:12:54 >> ******Testing PQueue******
+27-01-14 19:12:54 >> Allocating memory for queue of size 10
+27-01-14 19:12:54 >> Adding valid element with id 1, priority 1
+27-01-14 19:12:54 >> SUCCESS
+27-01-14 19:14:16 >> 
+27-01-14 19:14:16 >> ******Testing PQueue******
+27-01-14 19:14:16 >> Allocating memory for queue of size 10
+27-01-14 19:14:16 >> Adding valid element with id 1, priority 1
+27-01-14 19:14:16 >> SUCCESS
+27-01-14 19:14:16 >> PQueue test complete
+27-01-14 19:14:46 >> 
+27-01-14 19:14:46 >> ******Testing PQueue******
+27-01-14 19:14:46 >> Allocating memory for queue of size 10
+27-01-14 19:14:46 >> Adding valid element with id 1, priority 1
+27-01-14 19:14:46 >> SUCCESS
+27-01-14 20:03:38 >> 
+27-01-14 20:03:38 >> ******Testing PQueue******
+27-01-14 20:03:38 >> Allocating memory for queue of size 10
+27-01-14 20:03:38 >> Adding valid element with id 1, priority 1
+27-01-14 20:03:38 >> SUCCESS
+27-01-14 20:04:14 >> 
+27-01-14 20:04:14 >> ******Testing PQueue******
+27-01-14 20:04:14 >> Allocating memory for queue of size 10
+27-01-14 20:04:52 >> 
+27-01-14 20:04:52 >> ******Testing PQueue******
+27-01-14 20:04:52 >> Allocating memory for queue of size 10
+27-01-14 20:06:28 >> 
+27-01-14 20:06:28 >> ******Testing PQueue******
+27-01-14 20:06:28 >> Allocating memory for queue of size 10
+27-01-14 20:07:52 >> 
+27-01-14 20:07:52 >> ******Testing PQueue******
+27-01-14 20:07:52 >> Allocating memory for queue of size 10
+27-01-14 20:07:59 >> 
+27-01-14 20:07:59 >> ******Testing PQueue******
+27-01-14 20:07:59 >> Allocating memory for queue of size 10
+27-01-14 20:09:42 >> Adding valid element with id 1, priority 1
+27-01-14 20:09:42 >> SUCCESS
+27-01-14 20:11:06 >> Adding valid element with id 2, priority 10
+27-01-14 20:11:06 >> SUCCESS
+27-01-14 20:11:06 >> Destructing queue
+27-01-14 20:11:06 >> PQueue test complete
+27-01-14 20:11:15 >> 
+27-01-14 20:11:15 >> ******Testing PQueue******
+27-01-14 20:11:15 >> Allocating memory for queue of size 10
+27-01-14 20:11:18 >> Adding valid element with id 1, priority 1
+27-01-14 20:11:18 >> SUCCESS
+27-01-14 20:12:15 >> 
+27-01-14 20:12:15 >> ******Testing PQueue******
+27-01-14 20:12:15 >> Allocating memory for queue of size 10
+27-01-14 20:12:19 >> Adding valid element with id 1, priority 1
+27-01-14 20:12:19 >> SUCCESS
+27-01-14 20:13:52 >> Adding valid element with id 2, priority 10
+27-01-14 20:13:52 >> SUCCESS
+27-01-14 20:13:59 >> Destructing queue
+27-01-14 20:13:59 >> PQueue test complete
+27-01-14 20:14:14 >> 
+27-01-14 20:14:14 >> ******Testing PQueue******
+27-01-14 20:14:14 >> Allocating memory for queue of size 10
+27-01-14 20:14:21 >> 
+27-01-14 20:14:21 >> ******Testing PQueue******
+27-01-14 20:14:21 >> Allocating memory for queue of size 10
+27-01-14 20:14:26 >> 
+27-01-14 20:14:26 >> ******Testing PQueue******
+27-01-14 20:14:26 >> Allocating memory for queue of size 10
+27-01-14 20:14:32 >> 
+27-01-14 20:14:32 >> ******Testing PQueue******
+27-01-14 20:14:32 >> Allocating memory for queue of size 10
+27-01-14 20:14:36 >> Adding valid element with id 1, priority 1
+27-01-14 20:14:36 >> SUCCESS
+27-01-14 20:14:36 >> Adding valid element with id 2, priority 10
+27-01-14 20:14:36 >> SUCCESS
+27-01-14 20:14:36 >> Destructing queue
+27-01-14 20:14:36 >> PQueue test complete
+27-01-14 20:15:39 >> 
+27-01-14 20:15:39 >> ******Testing PQueue******
+27-01-14 20:15:39 >> Allocating memory for queue of size 10
+27-01-14 20:18:16 >> 
+27-01-14 20:18:16 >> ******Testing PQueue******
+27-01-14 20:18:16 >> Allocating memory for queue of size 10
+27-01-14 20:18:24 >> 
+27-01-14 20:18:24 >> ******Testing PQueue******
+27-01-14 20:18:24 >> Allocating memory for queue of size 10
+27-01-14 20:18:35 >> 
+27-01-14 20:18:35 >> ******Testing PQueue******
+27-01-14 20:18:35 >> Allocating memory for queue of size 10
+27-01-14 20:21:21 >> 
+27-01-14 20:21:21 >> ******Testing PQueue******
+27-01-14 20:21:21 >> Allocating memory for queue of size 10
+27-01-14 20:22:07 >> Adding valid element with id 1, priority 1
+27-01-14 20:22:07 >> SUCCESS
+27-01-14 20:22:48 >> Adding valid element with id 2, priority 10
+27-01-14 20:22:48 >> SUCCESS
+27-01-14 20:22:50 >> Destructing queue
+27-01-14 20:22:53 >> PQueue test complete
+27-01-14 20:22:58 >> 
+27-01-14 20:22:58 >> ******Testing PQueue******
+27-01-14 20:22:58 >> Allocating memory for queue of size 10
+27-01-14 20:33:30 >> 
+27-01-14 20:33:30 >> ******Testing PQueue******
+27-01-14 20:33:30 >> Allocating memory for queue of size 10
+27-01-14 20:34:17 >> 
+27-01-14 20:34:17 >> ******Testing PQueue******
+27-01-14 20:34:17 >> Allocating memory for queue of size 10
+27-01-14 20:35:20 >> 
+27-01-14 20:35:20 >> ******Testing PQueue******
+27-01-14 20:35:20 >> Allocating memory for queue of size 10
+27-01-14 20:36:11 >> 
+27-01-14 20:36:11 >> ******Testing PQueue******
+27-01-14 20:36:12 >> Allocating memory for queue of size 10
+27-01-14 20:37:05 >> 
+27-01-14 20:37:05 >> ******Testing PQueue******
+27-01-14 20:37:05 >> Allocating memory for queue of size 10
+27-01-14 20:37:31 >> Adding valid element with id 1, priority 1
+27-01-14 20:37:31 >> SUCCESS
+27-01-14 20:37:32 >> Destructing queue
+27-01-14 20:37:34 >> PQueue test complete
+27-01-14 20:37:58 >> 
+27-01-14 20:37:58 >> ******Testing PQueue******
+27-01-14 20:37:58 >> Allocating memory for queue of size 10
+27-01-14 20:38:07 >> Adding valid element with id 1, priority 1
+27-01-14 20:38:07 >> SUCCESS
+27-01-14 20:38:11 >> Destructing queue
+27-01-14 20:38:15 >> PQueue test complete
+27-01-14 20:38:41 >> 
+27-01-14 20:38:41 >> ******Testing PQueue******
+27-01-14 20:38:41 >> Allocating memory for queue of size 10
+27-01-14 20:38:49 >> Adding valid element with id 1, priority 1
+27-01-14 20:38:49 >> SUCCESS
+27-01-14 20:40:48 >> Adding valid element with id 2, priority 10
+27-01-14 20:40:48 >> SUCCESS
+27-01-14 20:40:50 >> Destructing queue
+27-01-14 20:40:52 >> PQueue test complete
+27-01-14 20:40:58 >> 
+27-01-14 20:40:58 >> ******Testing PQueue******
+27-01-14 20:40:58 >> Allocating memory for queue of size 10
+27-01-14 20:41:23 >> 
+27-01-14 20:41:24 >> ******Testing PQueue******
+27-01-14 20:41:24 >> Allocating memory for queue of size 10
+27-01-14 20:41:27 >> Adding valid element with id 1, priority 1
+27-01-14 20:41:27 >> SUCCESS
+27-01-14 20:41:27 >> Adding valid element with id 2, priority 10
+27-01-14 20:41:27 >> SUCCESS
+27-01-14 20:41:27 >> Destructing queue
+27-01-14 20:41:27 >> PQueue test complete
+27-01-14 20:41:45 >> 
+27-01-14 20:41:45 >> ******Testing PQueue******
+27-01-14 20:41:45 >> Allocating memory for queue of size 10
+27-01-14 20:43:16 >> 
+27-01-14 20:43:16 >> ******Testing PQueue******
+27-01-14 20:43:17 >> Allocating memory for queue of size 10
+27-01-14 20:43:52 >> 
+27-01-14 20:43:52 >> ******Testing PQueue******
+27-01-14 20:43:52 >> Allocating memory for queue of size 10
+27-01-14 20:44:07 >> 
+27-01-14 20:44:07 >> ******Testing PQueue******
+27-01-14 20:44:07 >> Allocating memory for queue of size 10
+27-01-14 20:44:29 >> 
+27-01-14 20:44:29 >> ******Testing PQueue******
+27-01-14 20:44:29 >> Allocating memory for queue of size 10
+27-01-14 20:45:00 >> Adding valid element with id 1, priority 1
+27-01-14 20:45:00 >> SUCCESS
+27-01-14 20:45:25 >> Adding valid element with id 2, priority 10
+27-01-14 20:45:25 >> SUCCESS
+27-01-14 20:45:29 >> Destructing queue
+27-01-14 20:45:30 >> PQueue test complete
+27-01-14 20:45:41 >> 
+27-01-14 20:45:41 >> ******Testing PQueue******
+27-01-14 20:45:41 >> Allocating memory for queue of size 10
+27-01-14 20:46:46 >> 
+27-01-14 20:46:46 >> ******Testing PQueue******
+27-01-14 20:46:46 >> Allocating memory for queue of size 10
+27-01-14 20:46:46 >> Adding valid element with id 1, priority 1
+27-01-14 20:46:46 >> SUCCESS
+27-01-14 20:46:46 >> Destructing queue
+27-01-14 20:46:46 >> PQueue test complete
+27-01-14 20:46:53 >> 
+27-01-14 20:46:53 >> ******Testing PQueue******
+27-01-14 20:46:53 >> Allocating memory for queue of size 10
+27-01-14 20:46:53 >> Adding valid element with id 1, priority 1
+27-01-14 20:46:53 >> SUCCESS
+27-01-14 20:46:53 >> Destructing queue
+27-01-14 20:46:53 >> PQueue test complete
+27-01-14 20:46:55 >> 
+27-01-14 20:46:55 >> ******Testing PQueue******
+27-01-14 20:46:55 >> Allocating memory for queue of size 10
+27-01-14 20:46:55 >> Adding valid element with id 1, priority 1
+27-01-14 20:46:55 >> SUCCESS
+27-01-14 20:46:55 >> Destructing queue
+27-01-14 20:46:55 >> PQueue test complete
+27-01-14 20:46:56 >> 
+27-01-14 20:46:56 >> ******Testing PQueue******
+27-01-14 20:46:56 >> Allocating memory for queue of size 10
+27-01-14 20:46:56 >> Adding valid element with id 1, priority 1
+27-01-14 20:46:56 >> SUCCESS
+27-01-14 20:46:56 >> Destructing queue
+27-01-14 20:46:56 >> PQueue test complete
+27-01-14 20:46:57 >> 
+27-01-14 20:46:57 >> ******Testing PQueue******
+27-01-14 20:46:57 >> Allocating memory for queue of size 10
+27-01-14 20:46:57 >> Adding valid element with id 1, priority 1
+27-01-14 20:46:57 >> SUCCESS
+27-01-14 20:46:57 >> Destructing queue
+27-01-14 20:46:57 >> PQueue test complete
+27-01-14 20:46:58 >> 
+27-01-14 20:46:58 >> ******Testing PQueue******
+27-01-14 20:46:58 >> Allocating memory for queue of size 10
+27-01-14 20:46:58 >> Adding valid element with id 1, priority 1
+27-01-14 20:46:58 >> SUCCESS
+27-01-14 20:46:58 >> Destructing queue
+27-01-14 20:46:58 >> PQueue test complete
+27-01-14 20:47:15 >> 
+27-01-14 20:47:15 >> ******Testing PQueue******
+27-01-14 20:47:15 >> Allocating memory for queue of size 10
+27-01-14 20:47:15 >> Adding valid element with id 1, priority 1
+27-01-14 20:47:15 >> SUCCESS
+27-01-14 20:47:15 >> Adding valid element with id 2, priority 10
+27-01-14 20:47:15 >> SUCCESS
+27-01-14 20:47:15 >> Destructing queue
+27-01-14 20:47:15 >> PQueue test complete
+27-01-14 20:47:34 >> 
+27-01-14 20:47:34 >> ******Testing PQueue******
+27-01-14 20:47:34 >> Allocating memory for queue of size 10
+27-01-14 20:47:34 >> Adding valid element with id 1, priority 1
+27-01-14 20:47:34 >> SUCCESS
+27-01-14 20:47:34 >> Adding valid element with id 2, priority 10
+27-01-14 20:47:34 >> SUCCESS
+27-01-14 20:47:34 >> Adding valid element with id 3, priority 5
+27-01-14 20:47:34 >> SUCCESS
+27-01-14 20:47:34 >> Destructing queue
+27-01-14 20:47:34 >> PQueue test complete
+27-01-14 20:49:21 >> 
+27-01-14 20:49:21 >> ******Testing PQueue******
+27-01-14 20:49:21 >> Allocating memory for queue of size 10
+27-01-14 20:49:21 >> Adding valid element with id 1, priority 1
+27-01-14 20:49:21 >> SUCCESS
+27-01-14 20:49:21 >> Peek should be 1
+27-01-14 20:49:21 >> SUCCESS
+27-01-14 20:49:21 >> Adding valid element with id 2, priority 10
+27-01-14 20:49:21 >> SUCCESS
+27-01-14 20:49:21 >> Peek should be 10
+27-01-14 20:49:21 >> SUCCESS
+27-01-14 20:49:21 >> Adding valid element with id 3, priority 5
+27-01-14 20:49:21 >> SUCCESS
+27-01-14 20:49:21 >> Peek should be 10
+27-01-14 20:49:21 >> SUCCESS
+27-01-14 20:49:21 >> Destructing queue
+27-01-14 20:49:21 >> PQueue test complete
+27-01-14 20:50:23 >> 
+27-01-14 20:50:23 >> ******Testing PQueue******
+27-01-14 20:50:23 >> Allocating memory for queue of size 10
+27-01-14 20:50:23 >> Adding valid element with id 1, priority 1
+27-01-14 20:50:23 >> SUCCESS
+27-01-14 20:50:23 >> Peek should be 1
+27-01-14 20:50:23 >> SUCCESS
+27-01-14 20:50:23 >> Peek should NOT be 2
+27-01-14 20:50:23 >> FAILED
+27-01-14 20:50:23 >> QUITTING
+27-01-14 20:50:23 >> Destructing queue
+27-01-14 20:50:23 >> PQueue test complete
+27-01-14 20:51:49 >> 
+27-01-14 20:51:49 >> ******Testing PQueue******
+27-01-14 20:51:49 >> Allocating memory for queue of size 10
+27-01-14 20:51:49 >> Adding valid element with id 1, priority 1
+27-01-14 20:51:49 >> SUCCESS
+27-01-14 20:51:49 >> Peek should be 1
+27-01-14 20:51:49 >> SUCCESS
+27-01-14 20:51:49 >> Peek should NOT be 2
+27-01-14 20:51:49 >> FAILED
+27-01-14 20:51:49 >> QUITTING
+27-01-14 20:51:49 >> Destructing queue
+27-01-14 20:51:49 >> PQueue test complete
+27-01-14 20:52:12 >> 
+27-01-14 20:52:12 >> ******Testing PQueue******
+27-01-14 20:52:12 >> Allocating memory for queue of size 10
+27-01-14 20:52:12 >> Adding valid element with id 1, priority 1
+27-01-14 20:52:12 >> SUCCESS
+27-01-14 20:52:12 >> Peek should be 1
+27-01-14 20:52:12 >> SUCCESS
+27-01-14 20:52:12 >> Peek should NOT be 2
+27-01-14 20:52:12 >> SUCCESS
+27-01-14 20:52:12 >> Adding valid element with id 2, priority 10
+27-01-14 20:52:12 >> SUCCESS
+27-01-14 20:52:12 >> Peek should be 2
+27-01-14 20:52:12 >> FAILED
+27-01-14 20:52:12 >> QUITTING
+27-01-14 20:52:12 >> Destructing queue
+27-01-14 20:52:12 >> PQueue test complete
+27-01-14 20:54:59 >> 
+27-01-14 20:54:59 >> ******Testing PQueue******
+27-01-14 20:54:59 >> Allocating memory for queue of size 10
+27-01-14 20:55:10 >> 
+27-01-14 20:55:10 >> ******Testing PQueue******
+27-01-14 20:55:10 >> Allocating memory for queue of size 10
+27-01-14 20:55:55 >> 
+27-01-14 20:55:55 >> ******Testing PQueue******
+27-01-14 20:55:55 >> Allocating memory for queue of size 10
+27-01-14 20:56:01 >> 
+27-01-14 20:56:01 >> Adding valid element with id 1, priority 1
+27-01-14 20:56:01 >> SUCCESS
+27-01-14 20:56:01 >> 
+27-01-14 20:56:01 >> Peek should be 1
+27-01-14 20:56:01 >> SUCCESS
+27-01-14 20:56:02 >> 
+27-01-14 20:56:02 >> Peek should NOT be 2
+27-01-14 20:56:02 >> SUCCESS
+27-01-14 20:57:01 >> 
+27-01-14 20:57:01 >> ******Testing PQueue******
+27-01-14 20:57:01 >> Allocating memory for queue of size 10
+27-01-14 20:57:14 >> 
+27-01-14 20:57:14 >> ******Testing PQueue******
+27-01-14 20:57:14 >> Allocating memory for queue of size 10
+27-01-14 21:00:09 >> 
+27-01-14 21:00:09 >> ******Testing PQueue******
+27-01-14 21:00:09 >> Allocating memory for queue of size 10
+27-01-14 21:00:09 >> 
+27-01-14 21:00:09 >> Adding valid element with id 1, priority 1
+27-01-14 21:00:09 >> SUCCESS
+27-01-14 21:00:09 >> 
+27-01-14 21:00:10 >> Peek should be 1
+27-01-14 21:00:10 >> SUCCESS
+27-01-14 21:00:10 >> 
+27-01-14 21:00:10 >> Peek should NOT be 2
+27-01-14 21:00:10 >> SUCCESS
+27-01-14 21:00:10 >> 
+27-01-14 21:00:10 >> Adding valid element with id 2, priority 10
+27-01-14 21:00:10 >> SUCCESS
+27-01-14 21:00:10 >> 
+27-01-14 21:00:10 >> Peek should be 2
+27-01-14 21:00:10 >> SUCCESS
+27-01-14 21:00:10 >> 
+27-01-14 21:00:10 >> Adding valid element with id 3, priority 5
+27-01-14 21:00:10 >> SUCCESS
+27-01-14 21:00:10 >> 
+27-01-14 21:00:10 >> Peek should be 10
+27-01-14 21:00:10 >> SUCCESS
+27-01-14 21:00:10 >> Destructing queue
+27-01-14 21:00:10 >> PQueue test complete
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> ******Testing PQueue******
+27-01-14 21:02:03 >> Allocating memory for queue of size 10
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Adding valid element with id 1, priority 1
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Peek should be 1
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Peek should NOT be 2
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Adding valid element with id 2, priority 10
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Peek should be 2
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Peek should NOT be 1
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Adding valid element with id 3, priority 5
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> 
+27-01-14 21:02:03 >> Peek should be 2
+27-01-14 21:02:03 >> SUCCESS
+27-01-14 21:02:03 >> Destructing queue
+27-01-14 21:02:03 >> PQueue test complete
+
+27-01-14 21:04:24 >> ******Testing PQueue******
+27-01-14 21:04:24 >> Allocating memory for queue of size 10
+
+27-01-14 21:04:24 >> Adding valid element with id 1, priority 1
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Peek should be 1
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Peek should NOT be 2
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Adding valid element with id 2, priority 10
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Peek should be 2
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Peek should NOT be 1
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Adding valid element with id 3, priority 5
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Peek should be 2
+27-01-14 21:04:24 >> SUCCESS
+
+27-01-14 21:04:24 >> Destructing queue
+27-01-14 21:04:24 >> PQueue test complete
+
+27-01-14 21:25:21 >> ******Testing PQueue******
+27-01-14 21:25:21 >> Allocating memory for queue of size 10
+
+27-01-14 21:25:22 >> Adding valid element with id 1, priority 1
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:25:22 >> Peek should be 1
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:25:22 >> Peek should NOT be 2
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:25:22 >> Adding valid element with id 2, priority 10
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:25:22 >> Peek should be 2
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:25:22 >> Peek should NOT be 1
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:25:22 >> Adding valid element with id 3, priority 5
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:25:22 >> Peek should be 2
+27-01-14 21:25:22 >> SUCCESS
+
+27-01-14 21:39:00 >> ******Testing PQueue******
+27-01-14 21:39:00 >> Allocating memory for queue of size 10
+
+27-01-14 21:39:00 >> Adding valid element with id 1, priority 1
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Peek should be 1
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Peek should NOT be 2
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Adding valid element with id 2, priority 10
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Peek should be 2
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Peek should NOT be 1
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Adding valid element with id 3, priority 5
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Peek should be 2
+27-01-14 21:39:00 >> SUCCESS
+
+27-01-14 21:39:00 >> Popping top of queue
+27-01-14 21:39:00 >> FAILED
+27-01-14 21:39:00 >> QUITTING
+
+27-01-14 21:39:00 >> Destructing queue
+27-01-14 21:39:00 >> PQueue test complete
+
+28-01-14 00:00:56 >> ******Testing PQueue******
+28-01-14 00:00:56 >> Allocating memory for queue of size 10
+
+28-01-14 00:00:56 >> Adding valid element with id 1, priority 1
+28-01-14 00:00:56 >> SUCCESS
+
+28-01-14 00:00:56 >> Peek should be 1
+28-01-14 00:00:57 >> SUCCESS
+
+28-01-14 00:00:57 >> Peek should NOT be 2
+28-01-14 00:00:57 >> SUCCESS
+
+28-01-14 00:00:57 >> Adding valid element with id 2, priority 10
+28-01-14 00:00:57 >> SUCCESS
+
+28-01-14 00:00:57 >> Peek should be 2
+28-01-14 00:00:57 >> SUCCESS
+
+28-01-14 00:00:57 >> Peek should NOT be 1
+28-01-14 00:00:57 >> SUCCESS
+
+28-01-14 00:00:57 >> Adding valid element with id 3, priority 5
+28-01-14 00:00:57 >> SUCCESS
+
+28-01-14 00:00:57 >> Peek should be 2
+28-01-14 00:00:57 >> SUCCESS
+
+28-01-14 00:00:57 >> Popping top of queue
+28-01-14 00:00:57 >> FAILED
+28-01-14 00:00:57 >> QUITTING
+
+28-01-14 00:00:57 >> Destructing queue
+28-01-14 00:00:57 >> PQueue test complete
+
+28-01-14 00:02:41 >> ******Testing PQueue******
+28-01-14 00:02:41 >> Allocating memory for queue of size 10
+
+28-01-14 00:02:41 >> Adding valid element with id 1, priority 1
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:02:41 >> Peek should be 1
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:02:41 >> Peek should NOT be 2
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:02:41 >> Adding valid element with id 2, priority 10
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:02:41 >> Peek should be 2
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:02:41 >> Peek should NOT be 1
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:02:41 >> Adding valid element with id 3, priority 5
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:02:41 >> Peek should be 2
+28-01-14 00:02:41 >> SUCCESS
+
+28-01-14 00:05:21 >> ******Testing PQueue******
+28-01-14 00:05:21 >> Allocating memory for queue of size 10
+
+28-01-14 00:05:21 >> Adding valid element with id 1, priority 1
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Peek should be 1
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Peek should NOT be 2
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Adding valid element with id 2, priority 10
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Peek should be 2
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Peek should NOT be 1
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Adding valid element with id 3, priority 5
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Peek should be 2
+28-01-14 00:05:21 >> SUCCESS
+
+28-01-14 00:05:21 >> Popping top of queue
+28-01-14 00:05:21 >> FAILED
+28-01-14 00:05:21 >> QUITTING
+
+28-01-14 00:05:21 >> Destructing queue
+28-01-14 00:05:21 >> PQueue test complete
+
+28-01-14 00:05:54 >> ******Testing PQueue******
+28-01-14 00:05:54 >> Allocating memory for queue of size 10
+
+28-01-14 00:05:54 >> Adding valid element with id 1, priority 1
+28-01-14 00:05:54 >> SUCCESS
+
+28-01-14 00:05:54 >> Peek should be 1
+28-01-14 00:05:54 >> SUCCESS
+
+28-01-14 00:05:54 >> Peek should NOT be 2
+28-01-14 00:05:54 >> SUCCESS
+
+28-01-14 00:05:54 >> Adding valid element with id 2, priority 10
+28-01-14 00:05:54 >> SUCCESS
+
+28-01-14 00:05:55 >> Peek should be 2
+28-01-14 00:05:55 >> SUCCESS
+
+28-01-14 00:05:55 >> Peek should NOT be 1
+28-01-14 00:05:55 >> SUCCESS
+
+28-01-14 00:05:55 >> Adding valid element with id 3, priority 5
+28-01-14 00:05:55 >> SUCCESS
+
+28-01-14 00:05:55 >> Peek should be 2
+28-01-14 00:05:55 >> SUCCESS
+
+28-01-14 00:05:55 >> Popping top of queue
+28-01-14 00:05:55 >> SUCCESS
+
+28-01-14 00:05:55 >> Peek should be 3
+28-01-14 00:05:55 >> SUCCESS
+
+28-01-14 00:05:55 >> Destructing queue
+28-01-14 00:05:55 >> PQueue test complete
+
+28-01-14 00:20:13 >> ******Testing PQueue******
+28-01-14 00:20:13 >> Allocating memory for queue of size 3
+
+28-01-14 00:20:13 >> Adding valid element with id 1, priority 1
+28-01-14 00:20:13 >> SUCCESS
+
+28-01-14 00:20:13 >> Peek should be 1
+28-01-14 00:20:13 >> SUCCESS
+
+28-01-14 00:20:13 >> Peek should NOT be 2
+28-01-14 00:20:13 >> SUCCESS
+
+28-01-14 00:20:13 >> Adding valid element with id 2, priority 10
+28-01-14 00:20:13 >> SUCCESS
+
+28-01-14 00:20:13 >> Peek should be 2
+28-01-14 00:20:13 >> SUCCESS
+
+28-01-14 00:20:13 >> Peek should NOT be 1
+28-01-14 00:20:13 >> SUCCESS
+
+28-01-14 00:20:13 >> Adding valid element with id 3, priority 5
+28-01-14 00:20:13 >> FAILED
+28-01-14 00:20:13 >> QUITTING
+
+28-01-14 00:20:13 >> Destructing queue
+28-01-14 00:20:13 >> PQueue test complete
+
+28-01-14 00:22:12 >> ******Testing PQueue******
+28-01-14 00:22:12 >> Allocating memory for queue of size 3
+
+28-01-14 00:22:12 >> Adding valid element with id 1, priority 1
+28-01-14 00:22:12 >> SUCCESS
+
+28-01-14 00:22:12 >> Peek should be 1
+28-01-14 00:22:12 >> SUCCESS
+
+28-01-14 00:22:37 >> ******Testing PQueue******
+28-01-14 00:22:37 >> Allocating memory for queue of size 3
+
+28-01-14 00:22:37 >> Adding valid element with id 1, priority 1
+28-01-14 00:22:37 >> SUCCESS
+
+28-01-14 00:22:37 >> Peek should be 1
+28-01-14 00:22:37 >> SUCCESS
+
+28-01-14 00:22:37 >> Peek should NOT be 2
+28-01-14 00:22:37 >> SUCCESS
+
+28-01-14 00:22:37 >> Adding valid element with id 2, priority 10
+28-01-14 00:22:37 >> SUCCESS
+
+28-01-14 00:22:37 >> Peek should be 2
+28-01-14 00:22:37 >> SUCCESS
+
+28-01-14 00:22:37 >> Peek should NOT be 1
+28-01-14 00:22:37 >> SUCCESS
+
+28-01-14 00:23:05 >> Adding valid element with id 3, priority 5
+28-01-14 00:23:05 >> FAILED
+28-01-14 00:23:05 >> QUITTING
+
+28-01-14 00:23:05 >> Destructing queue
+28-01-14 00:23:05 >> PQueue test complete
+
+28-01-14 00:23:39 >> ******Testing PQueue******
+28-01-14 00:23:39 >> Allocating memory for queue of size 3
+
+28-01-14 00:23:39 >> Adding valid element with id 1, priority 1
+28-01-14 00:23:39 >> SUCCESS
+
+28-01-14 00:23:39 >> Peek should be 1
+28-01-14 00:23:39 >> SUCCESS
+
+28-01-14 00:23:39 >> Peek should NOT be 2
+28-01-14 00:23:39 >> SUCCESS
+
+28-01-14 00:23:39 >> Adding valid element with id 2, priority 10
+28-01-14 00:23:39 >> SUCCESS
+
+28-01-14 00:23:39 >> Peek should be 2
+28-01-14 00:23:39 >> SUCCESS
+
+28-01-14 00:23:39 >> Peek should NOT be 1
+28-01-14 00:23:39 >> SUCCESS
+
+28-01-14 00:23:59 >> ******Testing PQueue******
+28-01-14 00:23:59 >> Allocating memory for queue of size 3
+
+28-01-14 00:23:59 >> Adding valid element with id 1, priority 1
+28-01-14 00:23:59 >> SUCCESS
+
+28-01-14 00:23:59 >> Peek should be 1
+28-01-14 00:23:59 >> SUCCESS
+
+28-01-14 00:23:59 >> Peek should NOT be 2
+28-01-14 00:23:59 >> SUCCESS
+
+28-01-14 00:23:59 >> Adding valid element with id 2, priority 10
+28-01-14 00:23:59 >> SUCCESS
+
+28-01-14 00:23:59 >> Peek should be 2
+28-01-14 00:23:59 >> SUCCESS
+
+28-01-14 00:23:59 >> Peek should NOT be 1
+28-01-14 00:23:59 >> SUCCESS
+
+28-01-14 00:26:46 >> ******Testing PQueue******
+28-01-14 00:26:46 >> Allocating memory for queue of size 3
+
+28-01-14 00:26:46 >> Adding valid element with id 1, priority 1
+28-01-14 00:26:46 >> SUCCESS
+
+28-01-14 00:26:46 >> Peek should be 1
+28-01-14 00:26:46 >> SUCCESS
+
+28-01-14 00:26:46 >> Peek should NOT be 2
+28-01-14 00:26:46 >> SUCCESS
+
+28-01-14 00:26:47 >> Adding valid element with id 2, priority 10
+28-01-14 00:26:47 >> SUCCESS
+
+28-01-14 00:26:47 >> Peek should be 2
+28-01-14 00:26:47 >> SUCCESS
+
+28-01-14 00:26:47 >> Peek should NOT be 1
+28-01-14 00:26:47 >> SUCCESS
+
+28-01-14 00:35:16 >> ******Testing PQueue******
+28-01-14 00:35:16 >> Allocating memory for queue of size 3
+
+28-01-14 00:35:16 >> Adding valid element with id 1, priority 1
+28-01-14 00:35:16 >> SUCCESS
+
+28-01-14 00:35:16 >> Peek should be 1
+28-01-14 00:35:16 >> SUCCESS
+
+28-01-14 00:35:16 >> Peek should NOT be 2
+28-01-14 00:35:16 >> SUCCESS
+
+28-01-14 00:35:16 >> Adding valid element with id 2, priority 10
+28-01-14 00:35:16 >> SUCCESS
+
+28-01-14 00:35:16 >> Peek should be 2
+28-01-14 00:35:16 >> SUCCESS
+
+28-01-14 00:35:16 >> Peek should NOT be 1
+28-01-14 00:35:16 >> SUCCESS
+
+28-01-14 00:35:22 >> Adding valid element with id 3, priority 5
+28-01-14 00:35:22 >> SUCCESS
+
+28-01-14 00:35:22 >> Peek should be 2
+28-01-14 00:35:22 >> SUCCESS
+
+28-01-14 00:37:37 >> ******Testing PQueue******
+28-01-14 00:37:37 >> Allocating memory for queue of size 3
+
+28-01-14 00:37:37 >> Adding valid element with id 1, priority 1
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:37:37 >> Peek should be 1
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:37:37 >> Peek should NOT be 2
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:37:37 >> Adding valid element with id 2, priority 10
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:37:37 >> Peek should be 2
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:37:37 >> Peek should NOT be 1
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:37:37 >> Adding valid element with id 3, priority 5
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:37:37 >> Peek should be 2
+28-01-14 00:37:37 >> SUCCESS
+
+28-01-14 00:40:53 >> ******Testing PQueue******
+28-01-14 00:40:53 >> Allocating memory for queue of size 3
+
+28-01-14 00:40:53 >> Adding valid element with id 1, priority 1
+28-01-14 00:40:53 >> SUCCESS
+
+28-01-14 00:40:53 >> Peek should be 1
+28-01-14 00:40:53 >> SUCCESS
+
+28-01-14 00:40:53 >> Peek should NOT be 2
+28-01-14 00:40:53 >> SUCCESS
+
+28-01-14 00:40:53 >> Adding valid element with id 2, priority 10
+28-01-14 00:40:53 >> SUCCESS
+
+28-01-14 00:40:53 >> Peek should be 2
+28-01-14 00:40:53 >> SUCCESS
+
+28-01-14 00:40:54 >> Peek should NOT be 1
+28-01-14 00:40:54 >> SUCCESS
+
+28-01-14 00:40:54 >> Adding valid element with id 3, priority 5
+28-01-14 00:40:54 >> SUCCESS
+
+28-01-14 00:40:54 >> Peek should be 2
+28-01-14 00:40:54 >> SUCCESS
+
+28-01-14 00:40:54 >> Destructing queue
+28-01-14 00:40:54 >> PQueue test complete
+
+28-01-14 00:41:09 >> ******Testing PQueue******
+28-01-14 00:41:09 >> Allocating memory for queue of size 3
+
+28-01-14 00:41:09 >> Adding valid element with id 1, priority 1
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:41:09 >> Peek should be 1
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:41:09 >> Peek should NOT be 2
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:41:09 >> Adding valid element with id 2, priority 10
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:41:09 >> Peek should be 2
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:41:09 >> Peek should NOT be 1
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:41:09 >> Adding valid element with id 3, priority 5
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:41:09 >> Peek should be 2
+28-01-14 00:41:09 >> SUCCESS
+
+28-01-14 00:43:41 >> ******Testing PQueue******
+28-01-14 00:43:41 >> Allocating memory for queue of size 3
+
+28-01-14 00:43:41 >> Adding valid element with id 1, priority 1
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:43:41 >> Peek should be 1
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:43:41 >> Peek should NOT be 2
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:43:41 >> Adding valid element with id 2, priority 10
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:43:41 >> Peek should be 2
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:43:41 >> Peek should NOT be 1
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:43:41 >> Adding valid element with id 3, priority 5
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:43:41 >> Peek should be 2
+28-01-14 00:43:41 >> SUCCESS
+
+28-01-14 00:44:12 >> ******Testing PQueue******
+28-01-14 00:44:12 >> Allocating memory for queue of size 3
+
+28-01-14 00:44:12 >> Adding valid element with id 1, priority 1
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:44:12 >> Peek should be 1
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:44:12 >> Peek should NOT be 2
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:44:12 >> Adding valid element with id 2, priority 10
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:44:12 >> Peek should be 2
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:44:12 >> Peek should NOT be 1
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:44:12 >> Adding valid element with id 3, priority 5
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:44:12 >> Peek should be 2
+28-01-14 00:44:12 >> SUCCESS
+
+28-01-14 00:45:14 >> ******Testing PQueue******
+28-01-14 00:45:14 >> Allocating memory for queue of size 3
+
+28-01-14 00:45:14 >> Adding valid element with id 1, priority 1
+28-01-14 00:45:14 >> SUCCESS
+
+28-01-14 00:45:14 >> Peek should be 1
+28-01-14 00:45:14 >> SUCCESS
+
+28-01-14 00:45:15 >> Peek should NOT be 2
+28-01-14 00:45:15 >> SUCCESS
+
+28-01-14 00:45:15 >> Adding valid element with id 2, priority 10
+28-01-14 00:45:15 >> SUCCESS
+
+28-01-14 00:45:15 >> Peek should be 2
+28-01-14 00:45:15 >> SUCCESS
+
+28-01-14 00:45:15 >> Peek should NOT be 1
+28-01-14 00:45:15 >> SUCCESS
+
+28-01-14 00:45:15 >> Adding valid element with id 3, priority 5
+28-01-14 00:45:15 >> SUCCESS
+
+28-01-14 00:45:15 >> Peek should be 2
+28-01-14 00:45:15 >> SUCCESS
+
+28-01-14 00:46:03 >> ******Testing PQueue******
+28-01-14 00:46:03 >> Allocating memory for queue of size 3
+
+28-01-14 00:46:03 >> Adding valid element with id 1, priority 1
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Peek should be 1
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Peek should NOT be 2
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Adding valid element with id 2, priority 10
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Peek should be 2
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Peek should NOT be 1
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Adding valid element with id 3, priority 5
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Peek should be 2
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Popping top of queue
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Peek should be 3
+28-01-14 00:46:03 >> SUCCESS
+
+28-01-14 00:46:03 >> Destructing queue
+28-01-14 00:46:03 >> PQueue test complete
+
+28-01-14 00:46:28 >> ******Testing PQueue******
+28-01-14 00:46:28 >> Allocating memory for queue of size 3
+
+28-01-14 00:46:28 >> Adding valid element with id 1, priority 1
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Peek should be 1
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Peek should NOT be 2
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Adding valid element with id 2, priority 10
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Peek should be 2
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Peek should NOT be 1
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Adding valid element with id 3, priority 5
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Peek should be 2
+28-01-14 00:46:28 >> SUCCESS
+
+28-01-14 00:46:28 >> Popping top of queue
+28-01-14 00:46:29 >> SUCCESS
+
+28-01-14 00:46:29 >> Peek should be 3
+28-01-14 00:46:29 >> SUCCESS
+
+28-01-14 00:46:29 >> Popping tid 1
+28-01-14 00:46:29 >> FAILED
+28-01-14 00:46:29 >> QUITTING
+
+28-01-14 00:46:29 >> Destructing queue
+28-01-14 00:46:29 >> PQueue test complete
+
+28-01-14 00:47:51 >> ******Testing PQueue******
+28-01-14 00:47:51 >> Allocating memory for queue of size 3
+
+28-01-14 00:47:51 >> Adding valid element with id 1, priority 1
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Peek should be 1
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Peek should NOT be 2
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Adding valid element with id 2, priority 10
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Peek should be 2
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Peek should NOT be 1
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Adding valid element with id 3, priority 5
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Peek should be 2
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Popping top of queue
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Peek should be 3
+28-01-14 00:47:51 >> SUCCESS
+
+28-01-14 00:47:51 >> Popping tid 1
+28-01-14 00:47:51 >> FAILED
+28-01-14 00:47:51 >> QUITTING
+
+28-01-14 00:47:51 >> Destructing queue
+28-01-14 00:47:51 >> PQueue test complete
+
+28-01-14 00:49:10 >> ******Testing PQueue******
+28-01-14 00:49:10 >> Allocating memory for queue of size 3
+
+28-01-14 00:49:10 >> Adding valid element with id 1, priority 1
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Peek should be 1
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Peek should NOT be 2
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Adding valid element with id 2, priority 10
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Peek should be 2
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Peek should NOT be 1
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Adding valid element with id 3, priority 5
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Peek should be 2
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Popping top of queue
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Peek should be 3
+28-01-14 00:49:10 >> SUCCESS
+
+28-01-14 00:49:10 >> Popping tid 1
+28-01-14 00:49:10 >> FAILED
+28-01-14 00:49:10 >> QUITTING
+
+28-01-14 00:49:10 >> Destructing queue
+28-01-14 00:49:10 >> PQueue test complete
+
+28-01-14 00:49:24 >> ******Testing PQueue******
+28-01-14 00:49:24 >> Allocating memory for queue of size 3
+
+28-01-14 00:49:24 >> Adding valid element with id 1, priority 1
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Peek should be 1
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Peek should NOT be 2
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Adding valid element with id 2, priority 10
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Peek should be 2
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Peek should NOT be 1
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Adding valid element with id 3, priority 5
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Peek should be 2
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Popping top of queue
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Peek should be 3
+28-01-14 00:49:24 >> SUCCESS
+
+28-01-14 00:49:24 >> Popping tid 1
+28-01-14 00:49:24 >> FAILED
+28-01-14 00:49:24 >> QUITTING
+
+28-01-14 00:49:24 >> Destructing queue
+28-01-14 00:49:24 >> PQueue test complete
+
+28-01-14 00:49:48 >> ******Testing PQueue******
+28-01-14 00:49:48 >> Allocating memory for queue of size 3
+
+28-01-14 00:49:48 >> Adding valid element with id 1, priority 1
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Peek should be 1
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Peek should NOT be 2
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Adding valid element with id 2, priority 10
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Peek should be 2
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Peek should NOT be 1
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Adding valid element with id 3, priority 5
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Peek should be 2
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Popping top of queue
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Peek should be 3
+28-01-14 00:49:48 >> SUCCESS
+
+28-01-14 00:49:48 >> Popping tid 1
+28-01-14 00:49:48 >> FAILED
+28-01-14 00:49:48 >> QUITTING
+
+28-01-14 00:49:48 >> Destructing queue
+28-01-14 00:49:48 >> PQueue test complete
+
+28-01-14 00:50:31 >> ******Testing PQueue******
+28-01-14 00:50:31 >> Allocating memory for queue of size 3
+
+28-01-14 00:50:31 >> Adding valid element with id 1, priority 1
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Peek should be 1
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Peek should NOT be 2
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Adding valid element with id 2, priority 10
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Peek should be 2
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Peek should NOT be 1
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Adding valid element with id 3, priority 5
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Peek should be 2
+28-01-14 00:50:32 >> SUCCESS
+
+28-01-14 00:50:32 >> Popping top of queue
+28-01-14 00:50:33 >> SUCCESS
+
+28-01-14 00:50:33 >> Peek should be 3
+28-01-14 00:50:33 >> SUCCESS
+
+28-01-14 00:50:33 >> Popping tid 1
+28-01-14 00:50:33 >> FAILED
+28-01-14 00:50:33 >> QUITTING
+
+28-01-14 00:50:33 >> Destructing queue
+28-01-14 00:50:33 >> PQueue test complete
+
+28-01-14 00:50:57 >> ******Testing PQueue******
+28-01-14 00:50:57 >> Allocating memory for queue of size 3
+
+28-01-14 00:50:57 >> Adding valid element with id 1, priority 1
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Peek should be 1
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Peek should NOT be 2
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Adding valid element with id 2, priority 10
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Peek should be 2
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Peek should NOT be 1
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Adding valid element with id 3, priority 5
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Peek should be 2
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Popping top of queue
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Peek should be 3
+28-01-14 00:50:57 >> SUCCESS
+
+28-01-14 00:50:57 >> Popping tid 1
+28-01-14 00:50:57 >> FAILED
+28-01-14 00:50:57 >> QUITTING
+
+28-01-14 00:50:57 >> Destructing queue
+28-01-14 00:50:57 >> PQueue test complete
+
+28-01-14 00:51:19 >> ******Testing PQueue******
+28-01-14 00:51:19 >> Allocating memory for queue of size 3
+
+28-01-14 00:51:19 >> Adding valid element with id 1, priority 1
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Peek should be 1
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Peek should NOT be 2
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Adding valid element with id 2, priority 10
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Peek should be 2
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Peek should NOT be 1
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Adding valid element with id 3, priority 5
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Peek should be 2
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Popping top of queue
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Peek should be 3
+28-01-14 00:51:19 >> SUCCESS
+
+28-01-14 00:51:19 >> Popping tid 1
+28-01-14 00:51:19 >> FAILED
+28-01-14 00:51:19 >> QUITTING
+
+28-01-14 00:51:19 >> Destructing queue
+28-01-14 00:51:19 >> PQueue test complete
+
+28-01-14 00:53:16 >> ******Testing PQueue******
+28-01-14 00:53:16 >> Allocating memory for queue of size 3
+
+28-01-14 00:53:16 >> Adding valid element with id 1, priority 1
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Peek should be 1
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Peek should NOT be 2
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Adding valid element with id 2, priority 10
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Peek should be 2
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Peek should NOT be 1
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Adding valid element with id 3, priority 5
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Peek should be 2
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Popping top of queue
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Peek should be 3
+28-01-14 00:53:16 >> SUCCESS
+
+28-01-14 00:53:16 >> Popping tid 1
+28-01-14 00:53:16 >> FAILED
+28-01-14 00:53:16 >> QUITTING
+
+28-01-14 00:53:16 >> Destructing queue
+28-01-14 00:53:16 >> PQueue test complete
+
+28-01-14 00:58:42 >> ******Testing PQueue******
+28-01-14 00:58:42 >> Allocating memory for queue of size 3
+
+28-01-14 00:58:42 >> Adding valid element with id 1, priority 1
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Peek should be 1
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Peek should NOT be 2
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Adding valid element with id 2, priority 10
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Peek should be 2
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Peek should NOT be 1
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Adding valid element with id 3, priority 5
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Peek should be 2
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Popping top of queue
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Peek should be 3
+28-01-14 00:58:42 >> SUCCESS
+
+28-01-14 00:58:42 >> Popping tid 1
+28-01-14 00:58:42 >> FAILED
+28-01-14 00:58:42 >> QUITTING
+
+28-01-14 00:58:42 >> Destructing queue
+28-01-14 00:58:42 >> PQueue test complete
+
+28-01-14 01:00:02 >> ******Testing PQueue******
+28-01-14 01:00:02 >> Allocating memory for queue of size 3
+
+28-01-14 01:00:02 >> Adding valid element with id 1, priority 1
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Peek should be 1
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Peek should NOT be 2
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Adding valid element with id 2, priority 10
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Peek should be 2
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Peek should NOT be 1
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Adding valid element with id 3, priority 5
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Peek should be 2
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Popping top of queue
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Peek should be 3
+28-01-14 01:00:02 >> SUCCESS
+
+28-01-14 01:00:02 >> Popping tid 1
+28-01-14 01:00:02 >> FAILED
+28-01-14 01:00:02 >> QUITTING
+
+28-01-14 01:00:02 >> Destructing queue
+28-01-14 01:00:02 >> PQueue test complete
+
+28-01-14 01:00:08 >> ******Testing PQueue******
+28-01-14 01:00:08 >> Allocating memory for queue of size 3
+
+28-01-14 01:00:08 >> Adding valid element with id 1, priority 1
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Peek should be 1
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Peek should NOT be 2
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Adding valid element with id 2, priority 10
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Peek should be 2
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Peek should NOT be 1
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Adding valid element with id 3, priority 5
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Peek should be 2
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Popping top of queue
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:00:08 >> Peek should be 3
+28-01-14 01:00:08 >> SUCCESS
+
+28-01-14 01:04:03 >> Popping tid 1
+28-01-14 01:04:03 >> FAILED
+28-01-14 01:04:03 >> QUITTING
+
+28-01-14 01:04:03 >> Destructing queue
+28-01-14 01:04:03 >> PQueue test complete
+
+28-01-14 01:07:43 >> ******Testing PQueue******
+28-01-14 01:07:43 >> Allocating memory for queue of size 3
+
+28-01-14 01:07:43 >> Adding valid element with id 1, priority 1
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Peek should be 1
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Peek should NOT be 2
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Adding valid element with id 2, priority 10
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Peek should be 2
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Peek should NOT be 1
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Adding valid element with id 3, priority 5
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Peek should be 2
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Popping top of queue
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Peek should be 3
+28-01-14 01:07:43 >> SUCCESS
+
+28-01-14 01:07:43 >> Popping tid 1
+28-01-14 01:07:43 >> FAILED
+28-01-14 01:07:43 >> QUITTING
+
+28-01-14 01:07:43 >> Destructing queue
+28-01-14 01:07:43 >> PQueue test complete
+
+28-01-14 01:10:39 >> ******Testing PQueue******
+28-01-14 01:10:39 >> Allocating memory for queue of size 3
+
+28-01-14 01:10:39 >> Adding valid element with id 1, priority 1
+28-01-14 01:10:39 >> SUCCESS
+
+28-01-14 01:10:39 >> Peek should be 1
+28-01-14 01:10:39 >> SUCCESS
+
+28-01-14 01:10:40 >> Peek should NOT be 2
+28-01-14 01:10:40 >> SUCCESS
+
+28-01-14 01:10:40 >> Adding valid element with id 2, priority 10
+28-01-14 01:10:40 >> SUCCESS
+
+28-01-14 01:10:40 >> Peek should be 2
+28-01-14 01:10:40 >> SUCCESS
+
+28-01-14 01:10:40 >> Peek should NOT be 1
+28-01-14 01:10:40 >> SUCCESS
+
+28-01-14 01:10:40 >> Adding valid element with id 3, priority 5
+28-01-14 01:10:40 >> SUCCESS
+
+28-01-14 01:10:40 >> Peek should be 2
+28-01-14 01:10:40 >> SUCCESS
+
+28-01-14 01:18:37 >> ******Testing PQueue******
+28-01-14 01:18:37 >> Allocating memory for queue of size 3
+
+28-01-14 01:18:37 >> Adding valid element with id 1, priority 1
+28-01-14 01:18:37 >> SUCCESS
+
+28-01-14 01:18:37 >> Peek should be 1
+28-01-14 01:18:37 >> SUCCESS
+
+28-01-14 01:18:37 >> Peek should NOT be 2
+28-01-14 01:18:37 >> SUCCESS
+
+28-01-14 01:18:37 >> Adding valid element with id 2, priority 10
+28-01-14 01:18:37 >> SUCCESS
+
+28-01-14 01:18:37 >> Peek should be 2
+28-01-14 01:18:37 >> SUCCESS
+
+28-01-14 01:18:37 >> Peek should NOT be 1
+28-01-14 01:18:37 >> SUCCESS
+
+28-01-14 01:19:27 >> ******Testing PQueue******
+28-01-14 01:19:27 >> Allocating memory for queue of size 3
+
+28-01-14 01:19:27 >> Adding valid element with id 1, priority 1
+28-01-14 01:19:27 >> SUCCESS
+
+28-01-14 01:19:27 >> Peek should be 1
+28-01-14 01:19:27 >> SUCCESS
+
+28-01-14 01:19:27 >> Peek should NOT be 2
+28-01-14 01:19:27 >> SUCCESS
+
+28-01-14 01:19:27 >> Adding valid element with id 2, priority 10
+28-01-14 01:19:27 >> SUCCESS
+
+28-01-14 01:19:27 >> Peek should be 2
+28-01-14 01:19:27 >> SUCCESS
+
+28-01-14 01:19:27 >> Peek should NOT be 1
+28-01-14 01:19:27 >> SUCCESS
+
+28-01-14 01:27:05 >> ******Testing PQueue******
+28-01-14 01:27:05 >> Allocating memory for queue of size 3
+
+28-01-14 01:27:05 >> Adding valid element with id 1, priority 1
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Peek should be 1
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Peek should NOT be 2
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Adding valid element with id 2, priority 10
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Peek should be 2
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Peek should NOT be 1
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Adding valid element with id 3, priority 5
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Peek should be 2
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Popping top of queue
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Peek should be 3
+28-01-14 01:27:05 >> SUCCESS
+
+28-01-14 01:27:05 >> Popping tid 1
+28-01-14 01:27:05 >> FAILED
+28-01-14 01:27:05 >> QUITTING
+
+28-01-14 01:27:05 >> Destructing queue
+28-01-14 01:27:05 >> PQueue test complete
+
+28-01-14 01:27:11 >> ******Testing PQueue******
+28-01-14 01:27:11 >> Allocating memory for queue of size 3
+
+28-01-14 01:27:23 >> Adding valid element with id 1, priority 1
+28-01-14 01:27:23 >> SUCCESS
+
+28-01-14 01:27:25 >> Peek should be 1
+28-01-14 01:27:25 >> SUCCESS
+
+28-01-14 01:27:25 >> Peek should NOT be 2
+28-01-14 01:27:25 >> SUCCESS
+
+28-01-14 01:29:42 >> ******Testing PQueue******
+28-01-14 01:29:42 >> Allocating memory for queue of size 3
+
+28-01-14 01:30:09 >> ******Testing PQueue******
+28-01-14 01:30:09 >> Allocating memory for queue of size 3
+
+28-01-14 01:30:18 >> Adding valid element with id 1, priority 1
+28-01-14 01:30:18 >> SUCCESS
+
+28-01-14 01:30:19 >> Peek should be 1
+28-01-14 01:30:19 >> SUCCESS
+
+28-01-14 01:30:20 >> Peek should NOT be 2
+28-01-14 01:30:20 >> SUCCESS
+
+28-01-14 01:30:38 >> Adding valid element with id 2, priority 10
+28-01-14 01:30:38 >> SUCCESS
+
+28-01-14 01:30:38 >> Peek should be 2
+28-01-14 01:30:38 >> SUCCESS
+
+28-01-14 01:30:39 >> Peek should NOT be 1
+28-01-14 01:30:39 >> SUCCESS
+
+28-01-14 01:30:43 >> ******Testing PQueue******
+28-01-14 01:30:43 >> Allocating memory for queue of size 3
+
+28-01-14 01:30:43 >> Adding valid element with id 1, priority 1
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Peek should be 1
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Peek should NOT be 2
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Adding valid element with id 2, priority 10
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Peek should be 2
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Peek should NOT be 1
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Adding valid element with id 3, priority 5
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Peek should be 2
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Popping top of queue
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Peek should be 3
+28-01-14 01:30:43 >> SUCCESS
+
+28-01-14 01:30:43 >> Popping tid 1
+28-01-14 01:30:44 >> SUCCESS
+
+28-01-14 01:30:44 >> Peek should be 3
+28-01-14 01:30:44 >> FAILED
+28-01-14 01:30:44 >> QUITTING
+
+28-01-14 01:30:44 >> Destructing queue
+28-01-14 01:30:44 >> PQueue test complete
+
+28-01-14 01:31:43 >> ******Testing PQueue******
+28-01-14 01:31:43 >> Allocating memory for queue of size 3
+
+28-01-14 01:31:50 >> Adding valid element with id 1, priority 1
+28-01-14 01:31:50 >> SUCCESS
+
+28-01-14 01:31:50 >> Peek should be 1
+28-01-14 01:31:50 >> SUCCESS
+
+28-01-14 01:31:50 >> Peek should NOT be 2
+28-01-14 01:31:50 >> SUCCESS
+
+28-01-14 01:31:52 >> Adding valid element with id 2, priority 10
+28-01-14 01:31:52 >> SUCCESS
+
+28-01-14 01:31:52 >> Peek should be 2
+28-01-14 01:31:52 >> SUCCESS
+
+28-01-14 01:31:52 >> Peek should NOT be 1
+28-01-14 01:31:52 >> SUCCESS
+
+28-01-14 01:32:25 >> ******Testing PQueue******
+28-01-14 01:32:25 >> Allocating memory for queue of size 3
+
+28-01-14 01:33:36 >> Adding valid element with id 1, priority 1
+28-01-14 01:33:37 >> SUCCESS
+
+28-01-14 01:33:37 >> Peek should be 1
+28-01-14 01:33:37 >> SUCCESS
+
+28-01-14 01:33:38 >> Peek should NOT be 2
+28-01-14 01:33:38 >> SUCCESS
+
+28-01-14 01:34:09 >> Adding valid element with id 2, priority 10
+28-01-14 01:34:09 >> SUCCESS
+
+28-01-14 01:34:17 >> Peek should be 2
+28-01-14 01:34:17 >> SUCCESS
+
+28-01-14 01:34:17 >> Peek should NOT be 1
+28-01-14 01:34:17 >> SUCCESS
+
+28-01-14 01:36:27 >> ******Testing PQueue******
+28-01-14 01:36:27 >> Allocating memory for queue of size 3
+
+28-01-14 01:36:27 >> Adding valid element with id 1, priority 1
+28-01-14 01:36:27 >> SUCCESS
+
+28-01-14 01:36:28 >> Peek should be 1
+28-01-14 01:36:28 >> FAILED
+28-01-14 01:36:28 >> QUITTING
+
+28-01-14 01:36:28 >> Destructing queue
+28-01-14 01:36:28 >> PQueue test complete
+
+28-01-14 01:36:44 >> ******Testing PQueue******
+28-01-14 01:36:44 >> Allocating memory for queue of size 3
+
+28-01-14 01:37:08 >> Adding valid element with id 1, priority 1
+28-01-14 01:37:08 >> SUCCESS
+
+28-01-14 01:39:03 >> ******Testing PQueue******
+28-01-14 01:39:03 >> Allocating memory for queue of size 3
+
+28-01-14 01:39:03 >> Adding valid element with id 1, priority 1
+28-01-14 01:39:03 >> SUCCESS
+
+28-01-14 01:39:03 >> Peek should be 1
+28-01-14 01:39:03 >> SUCCESS
+
+28-01-14 01:39:03 >> Peek should NOT be 2
+28-01-14 01:39:03 >> SUCCESS
+
+28-01-14 01:39:03 >> Adding valid element with id 2, priority 10
+28-01-14 01:39:03 >> SUCCESS
+
+28-01-14 01:39:03 >> Peek should be 2
+28-01-14 01:39:03 >> SUCCESS
+
+28-01-14 01:39:03 >> Peek should NOT be 1
+28-01-14 01:39:03 >> SUCCESS
+
+28-01-14 01:39:04 >> Adding valid element with id 3, priority 5
+28-01-14 01:39:04 >> SUCCESS
+
+28-01-14 01:39:04 >> Peek should be 2
+28-01-14 01:39:04 >> SUCCESS
+
+28-01-14 01:39:04 >> Popping top of queue
+28-01-14 01:39:04 >> SUCCESS
+
+28-01-14 01:39:04 >> Peek should be 3
+28-01-14 01:39:04 >> SUCCESS
+
+28-01-14 01:39:04 >> Popping tid 1
+28-01-14 01:39:04 >> SUCCESS
+
+28-01-14 01:39:04 >> Peek should be 3
+28-01-14 01:39:04 >> FAILED
+28-01-14 01:39:04 >> QUITTING
+
+28-01-14 01:39:04 >> Destructing queue
+28-01-14 01:39:04 >> PQueue test complete
+
+28-01-14 01:39:44 >> ******Testing PQueue******
+28-01-14 01:39:44 >> Allocating memory for queue of size 3
+
+28-01-14 01:39:50 >> Adding valid element with id 1, priority 1
+28-01-14 01:39:50 >> SUCCESS
+
+28-01-14 01:39:50 >> Peek should be 1
+28-01-14 01:39:50 >> SUCCESS
+
+28-01-14 01:39:51 >> Peek should NOT be 2
+28-01-14 01:39:51 >> SUCCESS
+
+28-01-14 01:39:54 >> Adding valid element with id 2, priority 10
+28-01-14 01:39:54 >> SUCCESS
+
+28-01-14 01:39:55 >> Peek should be 2
+28-01-14 01:39:55 >> SUCCESS
+
+28-01-14 01:39:55 >> Peek should NOT be 1
+28-01-14 01:39:55 >> SUCCESS
+
+28-01-14 01:40:53 >> ******Testing PQueue******
+28-01-14 01:40:53 >> Allocating memory for queue of size 3
+
+28-01-14 01:40:53 >> Adding valid element with id 1, priority 1
+28-01-14 01:40:53 >> SUCCESS
+
+28-01-14 01:40:53 >> Peek should be 1
+28-01-14 01:40:53 >> SUCCESS
+
+28-01-14 01:40:53 >> Peek should NOT be 2
+28-01-14 01:40:53 >> SUCCESS
+
+28-01-14 01:42:02 >> Adding valid element with id 2, priority 10
+28-01-14 01:42:02 >> SUCCESS
+
+28-01-14 01:42:09 >> Peek should be 2
+28-01-14 01:42:09 >> SUCCESS
+
+28-01-14 01:42:09 >> Peek should NOT be 1
+28-01-14 01:42:09 >> SUCCESS
+
+28-01-14 01:43:02 >> ******Testing PQueue******
+28-01-14 01:43:02 >> Allocating memory for queue of size 3
+
+28-01-14 01:43:14 >> ******Testing PQueue******
+28-01-14 01:43:14 >> Allocating memory for queue of size 3
+
+28-01-14 01:44:06 >> ******Testing PQueue******
+28-01-14 01:44:07 >> Allocating memory for queue of size 3
+
+28-01-14 01:44:07 >> Adding valid element with id 1, priority 1
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Peek should be 1
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Peek should NOT be 2
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Adding valid element with id 2, priority 10
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Peek should be 2
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Peek should NOT be 1
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Adding valid element with id 3, priority 5
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Peek should be 2
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Popping top of queue
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Peek should be 3
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Popping tid 1
+28-01-14 01:44:07 >> SUCCESS
+
+28-01-14 01:44:07 >> Peek should be 3
+28-01-14 01:44:07 >> FAILED
+28-01-14 01:44:07 >> QUITTING
+
+28-01-14 01:44:07 >> Destructing queue
+28-01-14 01:44:07 >> PQueue test complete
+
+28-01-14 01:44:29 >> ******Testing PQueue******
+28-01-14 01:44:29 >> Allocating memory for queue of size 3
+
+28-01-14 01:44:29 >> Adding valid element with id 1, priority 1
+28-01-14 01:44:29 >> SUCCESS
+
+28-01-14 01:44:29 >> Peek should be 1
+28-01-14 01:44:29 >> SUCCESS
+
+28-01-14 01:44:29 >> Peek should NOT be 2
+28-01-14 01:44:29 >> SUCCESS
+
+28-01-14 01:44:29 >> Adding valid element with id 2, priority 10
+28-01-14 01:44:29 >> SUCCESS
+
+28-01-14 01:44:29 >> Peek should be 2
+28-01-14 01:44:29 >> SUCCESS
+
+28-01-14 01:44:29 >> Peek should NOT be 1
+28-01-14 01:44:29 >> SUCCESS
+
+28-01-14 01:45:41 >> Adding valid element with id 3, priority 5
+28-01-14 01:45:41 >> SUCCESS
+
+28-01-14 01:45:45 >> Peek should be 2
+28-01-14 01:45:45 >> SUCCESS
+
+28-01-14 01:46:47 >> Popping top of queue
+28-01-14 01:46:47 >> SUCCESS
+
+28-01-14 01:46:49 >> Peek should be 3
+28-01-14 01:46:49 >> SUCCESS
+
+28-01-14 01:47:56 >> ******Testing PQueue******
+28-01-14 01:47:56 >> Allocating memory for queue of size 3
+
+28-01-14 01:47:56 >> Adding valid element with id 1, priority 1
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Peek should be 1
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Peek should NOT be 2
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Adding valid element with id 2, priority 10
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Peek should be 2
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Peek should NOT be 1
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Adding valid element with id 3, priority 5
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Peek should be 2
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Popping top of queue
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:56 >> Peek should be 3
+28-01-14 01:47:56 >> SUCCESS
+
+28-01-14 01:47:57 >> Popping tid 1
+28-01-14 01:47:57 >> SUCCESS
+
+28-01-14 01:47:57 >> Peek should be 3
+28-01-14 01:47:57 >> FAILED
+28-01-14 01:47:57 >> QUITTING
+
+28-01-14 01:47:57 >> Destructing queue
+28-01-14 01:47:57 >> PQueue test complete
+
+28-01-14 01:48:24 >> ******Testing PQueue******
+28-01-14 01:48:24 >> Allocating memory for queue of size 3
+
+28-01-14 01:48:24 >> Adding valid element with id 1, priority 1
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Peek should be 1
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Peek should NOT be 2
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Adding valid element with id 2, priority 10
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Peek should be 2
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Peek should NOT be 1
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Adding valid element with id 3, priority 5
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Peek should be 2
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Popping top of queue
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:48:24 >> Peek should be 3
+28-01-14 01:48:24 >> SUCCESS
+
+28-01-14 01:50:21 >> Popping tid 1
+28-01-14 01:50:21 >> SUCCESS
+
+28-01-14 01:51:31 >> ******Testing PQueue******
+28-01-14 01:51:31 >> Allocating memory for queue of size 3
+
+28-01-14 01:51:31 >> Adding valid element with id 1, priority 1
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Peek should be 1
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Peek should NOT be 2
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Adding valid element with id 2, priority 10
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Peek should be 2
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Peek should NOT be 1
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Adding valid element with id 3, priority 5
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Peek should be 2
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Popping top of queue
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Peek should be 3
+28-01-14 01:51:31 >> SUCCESS
+
+28-01-14 01:51:31 >> Popping tid 1
+28-01-14 01:51:32 >> SUCCESS
+
+28-01-14 01:51:32 >> Peek should be 3
+28-01-14 01:51:32 >> SUCCESS
+
+28-01-14 01:51:32 >> Attempting to pop element that doesn't exist
+28-01-14 01:51:32 >> FAILED
+28-01-14 01:51:32 >> QUITTING
+
+28-01-14 01:51:32 >> Destructing queue
+28-01-14 01:51:32 >> PQueue test complete
+
+28-01-14 01:52:28 >> ******Testing PQueue******
+28-01-14 01:52:28 >> Allocating memory for queue of size 3
+
+28-01-14 01:52:28 >> Adding valid element with id 1, priority 1
+28-01-14 01:52:28 >> SUCCESS
+
+28-01-14 01:52:28 >> Peek should be 1
+28-01-14 01:52:28 >> SUCCESS
+
+28-01-14 01:52:28 >> Peek should NOT be 2
+28-01-14 01:52:28 >> SUCCESS
+
+28-01-14 01:52:29 >> Adding valid element with id 2, priority 10
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Peek should be 2
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Peek should NOT be 1
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Adding valid element with id 3, priority 5
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Peek should be 2
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Popping top of queue
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Peek should be 3
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Popping tid 1
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Peek should be 3
+28-01-14 01:52:29 >> SUCCESS
+
+28-01-14 01:52:29 >> Attempting to pop element that doesn't exist
+28-01-14 01:52:29 >> FAILED
+28-01-14 01:52:29 >> QUITTING
+
+28-01-14 01:52:29 >> Destructing queue
+28-01-14 01:52:29 >> PQueue test complete
+
+28-01-14 01:53:22 >> ******Testing PQueue******
+28-01-14 01:53:22 >> Allocating memory for queue of size 3
+
+28-01-14 01:53:22 >> Adding valid element with id 1, priority 1
+28-01-14 01:53:22 >> SUCCESS
+
+28-01-14 01:53:22 >> Peek should be 1
+28-01-14 01:53:22 >> SUCCESS
+
+28-01-14 01:53:22 >> Peek should NOT be 2
+28-01-14 01:53:22 >> SUCCESS
+
+28-01-14 01:53:22 >> Adding valid element with id 2, priority 10
+28-01-14 01:53:22 >> SUCCESS
+
+28-01-14 01:53:22 >> Peek should be 2
+28-01-14 01:53:22 >> SUCCESS
+
+28-01-14 01:53:22 >> Peek should NOT be 1
+28-01-14 01:53:22 >> SUCCESS
+
+28-01-14 01:53:22 >> Adding valid element with id 3, priority 5
+28-01-14 01:53:22 >> SUCCESS
+
+28-01-14 01:53:23 >> Peek should be 2
+28-01-14 01:53:23 >> SUCCESS
+
+28-01-14 01:53:23 >> Popping top of queue
+28-01-14 01:53:23 >> SUCCESS
+
+28-01-14 01:53:23 >> Peek should be 3
+28-01-14 01:53:23 >> SUCCESS
+
+28-01-14 01:53:23 >> Popping tid 1
+28-01-14 01:53:23 >> SUCCESS
+
+28-01-14 01:53:23 >> Peek should be 3
+28-01-14 01:53:23 >> SUCCESS
+
+28-01-14 01:53:23 >> Attempting to pop element that doesn't exist
+28-01-14 01:53:23 >> FAILED
+28-01-14 01:53:23 >> QUITTING
+
+28-01-14 01:53:23 >> Destructing queue
+28-01-14 01:53:23 >> PQueue test complete
+
+28-01-14 01:53:42 >> ******Testing PQueue******
+28-01-14 01:53:42 >> Allocating memory for queue of size 3
+
+28-01-14 01:53:42 >> Adding valid element with id 1, priority 1
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Peek should be 1
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Peek should NOT be 2
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Adding valid element with id 2, priority 10
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Peek should be 2
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Peek should NOT be 1
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Adding valid element with id 3, priority 5
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Peek should be 2
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Popping top of queue
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Peek should be 3
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Popping tid 1
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:42 >> Peek should be 3
+28-01-14 01:53:42 >> SUCCESS
+
+28-01-14 01:53:43 >> Attempting to pop element that doesn't exist
+28-01-14 01:53:43 >> FAILED
+28-01-14 01:53:43 >> QUITTING
+
+28-01-14 01:53:43 >> Destructing queue
+28-01-14 01:53:43 >> PQueue test complete
+
+28-01-14 01:53:47 >> ******Testing PQueue******
+28-01-14 01:53:47 >> Allocating memory for queue of size 3
+
+28-01-14 01:53:47 >> Adding valid element with id 1, priority 1
+28-01-14 01:53:47 >> SUCCESS
+
+28-01-14 01:53:47 >> Peek should be 1
+28-01-14 01:53:47 >> SUCCESS
+
+28-01-14 01:53:47 >> Peek should NOT be 2
+28-01-14 01:53:47 >> SUCCESS
+
+28-01-14 01:53:47 >> Adding valid element with id 2, priority 10
+28-01-14 01:53:47 >> SUCCESS
+
+28-01-14 01:53:47 >> Peek should be 2
+28-01-14 01:53:47 >> SUCCESS
+
+28-01-14 01:53:47 >> Peek should NOT be 1
+28-01-14 01:53:48 >> SUCCESS
+
+28-01-14 01:53:48 >> Adding valid element with id 3, priority 5
+28-01-14 01:53:48 >> SUCCESS
+
+28-01-14 01:53:48 >> Peek should be 2
+28-01-14 01:53:48 >> SUCCESS
+
+28-01-14 01:53:48 >> Popping top of queue
+28-01-14 01:53:48 >> SUCCESS
+
+28-01-14 01:53:48 >> Peek should be 3
+28-01-14 01:53:48 >> SUCCESS
+
+28-01-14 01:53:48 >> Popping tid 1
+28-01-14 01:53:48 >> SUCCESS
+
+28-01-14 01:53:48 >> Peek should be 3
+28-01-14 01:53:48 >> SUCCESS
+
+28-01-14 01:53:55 >> Attempting to pop element that doesn't exist
+28-01-14 01:53:55 >> FAILED
+28-01-14 01:53:55 >> QUITTING
+
+28-01-14 01:54:03 >> ******Testing PQueue******
+28-01-14 01:54:03 >> Allocating memory for queue of size 3
+
+28-01-14 01:54:03 >> Adding valid element with id 1, priority 1
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Peek should be 1
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Peek should NOT be 2
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Adding valid element with id 2, priority 10
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Peek should be 2
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Peek should NOT be 1
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Adding valid element with id 3, priority 5
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Peek should be 2
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Popping top of queue
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Peek should be 3
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Popping tid 1
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:03 >> Peek should be 3
+28-01-14 01:54:03 >> SUCCESS
+
+28-01-14 01:54:46 >> Attempting to pop element that doesn't exist
+28-01-14 01:54:46 >> FAILED
+28-01-14 01:54:46 >> QUITTING
+
+28-01-14 01:55:21 >> ******Testing PQueue******
+28-01-14 01:55:21 >> Allocating memory for queue of size 3
+
+28-01-14 01:55:21 >> Adding valid element with id 1, priority 1
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should be 1
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should NOT be 2
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Adding valid element with id 2, priority 10
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should be 2
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should NOT be 1
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Adding valid element with id 3, priority 5
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should be 2
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Popping top of queue
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should be 3
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Popping tid 1
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should be 3
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Attempting to pop element that doesn't exist
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should be 3
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Popping last element
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Peek should be -1
+28-01-14 01:55:21 >> SUCCESS
+
+28-01-14 01:55:21 >> Testing pop on empty stack
+28-01-14 01:55:22 >> SUCCESS
+
+28-01-14 01:55:22 >> Testing peek on empty stack
+28-01-14 01:55:22 >> FAILED
+28-01-14 01:55:22 >> QUITTING
+
+28-01-14 01:55:22 >> Destructing queue
+28-01-14 01:55:22 >> PQueue test complete
+
+28-01-14 01:56:42 >> ******Testing PQueue******
+28-01-14 01:56:42 >> Allocating memory for queue of size 3
+
+28-01-14 01:56:42 >> Adding valid element with id 1, priority 1
+28-01-14 01:56:42 >> SUCCESS
+
+28-01-14 01:56:42 >> Peek should be 1
+28-01-14 01:56:42 >> SUCCESS
+
+28-01-14 01:56:42 >> Peek should NOT be 2
+28-01-14 01:56:42 >> SUCCESS
+
+28-01-14 01:56:42 >> Adding valid element with id 2, priority 10
+28-01-14 01:56:42 >> SUCCESS
+
+28-01-14 01:56:42 >> Peek should be 2
+28-01-14 01:56:42 >> SUCCESS
+
+28-01-14 01:56:43 >> Peek should NOT be 1
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Adding valid element with id 3, priority 5
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Peek should be 2
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Popping top of queue
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Peek should be 3
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Popping tid 1
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Peek should be 3
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Attempting to pop element that doesn't exist
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Peek should be 3
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Popping last element
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Peek should be -1
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Testing pop on empty stack
+28-01-14 01:56:43 >> SUCCESS
+
+28-01-14 01:56:43 >> Testing peek on empty stack
+28-01-14 01:56:43 >> FAILED
+28-01-14 01:56:43 >> QUITTING
+
+28-01-14 01:56:43 >> Destructing queue
+28-01-14 01:56:43 >> PQueue test complete
+
+28-01-14 01:59:40 >> ******Testing PQueue******
+28-01-14 01:59:40 >> Allocating memory for queue of size 3
+
+28-01-14 01:59:40 >> Adding valid element with id 1, priority 1
+28-01-14 01:59:40 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should be 1
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should NOT be 2
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Adding valid element with id 2, priority 10
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should be 2
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should NOT be 1
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Adding valid element with id 3, priority 5
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should be 2
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Popping top of queue
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should be 3
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Popping tid 1
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should be 3
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Attempting to pop element that doesn't exist
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should be 3
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Popping last element
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Peek should be -1
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Testing pop on empty stack
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Testing peek on empty stack
+28-01-14 01:59:41 >> SUCCESS
+
+28-01-14 01:59:41 >> Destructing queue
+28-01-14 01:59:41 >> PQueue test complete
+28-01-14 02:11:20 >> Beginning to run SageOS
+28-01-14 02:11:20 >> Power up.
+28-01-14 02:11:25 >> Power down.
+
+28-01-14 11:01:26 >> Beginning to run SageOS
+28-01-14 11:01:26 >> Power up.
+28-01-14 11:01:55 >> Power down.
+
+28-01-14 11:21:51 >> Beginning to run SageOS
+28-01-14 11:21:51 >> Power up.
+28-01-14 11:22:35 >> Beginning to run SageOS
+28-01-14 11:22:35 >> Power up.
+28-01-14 11:35:25 >> Beginning to run SageOS
+28-01-14 11:35:25 >> Power up.
+28-01-14 11:35:35 >> Power down.
+
+28-01-14 11:36:00 >> Beginning to run SageOS
+28-01-14 11:36:00 >> Power up.
+28-01-14 11:36:34 >> Beginning to run SageOS
+28-01-14 11:36:34 >> Power up.
+28-01-14 11:38:48 >> Beginning to run SageOS
+28-01-14 11:38:48 >> Power up.
+28-01-14 11:39:00 >> Beginning to run SageOS
+28-01-14 11:39:01 >> Power up.
+28-01-14 12:03:49 >> Beginning to run SageOS
+28-01-14 12:03:49 >> Power up.
+28-01-14 12:03:54 >> (null)
+28-01-14 12:03:56 >> (null)
+28-01-14 12:03:58 >> (null)
+28-01-14 12:03:59 >> (null)
+28-01-14 12:04:00 >> (null)
+28-01-14 12:04:00 >> (null)
+28-01-14 12:04:23 >> Beginning to run SageOS
+28-01-14 12:04:23 >> Power up.
+28-01-14 12:05:11 >> Beginning to run SageOS
+28-01-14 12:05:11 >> Power up.
+28-01-14 12:05:14 >> aÍ²vuzÆOþÿÿÿèþ#
+28-01-14 12:05:15 >> bÍ²vuzÆOþÿÿÿèþ#
+28-01-14 12:05:16 >> cÍ²vuzÆOþÿÿÿèþ#
+28-01-14 12:05:39 >> Beginning to run SageOS
+28-01-14 12:05:39 >> Power up.
+28-01-14 12:05:41 >> a
+28-01-14 12:05:42 >> b
+28-01-14 12:05:46 >> c
+28-01-14 12:05:47 >> d
+28-01-14 12:05:48 >> H
+28-01-14 12:05:49 >> K
+28-01-14 12:05:50 >> M
+28-01-14 12:05:51 >> P
+28-01-14 12:06:01 >> 
+28-01-14 12:06:09 >> 
+28-01-14 12:06:13 >> 
+28-01-14 12:06:15 >> 
+28-01-14 12:06:21 >> q
+28-01-14 12:06:21 >> u
+28-01-14 12:06:21 >> i
+28-01-14 12:06:22 >> t
+28-01-14 12:06:23 >> 
+28-01-14 12:06:40 >> Beginning to run SageOS
+28-01-14 12:06:40 >> Power up.
+28-01-14 12:07:45 >> Beginning to run SageOS
+28-01-14 12:07:45 >> Power up.
+28-01-14 12:07:47 >> Power down.
+
+28-01-14 12:10:46 >> Beginning to run SageOS
+28-01-14 12:10:46 >> Power up.
+28-01-14 12:10:58 >> Power down.
+
+28-01-14 12:12:48 >> Beginning to run SageOS
+28-01-14 12:12:48 >> Power up.
+28-01-14 12:12:56 >> Power down.
+
+28-01-14 12:14:46 >> Beginning to run SageOS
+28-01-14 12:14:46 >> Power up.
+28-01-14 12:15:13 >> Power down.
+
+28-01-14 12:15:53 >> Beginning to run SageOS
+28-01-14 12:15:53 >> Power up.
+28-01-14 12:16:12 >> Power down.
+
+28-01-14 12:29:20 >> Beginning to run SageOS
+28-01-14 12:29:20 >> Power up.
+28-01-14 12:29:50 >> Beginning to run SageOS
+28-01-14 12:29:50 >> Power up.
+28-01-14 12:29:53 >> Power down.
+
+28-01-14 13:44:54 >> Beginning to run SageOS
+28-01-14 13:44:54 >> Power up.
+28-01-14 13:45:14 >> Power down.
+
+28-01-14 13:45:47 >> Beginning to run SageOS
+28-01-14 13:45:47 >> Power up.
+28-01-14 13:46:26 >> Beginning to run SageOS
+28-01-14 13:46:26 >> Power up.
+28-01-14 13:46:59 >> Beginning to run SageOS
+28-01-14 13:46:59 >> Power up.
+28-01-14 13:48:40 >> Beginning to run SageOS
+28-01-14 13:48:40 >> Power up.
+28-01-14 14:17:22 >> Beginning to run SageOS
+28-01-14 14:17:22 >> Power up.
+28-01-14 14:20:08 >> Beginning to run SageOS
+28-01-14 14:20:08 >> Power up.
+28-01-14 14:21:22 >> Beginning to run SageOS
+28-01-14 14:21:22 >> Power up.
+28-01-14 14:21:34 >> Beginning to run SageOS
+28-01-14 14:21:34 >> Power up.
+28-01-14 14:22:43 >> Beginning to run SageOS
+28-01-14 14:22:43 >> Power up.
+28-01-14 14:23:29 >> Beginning to run SageOS
+28-01-14 14:23:29 >> Power up.
+28-01-14 14:23:39 >> Beginning to run SageOS
+28-01-14 14:23:39 >> Power up.
+28-01-14 14:24:59 >> Beginning to run SageOS
+28-01-14 14:24:59 >> Power up.
+28-01-14 14:25:16 >> Power down.
+
+28-01-14 14:25:29 >> Beginning to run SageOS
+28-01-14 14:25:29 >> Power up.
+28-01-14 14:25:43 >> Power down.
+
+28-01-14 14:26:41 >> Beginning to run SageOS
+28-01-14 14:26:41 >> Power up.
+28-01-14 14:26:49 >> Power down.
+
+28-01-14 14:26:54 >> Beginning to run SageOS
+28-01-14 14:26:54 >> Power up.
+28-01-14 14:28:29 >> Beginning to run SageOS
+28-01-14 14:28:29 >> Power up.
+28-01-14 14:30:06 >> Beginning to run SageOS
+28-01-14 14:30:06 >> Power up.
+28-01-14 14:30:22 >> Beginning to run SageOS
+28-01-14 14:30:22 >> Power up.
+28-01-14 14:31:59 >> Beginning to run SageOS
+28-01-14 14:31:59 >> Power up.
+28-01-14 14:32:06 >> Power down.
+
+28-01-14 14:32:12 >> Beginning to run SageOS
+28-01-14 14:32:12 >> Power up.
+28-01-14 14:32:45 >> Beginning to run SageOS
+28-01-14 14:32:45 >> Power up.
+28-01-14 14:50:47 >> Beginning to run SageOS
+28-01-14 14:50:47 >> Power up.
+28-01-14 14:51:10 >> Power down.
+
+28-01-14 14:51:16 >> Beginning to run SageOS
+28-01-14 14:51:16 >> Power up.
+28-01-14 14:51:39 >> Power down.
+
+28-01-14 14:51:45 >> Beginning to run SageOS
+28-01-14 14:51:45 >> Power up.
+28-01-14 14:51:59 >> Power down.
+
+28-01-14 14:55:28 >> Beginning to run SageOS
+28-01-14 14:55:28 >> Power up.
+28-01-14 14:55:52 >> Power down.
+
+28-01-14 14:55:56 >> Beginning to run SageOS
+28-01-14 14:55:56 >> Power up.
+28-01-14 15:10:07 >> Beginning to run SageOS
+28-01-14 15:10:07 >> Power up.
+28-01-14 15:10:18 >> Power down.
+
+28-01-14 15:10:33 >> Beginning to run SageOS
+28-01-14 15:10:33 >> Power up.
+29-01-14 00:31:03 >> Beginning to run SageOS
+29-01-14 00:31:03 >> Power up.
+29-01-14 00:31:11 >> Power down.
+
+29-01-14 00:54:12 >> Beginning to run SageOS
+29-01-14 00:54:12 >> Power up.
+29-01-14 00:55:28 >> Beginning to run SageOS
+29-01-14 00:55:28 >> Power up.
+29-01-14 00:56:43 >> Beginning to run SageOS
+29-01-14 00:56:43 >> Power up.
+29-01-14 00:57:34 >> Beginning to run SageOS
+29-01-14 00:57:34 >> Power up.
+29-01-14 00:57:37 >> Power down.
+
+29-01-14 00:58:15 >> Beginning to run SageOS
+29-01-14 00:58:15 >> Power up.
+29-01-14 01:01:17 >> Beginning to run SageOS
+29-01-14 01:01:17 >> Power up.
+29-01-14 01:01:26 >> Beginning to run SageOS
+29-01-14 01:01:26 >> Power up.
+29-01-14 01:03:25 >> Beginning to run SageOS
+29-01-14 01:03:25 >> Power up.
+29-01-14 01:04:51 >> Beginning to run SageOS
+29-01-14 01:04:51 >> Power up.
+29-01-14 01:04:55 >> Beginning to run SageOS
+29-01-14 01:04:56 >> Power up.
+29-01-14 01:04:58 >> Power down.
+
+29-01-14 01:17:23 >> Beginning to run SageOS
+29-01-14 01:17:23 >> Power up.
+29-01-14 01:17:29 >> Power down.
+
+29-01-14 01:19:19 >> Beginning to run SageOS
+29-01-14 01:19:19 >> Power up.
+29-01-14 01:19:24 >> Power down.
+
+29-01-14 01:43:09 >> Beginning to run SageOS
+29-01-14 01:43:09 >> Power up.
+29-01-14 01:43:54 >> Beginning to run SageOS
+29-01-14 01:43:54 >> Power up.
+29-01-14 01:44:06 >> Power down.
+
+29-01-14 01:44:11 >> Beginning to run SageOS
+29-01-14 01:44:11 >> Power up.
+29-01-14 01:44:48 >> Beginning to run SageOS
+29-01-14 01:44:48 >> Power up.
+29-01-14 01:44:51 >> Power down.
+
+29-01-14 01:44:55 >> Beginning to run SageOS
+29-01-14 01:44:55 >> Power up.
+29-01-14 01:47:42 >> Beginning to run SageOS
+29-01-14 01:47:42 >> Power up.
+29-01-14 01:51:22 >> Beginning to run SageOS
+29-01-14 01:51:22 >> Power up.
+29-01-14 01:51:53 >> Power down.
+
+29-01-14 01:55:33 >> Beginning to run SageOS
+29-01-14 01:55:33 >> Power up.
+29-01-14 01:56:53 >> Power down.
+
+29-01-14 01:57:13 >> Beginning to run SageOS
+29-01-14 01:57:14 >> Power up.
+29-01-14 01:59:02 >> Beginning to run SageOS
+29-01-14 01:59:02 >> Power up.
+29-01-14 02:01:52 >> Beginning to run SageOS
+29-01-14 02:01:52 >> Power up.
+29-01-14 02:03:03 >> Beginning to run SageOS
+29-01-14 02:03:03 >> Power up.
+29-01-14 02:04:09 >> Power down.
+
+29-01-14 02:05:45 >> Beginning to run SageOS
+29-01-14 02:05:45 >> Power up.
+29-01-14 02:05:58 >> Power down.
+
+29-01-14 02:09:00 >> Beginning to run SageOS
+29-01-14 02:09:00 >> Power up.
+29-01-14 02:09:13 >> Power down.
+
+29-01-14 02:09:24 >> Beginning to run SageOS
+29-01-14 02:09:24 >> Power up.
+29-01-14 02:10:02 >> Beginning to run SageOS
+29-01-14 02:10:02 >> Power up.
+29-01-14 02:12:35 >> Beginning to run SageOS
+29-01-14 02:12:35 >> Power up.
+29-01-14 02:13:41 >> Beginning to run SageOS
+29-01-14 02:13:41 >> Power up.
+29-01-14 02:13:42 >> Retrieving 0
+29-01-14 02:13:44 >> Retrieving 1
+29-01-14 02:13:54 >> Retrieving 2
+29-01-14 02:13:58 >> Retrieving 3
+29-01-14 02:13:59 >> Retrieving 4
+29-01-14 02:14:00 >> Retrieving 5
+29-01-14 02:14:01 >> Retrieving 6
+29-01-14 02:14:02 >> Retrieving 7
+29-01-14 02:14:02 >> Retrieving 8
+29-01-14 02:14:03 >> Retrieving 9
+29-01-14 02:14:03 >> Retrieving 10
+29-01-14 02:14:04 >> Retrieving 11
+29-01-14 02:14:05 >> Retrieving 12
+29-01-14 02:14:07 >> Retrieving 13
+29-01-14 02:14:08 >> Retrieving 14
+29-01-14 02:14:09 >> Retrieving 15
+29-01-14 02:14:10 >> Retrieving 16
+29-01-14 02:14:11 >> Retrieving 17
+29-01-14 02:14:11 >> Retrieving 18
+29-01-14 02:14:12 >> Retrieving 19
+29-01-14 02:14:14 >> Retrieving 19
+29-01-14 02:14:17 >> Retrieving 18
+29-01-14 02:14:19 >> Retrieving 17
+29-01-14 02:14:20 >> Retrieving 16
+29-01-14 02:14:22 >> Retrieving 15
+29-01-14 02:14:29 >> Retrieving 14
+29-01-14 02:14:38 >> Retrieving 14
+29-01-14 02:14:40 >> Retrieving 14
+29-01-14 02:14:40 >> Retrieving 14
+29-01-14 02:14:47 >> Retrieving 12
+29-01-14 02:14:48 >> Retrieving 13
+29-01-14 02:14:48 >> Retrieving 14
+29-01-14 02:14:49 >> Retrieving 15
+29-01-14 02:14:51 >> Retrieving 16
+29-01-14 02:14:52 >> Retrieving 17
+29-01-14 02:15:00 >> Retrieving 13
+29-01-14 02:15:02 >> Retrieving 14
+29-01-14 02:15:03 >> Retrieving 15
+29-01-14 02:15:04 >> Retrieving 16
+29-01-14 02:15:04 >> Retrieving 17
+29-01-14 02:15:18 >> Power down.
+
+29-01-14 02:15:51 >> Beginning to run SageOS
+29-01-14 02:15:51 >> Power up.
+29-01-14 02:16:04 >> UP TO 29
+29-01-14 02:16:07 >> UP TO 28
+29-01-14 02:16:08 >> UP TO 27
+29-01-14 02:16:09 >> DOWN TO 26
+29-01-14 02:17:01 >> Power down.
+
+29-01-14 02:17:37 >> Beginning to run SageOS
+29-01-14 02:17:37 >> Power up.
+29-01-14 02:17:46 >> UP TO -1
+29-01-14 02:17:48 >> UP TO -2
+29-01-14 02:17:49 >> UP TO -3
+29-01-14 02:17:49 >> DOWN TO -2
+29-01-14 02:17:50 >> DOWN TO -1
+29-01-14 02:17:51 >> DOWN TO 0
+29-01-14 02:17:51 >> DOWN TO 1
+29-01-14 02:17:52 >> DOWN TO 2
+29-01-14 02:17:52 >> DOWN TO 3
+29-01-14 02:17:53 >> DOWN TO 4
+29-01-14 02:17:54 >> UP TO 3
+29-01-14 02:17:56 >> DOWN TO 4
+29-01-14 02:18:00 >> UP TO 3
+29-01-14 02:18:02 >> DOWN TO 4
+29-01-14 02:18:02 >> DOWN TO 5
+29-01-14 02:18:03 >> DOWN TO 6
+29-01-14 02:18:04 >> DOWN TO 7
+29-01-14 02:18:04 >> DOWN TO 8
+29-01-14 02:18:05 >> DOWN TO 9
+29-01-14 02:18:05 >> DOWN TO 10
+29-01-14 02:18:06 >> DOWN TO 11
+29-01-14 02:18:06 >> DOWN TO 12
+29-01-14 02:18:06 >> DOWN TO 13
+29-01-14 02:18:07 >> DOWN TO 14
+29-01-14 02:18:07 >> DOWN TO 15
+29-01-14 02:18:08 >> DOWN TO 16
+29-01-14 02:18:08 >> UP TO 15
+29-01-14 02:18:09 >> DOWN TO 16
+29-01-14 02:18:09 >> UP TO 15
+29-01-14 02:18:09 >> UP TO 14
+29-01-14 02:18:10 >> DOWN TO 15
+29-01-14 02:18:10 >> DOWN TO 16
+29-01-14 02:18:10 >> DOWN TO 17
+29-01-14 02:18:11 >> DOWN TO 18
+29-01-14 02:18:11 >> UP TO 17
+29-01-14 02:18:11 >> UP TO 16
+29-01-14 02:18:12 >> UP TO 15
+29-01-14 02:18:12 >> UP TO 14
+29-01-14 02:18:13 >> DOWN TO 15
+29-01-14 02:18:13 >> UP TO 14
+29-01-14 02:18:13 >> DOWN TO 15
+29-01-14 02:18:13 >> DOWN TO 16
+29-01-14 02:18:14 >> DOWN TO 17
+29-01-14 02:18:14 >> DOWN TO 18
+29-01-14 02:18:14 >> UP TO 17
+29-01-14 02:18:14 >> UP TO 16
+29-01-14 02:18:15 >> UP TO 15
+29-01-14 02:18:15 >> DOWN TO 16
+29-01-14 02:18:15 >> DOWN TO 17
+29-01-14 02:18:15 >> DOWN TO 18
+29-01-14 02:18:15 >> DOWN TO 19
+29-01-14 02:18:16 >> DOWN TO 20
+29-01-14 02:18:16 >> DOWN TO 21
+29-01-14 02:18:16 >> DOWN TO 22
+29-01-14 02:18:16 >> DOWN TO 23
+29-01-14 02:18:17 >> DOWN TO 24
+29-01-14 02:18:17 >> DOWN TO 25
+29-01-14 02:18:17 >> DOWN TO 26
+29-01-14 02:18:17 >> DOWN TO 27
+29-01-14 02:18:17 >> DOWN TO 28
+29-01-14 02:18:17 >> DOWN TO 29
+29-01-14 02:18:18 >> DOWN TO 30
+29-01-14 02:18:18 >> DOWN TO 1
+29-01-14 02:18:20 >> UP TO 30
+29-01-14 02:18:21 >> DOWN TO 1
+29-01-14 02:18:22 >> UP TO 30
+29-01-14 02:18:23 >> DOWN TO 1
+29-01-14 02:18:24 >> DOWN TO 2
+29-01-14 02:18:24 >> UP TO 1
+29-01-14 02:18:25 >> UP TO 30
+29-01-14 02:18:25 >> UP TO 29
+29-01-14 02:18:26 >> UP TO 28
+29-01-14 02:18:26 >> UP TO 27
+29-01-14 02:18:26 >> UP TO 26
+29-01-14 02:18:26 >> UP TO 25
+29-01-14 02:18:27 >> UP TO 24
+29-01-14 02:18:27 >> UP TO 23
+29-01-14 02:18:28 >> UP TO 22
+29-01-14 02:18:28 >> UP TO 21
+29-01-14 02:18:29 >> UP TO 20
+29-01-14 02:18:29 >> DOWN TO 21
+29-01-14 02:18:29 >> DOWN TO 22
+29-01-14 02:18:29 >> DOWN TO 23
+29-01-14 02:18:30 >> DOWN TO 24
+29-01-14 02:18:30 >> DOWN TO 25
+29-01-14 02:18:30 >> UP TO 24
+29-01-14 02:18:31 >> UP TO 23
+29-01-14 02:18:31 >> UP TO 22
+29-01-14 02:18:32 >> UP TO 21
+29-01-14 02:18:32 >> DOWN TO 22
+29-01-14 02:18:32 >> DOWN TO 23
+29-01-14 02:18:33 >> DOWN TO 24
+29-01-14 02:18:33 >> DOWN TO 25
+29-01-14 02:18:34 >> UP TO 24
+29-01-14 02:18:34 >> UP TO 23
+29-01-14 02:18:34 >> UP TO 22
+29-01-14 02:18:34 >> UP TO 21
+29-01-14 02:18:35 >> DOWN TO 22
+29-01-14 02:18:35 >> DOWN TO 23
+29-01-14 02:18:35 >> DOWN TO 24
+29-01-14 02:18:36 >> DOWN TO 25
+29-01-14 02:18:36 >> UP TO 24
+29-01-14 02:18:37 >> UP TO 23
+29-01-14 02:18:37 >> UP TO 22
+29-01-14 02:18:37 >> UP TO 21
+29-01-14 02:18:38 >> DOWN TO 22
+29-01-14 02:18:38 >> DOWN TO 23
+29-01-14 02:18:38 >> DOWN TO 24
+29-01-14 02:18:39 >> DOWN TO 25
+29-01-14 02:18:39 >> UP TO 24
+29-01-14 02:18:40 >> UP TO 23
+29-01-14 02:18:40 >> UP TO 22
+29-01-14 02:18:40 >> UP TO 21
+29-01-14 02:18:41 >> DOWN TO 22
+29-01-14 02:18:41 >> DOWN TO 23
+29-01-14 02:18:41 >> DOWN TO 24
+29-01-14 02:18:42 >> UP TO 23
+29-01-14 02:18:42 >> UP TO 22
+29-01-14 02:18:42 >> UP TO 21
+29-01-14 02:18:43 >> DOWN TO 22
+29-01-14 02:18:43 >> DOWN TO 23
+29-01-14 02:18:43 >> DOWN TO 24
+29-01-14 02:18:43 >> UP TO 23
+29-01-14 02:18:44 >> UP TO 22
+29-01-14 02:18:44 >> UP TO 21
+29-01-14 02:18:45 >> DOWN TO 22
+29-01-14 02:18:45 >> DOWN TO 23
+29-01-14 02:18:45 >> DOWN TO 24
+29-01-14 02:18:45 >> DOWN TO 25
+29-01-14 02:18:46 >> DOWN TO 26
+29-01-14 02:18:46 >> UP TO 25
+29-01-14 02:18:46 >> UP TO 24
+29-01-14 02:18:47 >> UP TO 23
+29-01-14 02:18:47 >> UP TO 22
+29-01-14 02:18:47 >> UP TO 21
+29-01-14 02:18:47 >> UP TO 20
+29-01-14 02:18:47 >> UP TO 19
+29-01-14 02:18:48 >> UP TO 18
+29-01-14 02:18:48 >> UP TO 17
+29-01-14 02:18:48 >> DOWN TO 18
+29-01-14 02:18:48 >> DOWN TO 19
+29-01-14 02:18:48 >> DOWN TO 20
+29-01-14 02:18:49 >> DOWN TO 21
+29-01-14 02:18:49 >> DOWN TO 22
+29-01-14 02:18:49 >> DOWN TO 23
+29-01-14 02:18:49 >> DOWN TO 24
+29-01-14 02:18:49 >> DOWN TO 25
+29-01-14 02:18:51 >> Power down.
+
+29-01-14 02:19:22 >> Beginning to run SageOS
+29-01-14 02:19:22 >> Power up.
+29-01-14 02:19:24 >> UP TO 31
+29-01-14 02:19:24 >> DOWN TO 1
+29-01-14 02:19:25 >> UP TO 31
+29-01-14 02:19:25 >> UP TO 30
+29-01-14 02:19:25 >> UP TO 29
+29-01-14 02:19:26 >> UP TO 28
+29-01-14 02:19:26 >> UP TO 27
+29-01-14 02:19:26 >> UP TO 26
+29-01-14 02:19:27 >> UP TO 25
+29-01-14 02:19:27 >> UP TO 24
+29-01-14 02:19:27 >> UP TO 23
+29-01-14 02:19:28 >> UP TO 22
+29-01-14 02:19:28 >> UP TO 21
+29-01-14 02:19:28 >> DOWN TO 22
+29-01-14 02:19:29 >> DOWN TO 23
+29-01-14 02:19:29 >> DOWN TO 24
+29-01-14 02:19:29 >> DOWN TO 25
+29-01-14 02:19:29 >> DOWN TO 26
+29-01-14 02:19:30 >> DOWN TO 27
+29-01-14 02:19:30 >> DOWN TO 28
+29-01-14 02:19:30 >> DOWN TO 29
+29-01-14 02:19:31 >> DOWN TO 30
+29-01-14 02:19:31 >> DOWN TO 31
+29-01-14 02:19:32 >> DOWN TO 1
+29-01-14 02:19:36 >> UP TO 36
+29-01-14 02:19:37 >> DOWN TO 1
+29-01-14 02:19:38 >> UP TO 36
+29-01-14 02:19:39 >> UP TO 35
+29-01-14 02:19:39 >> UP TO 34
+29-01-14 02:19:39 >> UP TO 33
+29-01-14 02:19:40 >> DOWN TO 34
+29-01-14 02:19:40 >> DOWN TO 35
+29-01-14 02:19:40 >> DOWN TO 36
+29-01-14 02:19:41 >> DOWN TO 1
+29-01-14 02:19:41 >> UP TO 36
+29-01-14 02:19:42 >> UP TO 35
+29-01-14 02:19:42 >> UP TO 34
+29-01-14 02:19:42 >> UP TO 33
+29-01-14 02:19:42 >> UP TO 32
+29-01-14 02:19:50 >> Power down.
+
+29-01-14 02:24:25 >> Beginning to run SageOS
+29-01-14 02:24:25 >> Power up.
+29-01-14 02:24:40 >> Power down.
+
+29-01-14 02:25:59 >> Beginning to run SageOS
+29-01-14 02:25:59 >> Power up.
+29-01-14 02:25:59 >> Opening database
+29-01-14 02:26:05 >> Power down.
+
+29-01-14 02:26:05 >> Closing database
+29-01-14 02:27:27 >> Beginning to run SageOS
+29-01-14 02:27:27 >> Power up.
+29-01-14 02:27:27 >> Opening database
+29-01-14 02:27:30 >> Closing database
+29-01-14 02:27:30 >> Power down.
+
+29-01-14 09:47:57 >> Beginning to run SageOS
+29-01-14 09:47:57 >> Power up.
+29-01-14 09:47:57 >> Opening database
+29-01-14 09:49:31 >> Closing database
+29-01-14 09:49:31 >> Power down.
+
+29-01-14 09:52:38 >> Beginning to run SageOS
+29-01-14 09:52:38 >> Power up.
+29-01-14 09:52:38 >> Opening database
+29-01-14 09:54:39 >> Closing database
+29-01-14 09:54:39 >> Power down.
+
+29-01-14 09:55:43 >> Beginning to run SageOS
+29-01-14 09:55:43 >> Power up.
+29-01-14 09:55:43 >> Opening database
+29-01-14 09:57:06 >> Beginning to run SageOS
+29-01-14 09:57:06 >> Power up.
+29-01-14 09:57:06 >> Opening database
+29-01-14 09:57:10 >> Closing database
+29-01-14 09:57:10 >> Power down.
+
+29-01-14 09:57:18 >> Beginning to run SageOS
+29-01-14 09:57:18 >> Power up.
+29-01-14 09:57:18 >> Opening database
+29-01-14 10:00:02 >> Closing database
+29-01-14 10:00:02 >> Power down.
+
+29-01-14 10:00:10 >> Beginning to run SageOS
+29-01-14 10:00:10 >> Power up.
+29-01-14 10:00:10 >> Opening database
+29-01-14 10:00:20 >> Moving DOWN to 1'
+29-01-14 10:00:29 >> Moving DOWN to 1'
+29-01-14 10:00:30 >> Moving DOWN to 1'
+29-01-14 10:00:30 >> Moving DOWN to 1'
+29-01-14 10:00:31 >> Moving DOWN to 1'
+29-01-14 10:00:31 >> Moving DOWN to 1'
+29-01-14 10:00:32 >> Moving UP to 2'
+29-01-14 10:00:33 >> Moving UP to 3'
+29-01-14 10:00:33 >> Moving UP to 4'
+29-01-14 10:00:34 >> Moving UP to 5'
+29-01-14 10:00:35 >> Moving UP to 6'
+29-01-14 10:00:35 >> Moving UP to 7'
+29-01-14 10:00:36 >> Moving UP to 8'
+29-01-14 10:00:37 >> Moving UP to 9'
+29-01-14 10:00:37 >> Moving UP to 10'
+29-01-14 10:00:38 >> Moving UP to 11'
+29-01-14 10:00:38 >> Moving UP to 12'
+29-01-14 10:00:39 >> Moving UP to 13'
+29-01-14 10:00:39 >> Moving UP to 14'
+29-01-14 10:00:40 >> Moving UP to 15'
+29-01-14 10:00:40 >> Moving UP to 16'
+29-01-14 10:00:40 >> Moving UP to 17'
+29-01-14 10:00:41 >> Moving UP to 18'
+29-01-14 10:00:41 >> Moving UP to 19'
+29-01-14 10:00:42 >> Moving UP to 20'
+29-01-14 10:00:42 >> Moving UP to 21'
+29-01-14 10:00:42 >> Moving UP to 22'
+29-01-14 10:00:43 >> Moving UP to 23'
+29-01-14 10:00:43 >> Moving UP to 24'
+29-01-14 10:00:44 >> Moving UP to 25'
+29-01-14 10:00:44 >> Moving UP to 26'
+29-01-14 10:00:44 >> Moving UP to 27'
+29-01-14 10:00:44 >> Moving UP to 28'
+29-01-14 10:00:44 >> Moving UP to 29'
+29-01-14 10:00:44 >> Moving UP to 30'
+29-01-14 10:00:44 >> Moving UP to 31'
+29-01-14 10:00:44 >> Moving UP to 32'
+29-01-14 10:00:44 >> Moving UP to 33'
+29-01-14 10:00:44 >> Moving UP to 34'
+29-01-14 10:00:44 >> Moving UP to 35'
+29-01-14 10:00:44 >> Moving UP to 36'
+29-01-14 10:00:44 >> Moving UP to 37'
+29-01-14 10:00:44 >> Moving UP to 38'
+29-01-14 10:00:44 >> Moving UP to 39'
+29-01-14 10:00:44 >> Moving UP to 40'
+29-01-14 10:00:44 >> Moving UP to 41'
+29-01-14 10:00:44 >> Moving UP to 42'
+29-01-14 10:00:44 >> Moving UP to 43'
+29-01-14 10:00:45 >> Moving UP to 44'
+29-01-14 10:00:45 >> Moving UP to 45'
+29-01-14 10:00:45 >> Moving UP to 46'
+29-01-14 10:00:45 >> Moving UP to 47'
+29-01-14 10:00:45 >> Moving UP to 48'
+29-01-14 10:00:45 >> Moving UP to 49'
+29-01-14 10:00:45 >> Moving UP to 50'
+29-01-14 10:00:45 >> Moving UP to 51'
+29-01-14 10:00:45 >> Moving UP to 52'
+29-01-14 10:00:45 >> Moving UP to 53'
+29-01-14 10:00:45 >> Moving UP to 54'
+29-01-14 10:00:50 >> Moving DOWN to 53'
+29-01-14 10:00:51 >> Moving DOWN to 52'
+29-01-14 10:00:51 >> Moving DOWN to 51'
+29-01-14 10:00:51 >> Moving DOWN to 50'
+29-01-14 10:00:52 >> Moving DOWN to 49'
+29-01-14 10:00:52 >> Moving DOWN to 48'
+29-01-14 10:00:52 >> Moving DOWN to 47'
+29-01-14 10:00:52 >> Moving DOWN to 46'
+29-01-14 10:00:52 >> Moving DOWN to 45'
+29-01-14 10:00:52 >> Moving DOWN to 44'
+29-01-14 10:00:52 >> Moving DOWN to 43'
+29-01-14 10:00:53 >> Moving DOWN to 42'
+29-01-14 10:00:53 >> Moving DOWN to 41'
+29-01-14 10:00:53 >> Moving DOWN to 40'
+29-01-14 10:00:53 >> Moving DOWN to 39'
+29-01-14 10:00:53 >> Moving DOWN to 38'
+29-01-14 10:00:53 >> Moving DOWN to 37'
+29-01-14 10:00:53 >> Moving DOWN to 36'
+29-01-14 10:00:53 >> Moving DOWN to 35'
+29-01-14 10:00:53 >> Moving DOWN to 34'
+29-01-14 10:00:53 >> Moving DOWN to 33'
+29-01-14 10:00:53 >> Moving DOWN to 32'
+29-01-14 10:00:54 >> Moving DOWN to 31'
+29-01-14 10:00:54 >> Moving DOWN to 30'
+29-01-14 10:00:54 >> Moving DOWN to 29'
+29-01-14 10:00:54 >> Moving DOWN to 28'
+29-01-14 10:00:54 >> Moving DOWN to 27'
+29-01-14 10:00:54 >> Moving DOWN to 26'
+29-01-14 10:00:54 >> Moving DOWN to 25'
+29-01-14 10:00:54 >> Moving DOWN to 24'
+29-01-14 10:00:54 >> Moving DOWN to 23'
+29-01-14 10:00:55 >> Moving DOWN to 22'
+29-01-14 10:00:55 >> Moving DOWN to 21'
+29-01-14 10:00:55 >> Moving DOWN to 20'
+29-01-14 10:00:55 >> Moving DOWN to 19'
+29-01-14 10:00:55 >> Moving DOWN to 18'
+29-01-14 10:00:55 >> Moving DOWN to 17'
+29-01-14 10:00:55 >> Moving DOWN to 16'
+29-01-14 10:00:55 >> Moving DOWN to 15'
+29-01-14 10:00:55 >> Moving DOWN to 14'
+29-01-14 10:00:56 >> Moving DOWN to 13'
+29-01-14 10:00:56 >> Moving DOWN to 12'
+29-01-14 10:00:56 >> Moving DOWN to 11'
+29-01-14 10:00:56 >> Moving DOWN to 10'
+29-01-14 10:00:57 >> Moving DOWN to 9'
+29-01-14 10:00:57 >> Moving DOWN to 8'
+29-01-14 10:00:57 >> Moving DOWN to 7'
+29-01-14 10:00:57 >> Moving DOWN to 6'
+29-01-14 10:00:58 >> Moving DOWN to 5'
+29-01-14 10:00:58 >> Moving DOWN to 4'
+29-01-14 10:00:59 >> Moving DOWN to 3'
+29-01-14 10:01:00 >> Moving DOWN to 2'
+29-01-14 10:01:00 >> Moving DOWN to 1'
+29-01-14 10:01:00 >> Moving DOWN to 1'
+29-01-14 10:01:01 >> Moving DOWN to 1'
+29-01-14 10:01:01 >> Moving DOWN to 1'
+29-01-14 10:01:02 >> Moving DOWN to 1'
+29-01-14 10:01:02 >> Moving DOWN to 1'
+29-01-14 10:01:03 >> Moving DOWN to 1'
+29-01-14 10:01:09 >> Closing database
+29-01-14 10:01:09 >> Power down.
+
+29-01-14 10:01:54 >> Beginning to run SageOS
+29-01-14 10:01:54 >> Power up.
+29-01-14 10:01:54 >> Opening database
+29-01-14 10:02:01 >> Moving DOWN to 1'
+29-01-14 10:02:04 >> Moving DOWN to 1'
+29-01-14 10:02:05 >> Moving DOWN to 1'
+29-01-14 10:02:06 >> Moving UP to 2'
+29-01-14 10:02:06 >> Moving UP to 3'
+29-01-14 10:02:07 >> Moving UP to 4'
+29-01-14 10:02:07 >> Moving UP to 5'
+29-01-14 10:02:07 >> Moving UP to 6'
+29-01-14 10:02:07 >> Moving UP to 7'
+29-01-14 10:02:08 >> Moving UP to 8'
+29-01-14 10:02:08 >> Moving UP to 9'
+29-01-14 10:02:08 >> Moving UP to 10'
+29-01-14 10:02:08 >> Moving UP to 11'
+29-01-14 10:02:09 >> Moving UP to 12'
+29-01-14 10:02:56 >> Beginning to run SageOS
+29-01-14 10:02:56 >> Power up.
+29-01-14 10:02:56 >> Opening database
+29-01-14 10:03:01 >> Moving DOWN to 55'
+29-01-14 10:03:03 >> Moving DOWN to 54'
+29-01-14 10:03:04 >> Moving UP to 55'
+29-01-14 10:03:05 >> Moving UP to 56'
+29-01-14 10:03:11 >> Moving DOWN to 55'
+29-01-14 10:03:11 >> Moving DOWN to 54'
+29-01-14 10:03:12 >> Moving DOWN to 53'
+29-01-14 10:03:12 >> Moving DOWN to 52'
+29-01-14 10:03:13 >> Moving DOWN to 51'
+29-01-14 10:03:13 >> Moving DOWN to 50'
+29-01-14 10:03:14 >> Moving DOWN to 49'
+29-01-14 10:03:14 >> Moving DOWN to 48'
+29-01-14 10:03:15 >> Moving DOWN to 47'
+29-01-14 10:03:15 >> Moving DOWN to 46'
+29-01-14 10:03:16 >> Moving DOWN to 45'
+29-01-14 10:03:16 >> Moving DOWN to 44'
+29-01-14 10:03:16 >> Moving DOWN to 43'
+29-01-14 10:03:17 >> Moving DOWN to 42'
+29-01-14 10:03:24 >> Moving UP to 43'
+29-01-14 10:03:25 >> Moving UP to 44'
+29-01-14 10:03:25 >> Moving UP to 45'
+29-01-14 10:03:25 >> Moving UP to 46'
+29-01-14 10:03:25 >> Moving UP to 47'
+29-01-14 10:03:25 >> Moving UP to 48'
+29-01-14 10:03:25 >> Moving UP to 49'
+29-01-14 10:03:25 >> Moving UP to 50'
+29-01-14 10:03:25 >> Moving UP to 51'
+29-01-14 10:03:25 >> Moving UP to 52'
+29-01-14 10:03:25 >> Moving UP to 53'
+29-01-14 10:03:25 >> Moving UP to 54'
+29-01-14 10:03:25 >> Moving UP to 55'
+29-01-14 10:03:25 >> Moving UP to 56'
+29-01-14 10:03:26 >> Moving DOWN to 55'
+29-01-14 10:03:31 >> Moving UP to 56'
+29-01-14 10:03:34 >> Moving DOWN to 55'
+29-01-14 10:03:35 >> Moving DOWN to 54'
+29-01-14 10:03:38 >> Moving DOWN to 53'
+29-01-14 10:03:38 >> Moving DOWN to 52'
+29-01-14 10:03:39 >> Moving DOWN to 51'
+29-01-14 10:03:40 >> Moving DOWN to 50'
+29-01-14 10:03:41 >> Moving DOWN to 49'
+29-01-14 10:03:41 >> Moving DOWN to 48'
+29-01-14 10:03:42 >> Moving DOWN to 47'
+29-01-14 10:03:43 >> Moving DOWN to 46'
+29-01-14 10:03:43 >> Moving DOWN to 45'
+29-01-14 10:03:44 >> Moving DOWN to 44'
+29-01-14 10:03:44 >> Moving DOWN to 43'
+29-01-14 10:03:44 >> Moving DOWN to 42'
+29-01-14 10:03:44 >> Moving DOWN to 41'
+29-01-14 10:03:44 >> Moving DOWN to 40'
+29-01-14 10:03:44 >> Moving DOWN to 39'
+29-01-14 10:03:44 >> Moving DOWN to 38'
+29-01-14 10:03:44 >> Moving DOWN to 37'
+29-01-14 10:03:44 >> Moving DOWN to 36'
+29-01-14 10:03:44 >> Moving DOWN to 35'
+29-01-14 10:03:44 >> Moving DOWN to 34'
+29-01-14 10:03:44 >> Moving DOWN to 33'
+29-01-14 10:03:44 >> Moving DOWN to 32'
+29-01-14 10:03:44 >> Moving DOWN to 31'
+29-01-14 10:03:44 >> Moving DOWN to 30'
+29-01-14 10:03:44 >> Moving DOWN to 29'
+29-01-14 10:03:44 >> Moving DOWN to 28'
+29-01-14 10:03:44 >> Moving DOWN to 27'
+29-01-14 10:03:44 >> Moving DOWN to 26'
+29-01-14 10:03:44 >> Moving DOWN to 25'
+29-01-14 10:03:45 >> Moving DOWN to 24'
+29-01-14 10:03:45 >> Moving DOWN to 23'
+29-01-14 10:03:45 >> Moving DOWN to 22'
+29-01-14 10:03:45 >> Moving DOWN to 21'
+29-01-14 10:03:45 >> Moving DOWN to 20'
+29-01-14 10:03:45 >> Moving DOWN to 19'
+29-01-14 10:03:45 >> Moving DOWN to 18'
+29-01-14 10:03:45 >> Moving DOWN to 17'
+29-01-14 10:03:45 >> Moving DOWN to 16'
+29-01-14 10:03:45 >> Moving DOWN to 15'
+29-01-14 10:03:45 >> Moving DOWN to 14'
+29-01-14 10:03:45 >> Moving DOWN to 13'
+29-01-14 10:03:45 >> Moving DOWN to 12'
+29-01-14 10:03:45 >> Moving DOWN to 11'
+29-01-14 10:03:45 >> Moving DOWN to 10'
+29-01-14 10:03:45 >> Moving DOWN to 9'
+29-01-14 10:03:45 >> Moving DOWN to 8'
+29-01-14 10:03:45 >> Moving DOWN to 7'
+29-01-14 10:03:45 >> Moving DOWN to 6'
+29-01-14 10:03:45 >> Moving DOWN to 5'
+29-01-14 10:03:45 >> Moving DOWN to 4'
+29-01-14 10:03:45 >> Moving DOWN to 3'
+29-01-14 10:03:45 >> Moving DOWN to 2'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:45 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:46 >> Moving DOWN to 1'
+29-01-14 10:03:47 >> Moving DOWN to 1'
+29-01-14 10:03:47 >> Moving DOWN to 1'
+29-01-14 10:03:47 >> Moving DOWN to 1'
+29-01-14 10:03:48 >> Moving DOWN to 1'
+29-01-14 10:03:48 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:49 >> Moving DOWN to 1'
+29-01-14 10:03:50 >> Moving DOWN to 1'
+29-01-14 10:03:50 >> Moving DOWN to 1'
+29-01-14 10:03:50 >> Moving DOWN to 1'
+29-01-14 10:03:50 >> Moving DOWN to 1'
+29-01-14 10:03:51 >> Moving DOWN to 1'
+29-01-14 10:03:51 >> Moving DOWN to 1'
+29-01-14 10:03:51 >> Moving DOWN to 1'
+29-01-14 10:03:51 >> Moving DOWN to 1'
+29-01-14 10:03:51 >> Moving DOWN to 1'
+29-01-14 10:03:52 >> Moving DOWN to 1'
+29-01-14 10:03:52 >> Moving DOWN to 1'
+29-01-14 10:03:54 >> Moving UP to 2'
+29-01-14 10:03:54 >> Moving UP to 3'
+29-01-14 10:03:54 >> Moving UP to 4'
+29-01-14 10:03:54 >> Moving UP to 5'
+29-01-14 10:03:54 >> Moving UP to 6'
+29-01-14 10:03:54 >> Moving UP to 7'
+29-01-14 10:03:54 >> Moving UP to 8'
+29-01-14 10:03:54 >> Moving UP to 9'
+29-01-14 10:03:54 >> Moving UP to 10'
+29-01-14 10:03:54 >> Moving UP to 11'
+29-01-14 10:03:54 >> Moving UP to 12'
+29-01-14 10:03:54 >> Moving UP to 13'
+29-01-14 10:03:54 >> Moving UP to 14'
+29-01-14 10:03:54 >> Moving UP to 15'
+29-01-14 10:03:55 >> Moving UP to 16'
+29-01-14 10:03:55 >> Moving UP to 17'
+29-01-14 10:03:55 >> Moving UP to 18'
+29-01-14 10:03:55 >> Moving UP to 19'
+29-01-14 10:03:55 >> Moving UP to 20'
+29-01-14 10:03:55 >> Moving UP to 21'
+29-01-14 10:03:55 >> Moving UP to 22'
+29-01-14 10:03:55 >> Moving UP to 23'
+29-01-14 10:03:55 >> Moving UP to 24'
+29-01-14 10:03:55 >> Moving UP to 25'
+29-01-14 10:03:55 >> Moving UP to 26'
+29-01-14 10:03:55 >> Moving UP to 27'
+29-01-14 10:03:55 >> Moving UP to 28'
+29-01-14 10:03:55 >> Moving UP to 29'
+29-01-14 10:03:55 >> Moving UP to 30'
+29-01-14 10:03:55 >> Moving UP to 31'
+29-01-14 10:03:55 >> Moving UP to 32'
+29-01-14 10:03:55 >> Moving UP to 33'
+29-01-14 10:03:55 >> Moving UP to 34'
+29-01-14 10:03:55 >> Moving UP to 35'
+29-01-14 10:03:55 >> Moving UP to 36'
+29-01-14 10:03:55 >> Moving UP to 37'
+29-01-14 10:03:55 >> Moving UP to 38'
+29-01-14 10:03:55 >> Moving UP to 39'
+29-01-14 10:03:55 >> Moving UP to 40'
+29-01-14 10:03:55 >> Moving UP to 41'
+29-01-14 10:03:55 >> Moving UP to 42'
+29-01-14 10:03:55 >> Moving UP to 43'
+29-01-14 10:03:55 >> Moving UP to 44'
+29-01-14 10:03:55 >> Moving UP to 45'
+29-01-14 10:03:56 >> Moving UP to 46'
+29-01-14 10:03:56 >> Moving UP to 47'
+29-01-14 10:03:56 >> Moving UP to 48'
+29-01-14 10:03:56 >> Moving UP to 49'
+29-01-14 10:03:56 >> Moving UP to 50'
+29-01-14 10:03:56 >> Moving UP to 51'
+29-01-14 10:03:56 >> Moving UP to 52'
+29-01-14 10:03:56 >> Moving UP to 53'
+29-01-14 10:03:56 >> Moving UP to 54'
+29-01-14 10:03:56 >> Moving UP to 55'
+29-01-14 10:03:56 >> Moving UP to 56'
+29-01-14 10:04:22 >> Moving DOWN to 55'
+29-01-14 10:04:24 >> Moving UP to 56'
+29-01-14 10:04:50 >> Closing database
+29-01-14 10:04:50 >> Power down.
+
+29-01-14 10:04:55 >> Beginning to run SageOS
+29-01-14 10:04:55 >> Power up.
+29-01-14 10:04:55 >> Opening database
+29-01-14 10:04:58 >> Moving DOWN to 56'
+29-01-14 10:04:59 >> Moving DOWN to 55'
+29-01-14 10:05:00 >> Moving DOWN to 54'
+29-01-14 10:05:01 >> Moving DOWN to 53'
+29-01-14 10:05:01 >> Moving UP to 54'
+29-01-14 10:05:02 >> Moving UP to 55'
+29-01-14 10:05:02 >> Moving UP to 56'
+29-01-14 10:05:02 >> Moving UP to 57'
+29-01-14 10:05:03 >> Moving UP to 58'
+29-01-14 10:05:03 >> Moving UP to 58'
+29-01-14 10:05:03 >> Moving UP to 58'
+29-01-14 10:05:04 >> Moving UP to 58'
+29-01-14 10:05:04 >> Moving UP to 58'
+29-01-14 10:05:04 >> Moving UP to 58'
+29-01-14 10:05:05 >> Moving UP to 58'
+29-01-14 10:05:05 >> Moving UP to 58'
+29-01-14 10:05:06 >> Moving DOWN to 57'
+29-01-14 10:05:07 >> Moving DOWN to 56'
+29-01-14 10:05:07 >> Moving DOWN to 55'
+29-01-14 10:05:07 >> Moving DOWN to 54'
+29-01-14 10:05:08 >> Moving DOWN to 53'
+29-01-14 10:05:08 >> Moving DOWN to 52'
+29-01-14 10:05:08 >> Moving DOWN to 51'
+29-01-14 10:05:09 >> Moving DOWN to 50'
+29-01-14 10:05:09 >> Moving DOWN to 49'
+29-01-14 10:05:09 >> Moving DOWN to 48'
+29-01-14 10:05:09 >> Moving DOWN to 47'
+29-01-14 10:05:09 >> Moving DOWN to 46'
+29-01-14 10:05:09 >> Moving DOWN to 45'
+29-01-14 10:05:09 >> Moving DOWN to 44'
+29-01-14 10:05:09 >> Moving DOWN to 43'
+29-01-14 10:05:09 >> Moving DOWN to 42'
+29-01-14 10:05:09 >> Moving DOWN to 41'
+29-01-14 10:05:09 >> Moving DOWN to 40'
+29-01-14 10:05:09 >> Moving DOWN to 39'
+29-01-14 10:05:09 >> Moving DOWN to 38'
+29-01-14 10:05:09 >> Moving DOWN to 37'
+29-01-14 10:05:09 >> Moving DOWN to 36'
+29-01-14 10:05:09 >> Moving DOWN to 35'
+29-01-14 10:05:09 >> Moving DOWN to 34'
+29-01-14 10:05:09 >> Moving DOWN to 33'
+29-01-14 10:05:09 >> Moving DOWN to 32'
+29-01-14 10:05:09 >> Moving DOWN to 31'
+29-01-14 10:05:09 >> Moving DOWN to 30'
+29-01-14 10:05:09 >> Moving DOWN to 29'
+29-01-14 10:05:09 >> Moving DOWN to 28'
+29-01-14 10:05:09 >> Moving DOWN to 27'
+29-01-14 10:05:09 >> Moving DOWN to 26'
+29-01-14 10:05:09 >> Moving DOWN to 25'
+29-01-14 10:05:09 >> Moving DOWN to 24'
+29-01-14 10:05:10 >> Moving DOWN to 23'
+29-01-14 10:05:10 >> Moving UP to 24'
+29-01-14 10:05:10 >> Moving UP to 25'
+29-01-14 10:05:10 >> Moving UP to 26'
+29-01-14 10:05:10 >> Moving UP to 27'
+29-01-14 10:05:10 >> Moving UP to 28'
+29-01-14 10:05:10 >> Moving UP to 29'
+29-01-14 10:05:10 >> Moving UP to 30'
+29-01-14 10:05:10 >> Moving UP to 31'
+29-01-14 10:05:10 >> Moving UP to 32'
+29-01-14 10:05:10 >> Moving UP to 33'
+29-01-14 10:05:10 >> Moving UP to 34'
+29-01-14 10:05:11 >> Moving UP to 35'
+29-01-14 10:05:11 >> Moving UP to 36'
+29-01-14 10:05:11 >> Moving UP to 37'
+29-01-14 10:05:11 >> Moving UP to 38'
+29-01-14 10:05:11 >> Moving UP to 39'
+29-01-14 10:05:11 >> Moving UP to 40'
+29-01-14 10:05:11 >> Moving UP to 41'
+29-01-14 10:05:11 >> Moving UP to 42'
+29-01-14 10:05:11 >> Moving UP to 43'
+29-01-14 10:05:11 >> Moving UP to 44'
+29-01-14 10:05:11 >> Moving UP to 45'
+29-01-14 10:05:11 >> Moving UP to 46'
+29-01-14 10:05:11 >> Moving UP to 47'
+29-01-14 10:05:11 >> Moving UP to 48'
+29-01-14 10:05:11 >> Moving UP to 49'
+29-01-14 10:05:11 >> Moving UP to 50'
+29-01-14 10:05:11 >> Moving UP to 51'
+29-01-14 10:05:11 >> Moving UP to 52'
+29-01-14 10:05:11 >> Moving UP to 53'
+29-01-14 10:05:11 >> Moving UP to 54'
+29-01-14 10:05:11 >> Moving UP to 55'
+29-01-14 10:05:11 >> Moving UP to 56'
+29-01-14 10:05:11 >> Moving UP to 57'
+29-01-14 10:05:11 >> Moving UP to 58'
+29-01-14 10:05:11 >> Moving UP to 58'
+29-01-14 10:05:11 >> Moving UP to 58'
+29-01-14 10:05:11 >> Moving UP to 58'
+29-01-14 10:05:11 >> Moving UP to 58'
+29-01-14 10:05:11 >> Moving UP to 58'
+29-01-14 10:05:11 >> Moving UP to 58'
+29-01-14 10:05:12 >> Moving UP to 58'
+29-01-14 10:05:12 >> Moving UP to 58'
+29-01-14 10:05:12 >> Moving UP to 58'
+29-01-14 10:05:12 >> Moving UP to 58'
+29-01-14 10:05:12 >> Moving UP to 58'
+29-01-14 10:05:12 >> Moving UP to 58'
+29-01-14 10:05:12 >> Moving DOWN to 57'
+29-01-14 10:05:12 >> Closing database
+29-01-14 10:05:12 >> Power down.
+
+29-01-14 10:07:49 >> Beginning to run SageOS
+29-01-14 10:07:49 >> Power up.
+29-01-14 10:07:49 >> Opening database
+29-01-14 10:08:00 >> Closing database
+29-01-14 10:08:00 >> Power down.
+
+29-01-14 10:08:24 >> Beginning to run SageOS
+29-01-14 10:08:24 >> Power up.
+29-01-14 10:08:24 >> Opening database
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:37 >> Moving UP to 61'
+29-01-14 10:08:38 >> Moving UP to 61'
+29-01-14 10:08:38 >> Moving UP to 61'
+29-01-14 10:08:38 >> Moving UP to 61'
+29-01-14 10:08:38 >> Moving UP to 61'
+29-01-14 10:08:38 >> Moving UP to 61'
+29-01-14 10:08:38 >> Moving UP to 61'
+29-01-14 10:08:38 >> Moving UP to 61'
+29-01-14 10:08:39 >> Moving UP to 61'
+29-01-14 10:08:44 >> Moving UP to 61'
+29-01-14 10:12:39 >> Beginning to run SageOS
+29-01-14 10:12:39 >> Power up.
+29-01-14 10:12:39 >> Opening database
+29-01-14 10:12:51 >> Moving UP to 63'
+29-01-14 10:12:51 >> Moving UP to 63'
+29-01-14 10:12:52 >> Moving UP to 63'
+29-01-14 10:13:00 >> Moving UP to 64'
+29-01-14 10:13:09 >> Moving UP to 65'
+29-01-14 10:13:09 >> Moving UP to 65'
+29-01-14 11:02:17 >> Beginning to run SageOS
+29-01-14 11:02:17 >> Power up.
+29-01-14 11:02:17 >> Opening database
+29-01-14 11:02:43 >> Closing database
+29-01-14 11:02:43 >> Power down.
+
+29-01-14 11:03:44 >> Beginning to run SageOS
+29-01-14 11:03:44 >> Power up.
+29-01-14 11:03:44 >> Opening database
+29-01-14 11:04:02 >> Closing database
+29-01-14 11:04:02 >> Power down.
+
+29-01-14 11:05:42 >> Beginning to run SageOS
+29-01-14 11:05:42 >> Power up.
+29-01-14 11:05:42 >> Opening database
+29-01-14 11:06:27 >> Beginning to run SageOS
+29-01-14 11:06:27 >> Power up.
+29-01-14 11:06:27 >> Opening database
+29-01-14 11:06:33 >> Closing database
+29-01-14 11:06:33 >> Power down.
+
+29-01-14 11:06:44 >> Beginning to run SageOS
+29-01-14 11:06:44 >> Power up.
+29-01-14 11:06:44 >> Opening database
+29-01-14 11:06:51 >> Closing database
+29-01-14 11:06:51 >> Power down.
+
+29-01-14 11:07:03 >> Beginning to run SageOS
+29-01-14 11:07:03 >> Power up.
+29-01-14 11:07:03 >> Opening database
+29-01-14 11:07:30 >> Closing database
+29-01-14 11:07:30 >> Power down.
+
+29-01-14 11:08:19 >> Beginning to run SageOS
+29-01-14 11:08:19 >> Power up.
+29-01-14 11:08:19 >> Opening database
+29-01-14 11:09:08 >> Beginning to run SageOS
+29-01-14 11:09:08 >> Power up.
+29-01-14 11:09:08 >> Opening database
+29-01-14 11:09:25 >> Closing database
+29-01-14 11:09:25 >> Power down.
+
+29-01-14 11:10:31 >> Beginning to run SageOS
+29-01-14 11:10:32 >> Power up.
+29-01-14 11:10:32 >> Opening database
+29-01-14 11:10:43 >> Closing database
+29-01-14 11:10:43 >> Power down.
+
+29-01-14 11:11:44 >> Beginning to run SageOS
+29-01-14 11:11:44 >> Power up.
+29-01-14 11:11:44 >> Opening database
+29-01-14 11:11:47 >> Closing database
+29-01-14 11:11:47 >> Power down.
+
+29-01-14 11:12:40 >> Beginning to run SageOS
+29-01-14 11:12:40 >> Power up.
+29-01-14 11:12:40 >> Opening database
+29-01-14 11:12:43 >> Closing database
+29-01-14 11:12:43 >> Power down.
+
+29-01-14 11:42:51 >> Beginning to run SageOS
+29-01-14 11:42:51 >> Power up.
+29-01-14 11:42:51 >> Opening database
+29-01-14 11:46:38 >> Closing database
+29-01-14 11:46:38 >> Power down.
+
+29-01-14 11:52:41 >> Beginning to run SageOS
+29-01-14 11:52:41 >> Power up.
+29-01-14 11:52:41 >> Opening database
+29-01-14 11:55:29 >> Closing database
+29-01-14 11:55:29 >> Power down.
+
+29-01-14 14:05:41 >> Beginning to run SageOS
+29-01-14 14:05:41 >> Power up.
+29-01-14 14:05:41 >> Opening database
+29-01-14 14:06:04 >> Beginning to run SageOS
+29-01-14 14:06:04 >> Power up.
+29-01-14 14:06:04 >> Opening database
+29-01-14 14:07:32 >> Beginning to run SageOS
+29-01-14 14:07:32 >> Power up.
+29-01-14 14:07:32 >> Opening database
+29-01-14 14:08:03 >> Beginning to run SageOS
+29-01-14 14:08:03 >> Power up.
+29-01-14 14:08:03 >> Opening database
+29-01-14 14:09:01 >> Closing database
+29-01-14 14:09:01 >> Power down.
+
+29-01-14 14:11:31 >> Beginning to run SageOS
+29-01-14 14:11:31 >> Power up.
+29-01-14 14:11:31 >> Opening database
+29-01-14 14:14:06 >> Closing database
+29-01-14 14:14:06 >> Power down.
+
+29-01-14 14:16:11 >> Beginning to run SageOS
+29-01-14 14:16:11 >> Power up.
+29-01-14 14:16:11 >> Opening database
+29-01-14 14:17:09 >> Closing database
+29-01-14 14:17:09 >> Power down.
+
+30-01-14 01:54:30 >> Beginning to run SageOS
+30-01-14 01:54:30 >> Power up.
+30-01-14 01:54:30 >> Opening database
+30-01-14 01:55:06 >> Closing database
+30-01-14 01:55:06 >> Power down.
+
+30-01-14 10:47:23 >> Beginning to run SageOS
+30-01-14 10:47:23 >> Power up.
+30-01-14 10:47:23 >> Opening database
+30-01-14 11:06:15 >> Beginning to run SageOS
+30-01-14 11:06:15 >> Power up.
+30-01-14 11:06:15 >> Opening database
+30-01-14 11:10:31 >> Beginning to run SageOS
+30-01-14 11:10:31 >> Power up.
+30-01-14 11:10:31 >> Opening database
+30-01-14 11:12:43 >> Beginning to run SageOS
+30-01-14 11:12:43 >> Power up.
+30-01-14 11:12:43 >> Opening database
+30-01-14 11:15:47 >> Closing database
+30-01-14 11:15:47 >> Power down.
+
+
+30-01-14 11:16:46 >> ******Testing PQueue******
+30-01-14 11:16:47 >> Allocating memory for queue of size 3
+
+30-01-14 11:16:47 >> Adding valid element with id 1, priority 1
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should be 1
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should NOT be 2
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Adding valid element with id 2, priority 10
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should be 2
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should NOT be 1
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Adding valid element with id 3, priority 5
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should be 2
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Popping top of queue
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should be 3
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Popping tid 1
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should be 3
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Attempting to pop element that doesn't exist
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should be 3
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Popping last element
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Peek should be -1
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Testing pop on empty stack
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:47 >> Testing peek on empty stack
+30-01-14 11:16:47 >> SUCCESS
+
+30-01-14 11:16:48 >> Destructing queue
+30-01-14 11:16:48 >> PQueue test complete
+30-01-14 16:59:58 >> Beginning to run SageOS
+30-01-14 16:59:58 >> Power up.
+30-01-14 16:59:58 >> Opening database
+30-01-14 17:01:28 >> Closing database
+30-01-14 17:01:28 >> Power down.
+
+30-01-14 17:01:33 >> Beginning to run SageOS
+30-01-14 17:01:33 >> Power up.
+30-01-14 17:01:33 >> Opening database
+30-01-14 17:01:53 >> Beginning to run SageOS
+30-01-14 17:01:53 >> Power up.
+30-01-14 17:01:53 >> Opening database
+31-01-14 11:56:44 >> Beginning to run SageOS
+31-01-14 11:56:44 >> Power up.
+31-01-14 11:56:44 >> Opening database
+02-02-14 19:54:02 >> Beginning to run SageOS
+02-02-14 19:54:03 >> Power up.
+02-02-14 19:54:03 >> Opening database
+02-02-14 20:25:02 >> Beginning to run SageOS
+02-02-14 20:25:02 >> Power up.
+02-02-14 20:25:02 >> Opening database
+02-02-14 20:25:54 >> Closing database
+02-02-14 20:25:55 >> Power down.
+
+02-02-14 21:07:16 >> Beginning to run SageOS
+02-02-14 21:07:16 >> Power up.
+02-02-14 21:07:16 >> Opening database
+02-02-14 21:07:26 >> Closing database
+02-02-14 21:07:26 >> Power down.
+
+03-02-14 11:17:38 >> Beginning to run SageOS
+03-02-14 11:17:38 >> Power up.
+03-02-14 11:17:38 >> Opening database
+03-02-14 11:27:26 >> Closing database
+03-02-14 11:27:26 >> Power down.
+
+03-02-14 21:42:01 >> Beginning to run SageOS
+03-02-14 21:42:01 >> Power up.
+03-02-14 21:42:01 >> Opening database
+03-02-14 21:42:04 >> Closing database
+03-02-14 21:42:05 >> Power down.
+
+05-02-14 14:08:45 >> Beginning to run SageOS
+05-02-14 14:08:45 >> Power up.
+05-02-14 14:08:45 >> Opening database
+05-02-14 14:09:11 >> Closing database
+05-02-14 14:09:11 >> Power down.
+
+05-02-14 14:31:33 >> Beginning to run SageOS
+05-02-14 14:31:33 >> Power up.
+05-02-14 14:31:33 >> Opening database
+05-02-14 14:33:12 >> Closing database
+05-02-14 14:33:12 >> Power down.
+
+05-02-14 14:35:05 >> Beginning to run SageOS
+05-02-14 14:35:05 >> Power up.
+05-02-14 14:35:05 >> Opening database
+05-02-14 14:36:28 >> Beginning to run SageOS
+05-02-14 14:36:28 >> Power up.
+05-02-14 14:36:28 >> Opening database
+05-02-14 14:37:20 >> Beginning to run SageOS
+05-02-14 14:37:20 >> Power up.
+05-02-14 14:37:20 >> Opening database
+05-02-14 14:37:39 >> Closing database
+05-02-14 14:37:39 >> Power down.
+
+05-02-14 14:38:19 >> Beginning to run SageOS
+05-02-14 14:38:20 >> Power up.
+05-02-14 14:38:20 >> Opening database
+05-02-14 14:41:28 >> Beginning to run SageOS
+05-02-14 14:41:28 >> Power up.
+05-02-14 14:41:28 >> Opening database
+05-02-14 14:41:55 >> Beginning to run SageOS
+05-02-14 14:41:55 >> Power up.
+05-02-14 14:41:55 >> Opening database
+05-02-14 14:45:26 >> Beginning to run SageOS
+05-02-14 14:45:26 >> Power up.
+05-02-14 14:45:26 >> Opening database
+05-02-14 14:51:45 >> Beginning to run SageOS
+05-02-14 14:51:45 >> Power up.
+05-02-14 14:51:45 >> Opening database
+05-02-14 14:54:44 >> Beginning to run SageOS
+05-02-14 14:54:44 >> Power up.
+05-02-14 14:54:44 >> Opening database
+05-02-14 14:55:43 >> Beginning to run SageOS
+05-02-14 14:55:43 >> Power up.
+05-02-14 14:55:43 >> Opening database
+05-02-14 14:56:43 >> Beginning to run SageOS
+05-02-14 14:56:43 >> Power up.
+05-02-14 14:56:43 >> Opening database
+05-02-14 14:56:56 >> Beginning to run SageOS
+05-02-14 14:56:56 >> Power up.
+05-02-14 14:56:56 >> Opening database
+05-02-14 14:58:28 >> Beginning to run SageOS
+05-02-14 14:58:28 >> Power up.
+05-02-14 14:58:28 >> Opening database
+05-02-14 14:58:49 >> Beginning to run SageOS
+05-02-14 14:58:49 >> Power up.
+05-02-14 14:58:49 >> Opening database
+05-02-14 14:59:11 >> Beginning to run SageOS
+05-02-14 14:59:11 >> Power up.
+05-02-14 14:59:11 >> Opening database
+05-02-14 14:59:48 >> Beginning to run SageOS
+05-02-14 14:59:48 >> Power up.
+05-02-14 14:59:48 >> Opening database
+05-02-14 15:00:02 >> Beginning to run SageOS
+05-02-14 15:00:02 >> Power up.
+05-02-14 15:00:02 >> Opening database
+05-02-14 15:02:49 >> Beginning to run SageOS
+05-02-14 15:02:49 >> Power up.
+05-02-14 15:02:49 >> Opening database
+05-02-14 15:03:17 >> Closing database
+05-02-14 15:03:17 >> Power down.
+
+05-02-14 15:04:23 >> Beginning to run SageOS
+05-02-14 15:04:23 >> Power up.
+05-02-14 15:04:23 >> Opening database
+05-02-14 15:04:49 >> Beginning to run SageOS
+05-02-14 15:04:49 >> Power up.
+05-02-14 15:04:49 >> Opening database
+05-02-14 15:45:29 >> Beginning to run SageOS
+05-02-14 15:45:29 >> Power up.
+05-02-14 15:45:29 >> Opening database
+05-02-14 15:46:16 >> Beginning to run SageOS
+05-02-14 15:46:16 >> Power up.
+05-02-14 15:46:16 >> Opening database
+05-02-14 15:55:15 >> Beginning to run SageOS
+05-02-14 15:55:15 >> Power up.
+05-02-14 15:55:15 >> Opening database
+05-02-14 15:55:36 >> Beginning to run SageOS
+05-02-14 15:55:36 >> Power up.
+05-02-14 15:55:36 >> Opening database
+05-02-14 15:56:34 >> Beginning to run SageOS
+05-02-14 15:56:34 >> Power up.
+05-02-14 15:56:34 >> Opening database
+05-02-14 17:11:25 >> Beginning to run SageOS
+05-02-14 17:11:25 >> Power up.
+05-02-14 17:11:25 >> Opening database
+05-02-14 17:11:47 >> Closing database
+05-02-14 17:11:47 >> Power down.
+
+05-02-14 17:11:59 >> Beginning to run SageOS
+05-02-14 17:11:59 >> Power up.
+05-02-14 17:11:59 >> Opening database
+05-02-14 17:18:55 >> Beginning to run SageOS
+05-02-14 17:18:55 >> Power up.
+05-02-14 17:18:55 >> Opening database
+05-02-14 17:22:39 >> Beginning to run SageOS
+05-02-14 17:22:39 >> Power up.
+05-02-14 17:22:39 >> Opening database
+05-02-14 17:24:48 >> Beginning to run SageOS
+05-02-14 17:24:48 >> Power up.
+05-02-14 17:24:48 >> Opening database
+05-02-14 17:24:59 >> Closing database
+05-02-14 17:24:59 >> Power down.
+
+05-02-14 17:31:01 >> Beginning to run SageOS
+05-02-14 17:31:01 >> Power up.
+05-02-14 17:31:01 >> Opening database
+05-02-14 17:34:57 >> Beginning to run SageOS
+05-02-14 17:34:57 >> Power up.
+05-02-14 17:34:57 >> Opening database
+05-02-14 19:05:52 >> Beginning to run SageOS
+05-02-14 19:05:52 >> Power up.
+05-02-14 19:05:52 >> Opening database
+05-02-14 19:06:09 >> Beginning to run SageOS
+05-02-14 19:06:09 >> Power up.
+05-02-14 19:06:09 >> Opening database
+05-02-14 19:07:37 >> Beginning to run SageOS
+05-02-14 19:07:37 >> Power up.
+05-02-14 19:07:37 >> Opening database
+05-02-14 19:07:49 >> Beginning to run SageOS
+05-02-14 19:07:49 >> Power up.
+05-02-14 19:07:49 >> Opening database
+05-02-14 19:08:07 >> Closing database
+05-02-14 19:08:07 >> Power down.
+
+05-02-14 19:10:10 >> Beginning to run SageOS
+05-02-14 19:10:10 >> Power up.
+05-02-14 19:10:10 >> Opening database
+05-02-14 19:11:51 >> Beginning to run SageOS
+05-02-14 19:11:51 >> Power up.
+05-02-14 19:11:51 >> Opening database
+05-02-14 19:13:36 >> Beginning to run SageOS
+05-02-14 19:13:36 >> Power up.
+05-02-14 19:13:36 >> Opening database
+05-02-14 19:13:59 >> Closing database
+05-02-14 19:13:59 >> Power down.
+
+05-02-14 19:14:35 >> Beginning to run SageOS
+05-02-14 19:14:35 >> Power up.
+05-02-14 19:14:35 >> Opening database
+05-02-14 19:14:57 >> Closing database
+05-02-14 19:14:57 >> Power down.
+
+05-02-14 19:15:58 >> Beginning to run SageOS
+05-02-14 19:15:58 >> Power up.
+05-02-14 19:15:58 >> Opening database
+05-02-14 19:16:31 >> Closing database
+05-02-14 19:16:31 >> Power down.
+
+05-02-14 19:17:31 >> Beginning to run SageOS
+05-02-14 19:17:31 >> Power up.
+05-02-14 19:17:31 >> Opening database
+05-02-14 19:17:46 >> Closing database
+05-02-14 19:17:46 >> Power down.
+
+05-02-14 19:18:36 >> Beginning to run SageOS
+05-02-14 19:18:36 >> Power up.
+05-02-14 19:18:36 >> Opening database
+05-02-14 19:19:42 >> Closing database
+05-02-14 19:19:42 >> Power down.
+
+05-02-14 19:20:33 >> Beginning to run SageOS
+05-02-14 19:20:33 >> Power up.
+05-02-14 19:20:33 >> Opening database
+05-02-14 19:20:55 >> Closing database
+05-02-14 19:20:55 >> Power down.
+
+05-02-14 19:23:29 >> Beginning to run SageOS
+05-02-14 19:23:29 >> Power up.
+05-02-14 19:23:29 >> Opening database
+05-02-14 19:24:05 >> Closing database
+05-02-14 19:24:05 >> Power down.
+
+05-02-14 19:26:40 >> Beginning to run SageOS
+05-02-14 19:26:40 >> Power up.
+05-02-14 19:26:40 >> Opening database
+05-02-14 19:27:06 >> Closing database
+05-02-14 19:27:06 >> Power down.
+
+05-02-14 19:27:40 >> Beginning to run SageOS
+05-02-14 19:27:40 >> Power up.
+05-02-14 19:27:40 >> Opening database
+05-02-14 19:29:13 >> Closing database
+05-02-14 19:29:13 >> Power down.
+
+05-02-14 19:30:04 >> Beginning to run SageOS
+05-02-14 19:30:04 >> Power up.
+05-02-14 19:30:04 >> Opening database
+05-02-14 19:30:44 >> Closing database
+05-02-14 19:30:44 >> Power down.
+
+05-02-14 19:31:16 >> Beginning to run SageOS
+05-02-14 19:31:16 >> Power up.
+05-02-14 19:31:16 >> Opening database
+05-02-14 19:32:29 >> Beginning to run SageOS
+05-02-14 19:32:29 >> Power up.
+05-02-14 19:32:29 >> Opening database
+05-02-14 19:33:55 >> Closing database
+05-02-14 19:33:55 >> Power down.
+
+05-02-14 19:35:49 >> Beginning to run SageOS
+05-02-14 19:35:49 >> Power up.
+05-02-14 19:35:50 >> Opening database
+05-02-14 19:37:57 >> Beginning to run SageOS
+05-02-14 19:37:57 >> Power up.
+05-02-14 19:37:57 >> Opening database
+05-02-14 19:39:24 >> Beginning to run SageOS
+05-02-14 19:39:24 >> Power up.
+05-02-14 19:39:24 >> Opening database
+05-02-14 19:39:34 >> Beginning to run SageOS
+05-02-14 19:39:34 >> Power up.
+05-02-14 19:39:34 >> Opening database
+05-02-14 19:39:51 >> Beginning to run SageOS
+05-02-14 19:39:51 >> Power up.
+05-02-14 19:39:51 >> Opening database
+05-02-14 19:40:16 >> Closing database
+05-02-14 19:40:16 >> Power down.
+
+05-02-14 19:40:41 >> Beginning to run SageOS
+05-02-14 19:40:41 >> Power up.
+05-02-14 19:40:41 >> Opening database
+05-02-14 19:41:08 >> Closing database
+05-02-14 19:41:08 >> Power down.
+
+05-02-14 19:49:03 >> Beginning to run SageOS
+05-02-14 19:49:03 >> Power up.
+05-02-14 19:49:03 >> Opening database
+05-02-14 20:00:53 >> Closing database
+05-02-14 20:00:53 >> Power down.
+
+05-02-14 20:00:59 >> Beginning to run SageOS
+05-02-14 20:00:59 >> Power up.
+05-02-14 20:00:59 >> Opening database
+05-02-14 20:01:35 >> Closing database
+05-02-14 20:01:35 >> Power down.
+
+05-02-14 20:11:50 >> Beginning to run SageOS
+05-02-14 20:11:50 >> Power up.
+05-02-14 20:11:50 >> Opening database
+05-02-14 20:19:56 >> Beginning to run SageOS
+05-02-14 20:19:56 >> Power up.
+05-02-14 20:19:56 >> Opening database
+05-02-14 20:23:27 >> Closing database
+05-02-14 20:23:27 >> Power down.
+
+05-02-14 20:24:21 >> Beginning to run SageOS
+05-02-14 20:24:21 >> Power up.
+05-02-14 20:24:21 >> Opening database
+05-02-14 20:25:09 >> Beginning to run SageOS
+05-02-14 20:25:09 >> Power up.
+05-02-14 20:25:09 >> Opening database
+05-02-14 20:29:38 >> Beginning to run SageOS
+05-02-14 20:29:38 >> Power up.
+05-02-14 20:29:38 >> Opening database
+05-02-14 20:31:45 >> Closing database
+05-02-14 20:31:45 >> Power down.
+
+05-02-14 21:05:46 >> Beginning to run SageOS
+05-02-14 21:05:46 >> Power up.
+05-02-14 21:05:46 >> Opening database
+05-02-14 21:06:40 >> Beginning to run SageOS
+05-02-14 21:06:40 >> Power up.
+05-02-14 21:06:40 >> Opening database
+05-02-14 21:07:22 >> Beginning to run SageOS
+05-02-14 21:07:22 >> Power up.
+05-02-14 21:07:22 >> Opening database
+05-02-14 21:07:44 >> Closing database
+05-02-14 21:07:44 >> Power down.
+
+05-02-14 21:08:03 >> Beginning to run SageOS
+05-02-14 21:08:03 >> Power up.
+05-02-14 21:08:03 >> Opening database
+05-02-14 21:08:20 >> Beginning to run SageOS
+05-02-14 21:08:20 >> Power up.
+05-02-14 21:08:20 >> Opening database
+05-02-14 21:08:58 >> Beginning to run SageOS
+05-02-14 21:08:58 >> Power up.
+05-02-14 21:08:58 >> Opening database
+05-02-14 21:28:44 >> Beginning to run SageOS
+05-02-14 21:28:44 >> Power up.
+05-02-14 21:28:44 >> Opening database
+05-02-14 21:29:02 >> Closing database
+05-02-14 21:29:02 >> Power down.
+
+20-02-14 01:11:07 >> Beginning to run SageOS
+20-02-14 01:11:07 >> Power up.
+20-02-14 01:11:07 >> Opening database
+20-02-14 01:11:52 >> Beginning to run SageOS
+20-02-14 01:11:52 >> Power up.
+20-02-14 01:11:52 >> Opening database
+20-02-14 01:14:23 >> Beginning to run SageOS
+20-02-14 01:14:23 >> Power up.
+20-02-14 01:14:23 >> Opening database
+20-02-14 01:16:32 >> Beginning to run SageOS
+20-02-14 01:16:32 >> Power up.
+20-02-14 01:16:32 >> Opening database
+20-02-14 01:16:50 >> Beginning to run SageOS
+20-02-14 01:16:50 >> Power up.
+20-02-14 01:16:50 >> Opening database
+20-02-14 01:18:43 >> Beginning to run SageOS
+20-02-14 01:18:43 >> Power up.
+20-02-14 01:18:43 >> Opening database
+20-02-14 01:18:50 >> Closing database
+20-02-14 01:18:50 >> Power down.
+
+20-02-14 01:19:15 >> Beginning to run SageOS
+20-02-14 01:19:15 >> Power up.
+20-02-14 01:19:15 >> Opening database
+20-02-14 01:23:59 >> Beginning to run SageOS
+20-02-14 01:23:59 >> Power up.
+20-02-14 01:23:59 >> Opening database
+20-02-14 01:25:07 >> Beginning to run SageOS
+20-02-14 01:25:07 >> Power up.
+20-02-14 01:25:07 >> Opening database
+20-02-14 01:26:17 >> Beginning to run SageOS
+20-02-14 01:26:17 >> Power up.
+20-02-14 01:26:17 >> Opening database
+20-02-14 01:27:22 >> Beginning to run SageOS
+20-02-14 01:27:22 >> Power up.
+20-02-14 01:27:22 >> Opening database
+20-02-14 01:27:53 >> Beginning to run SageOS
+20-02-14 01:27:53 >> Power up.
+20-02-14 01:27:53 >> Opening database
+20-02-14 01:28:59 >> Beginning to run SageOS
+20-02-14 01:28:59 >> Power up.
+20-02-14 01:28:59 >> Opening database
+20-02-14 01:30:02 >> Closing database
+20-02-14 01:30:02 >> Power down.
+
+20-02-14 01:30:06 >> Beginning to run SageOS
+20-02-14 01:30:06 >> Power up.
+20-02-14 01:30:06 >> Opening database
+20-02-14 01:30:26 >> Beginning to run SageOS
+20-02-14 01:30:26 >> Power up.
+20-02-14 01:30:26 >> Opening database
+20-02-14 01:30:49 >> Closing database
+20-02-14 01:30:49 >> Power down.
+
+20-02-14 01:30:56 >> Beginning to run SageOS
+20-02-14 01:30:56 >> Power up.
+20-02-14 01:30:56 >> Opening database
+20-02-14 01:32:17 >> Beginning to run SageOS
+20-02-14 01:32:17 >> Power up.
+20-02-14 01:32:17 >> Opening database
+20-02-14 01:42:17 >> Closing database
+20-02-14 01:42:17 >> Power down.
+
+20-02-14 01:49:47 >> Beginning to run SageOS
+20-02-14 01:49:47 >> Power up.
+20-02-14 01:49:47 >> Opening database
+20-02-14 01:51:27 >> Beginning to run SageOS
+20-02-14 01:51:27 >> Power up.
+20-02-14 01:51:27 >> Opening database
+20-02-14 01:51:36 >> Beginning to run SageOS
+20-02-14 01:51:36 >> Power up.
+20-02-14 01:51:36 >> Opening database
+20-02-14 01:52:00 >> Closing database
+20-02-14 01:52:00 >> Power down.
+
+20-02-14 01:52:30 >> Beginning to run SageOS
+20-02-14 01:52:30 >> Power up.
+20-02-14 01:52:30 >> Opening database
+20-02-14 01:52:54 >> Beginning to run SageOS
+20-02-14 01:52:54 >> Power up.
+20-02-14 01:52:54 >> Opening database
+20-02-14 01:53:06 >> Beginning to run SageOS
+20-02-14 01:53:06 >> Power up.
+20-02-14 01:53:06 >> Opening database
+20-02-14 01:54:56 >> Beginning to run SageOS
+20-02-14 01:54:56 >> Power up.
+20-02-14 01:54:56 >> Opening database
+20-02-14 01:56:12 >> Beginning to run SageOS
+20-02-14 01:56:12 >> Power up.
+20-02-14 01:56:12 >> Opening database
+20-02-14 01:57:01 >> Beginning to run SageOS
+20-02-14 01:57:01 >> Power up.
+20-02-14 01:57:01 >> Opening database
+20-02-14 01:57:06 >> Closing database
+20-02-14 01:57:06 >> Power down.
+
+20-02-14 01:57:09 >> Beginning to run SageOS
+20-02-14 01:57:09 >> Power up.
+20-02-14 01:57:09 >> Opening database
+20-02-14 01:59:12 >> Beginning to run SageOS
+20-02-14 01:59:12 >> Power up.
+20-02-14 01:59:12 >> Opening database
+20-02-14 01:59:25 >> Beginning to run SageOS
+20-02-14 01:59:25 >> Power up.
+20-02-14 01:59:25 >> Opening database
+20-02-14 12:29:53 >> Beginning to run SageOS
+20-02-14 12:29:53 >> Power up.
+20-02-14 12:29:53 >> Opening database
+20-02-14 12:31:54 >> Beginning to run SageOS
+20-02-14 12:31:54 >> Power up.
+20-02-14 12:31:54 >> Opening database
+20-02-14 12:36:54 >> Beginning to run SageOS
+20-02-14 12:36:54 >> Power up.
+20-02-14 12:36:54 >> Opening database
+20-02-14 12:38:44 >> Beginning to run SageOS
+20-02-14 12:38:44 >> Power up.
+20-02-14 12:38:44 >> Opening database
+20-02-14 12:39:37 >> Beginning to run SageOS
+20-02-14 12:39:37 >> Power up.
+20-02-14 12:39:37 >> Opening database
+20-02-14 12:40:52 >> Beginning to run SageOS
+20-02-14 12:40:52 >> Power up.
+20-02-14 12:40:52 >> Opening database
+20-02-14 12:42:14 >> Beginning to run SageOS
+20-02-14 12:42:14 >> Power up.
+20-02-14 12:42:14 >> Opening database
+20-02-14 12:42:53 >> Beginning to run SageOS
+20-02-14 12:42:53 >> Power up.
+20-02-14 12:42:53 >> Opening database
+20-02-14 12:44:49 >> Beginning to run SageOS
+20-02-14 12:44:49 >> Power up.
+20-02-14 12:44:49 >> Opening database
+20-02-14 12:45:27 >> Beginning to run SageOS
+20-02-14 12:45:27 >> Power up.
+20-02-14 12:45:27 >> Opening database
+20-02-14 12:46:33 >> Beginning to run SageOS
+20-02-14 12:46:33 >> Power up.
+20-02-14 12:46:33 >> Opening database
+20-02-14 12:47:00 >> Beginning to run SageOS
+20-02-14 12:47:00 >> Power up.
+20-02-14 12:47:01 >> Opening database
+20-02-14 12:50:27 >> Beginning to run SageOS
+20-02-14 12:50:27 >> Power up.
+20-02-14 12:50:27 >> Opening database
+20-02-14 12:50:50 >> Beginning to run SageOS
+20-02-14 12:50:50 >> Power up.
+20-02-14 12:50:50 >> Opening database
+20-02-14 12:52:37 >> Beginning to run SageOS
+20-02-14 12:52:37 >> Power up.
+20-02-14 12:52:37 >> Opening database
+20-02-14 12:54:54 >> Closing database
+20-02-14 12:54:54 >> Power down.
+
+20-02-14 12:55:00 >> Beginning to run SageOS
+20-02-14 12:55:00 >> Power up.
+20-02-14 12:55:00 >> Opening database
+20-02-14 12:56:42 >> Beginning to run SageOS
+20-02-14 12:56:43 >> Power up.
+20-02-14 12:56:43 >> Opening database
+20-02-14 13:02:03 >> Beginning to run SageOS
+20-02-14 13:02:03 >> Power up.
+20-02-14 13:02:03 >> Opening database
+20-02-14 13:02:28 >> Beginning to run SageOS
+20-02-14 13:02:28 >> Power up.
+20-02-14 13:02:28 >> Opening database
+20-02-14 13:02:36 >> Beginning to run SageOS
+20-02-14 13:02:36 >> Power up.
+20-02-14 13:02:36 >> Opening database
+20-02-14 13:11:22 >> Beginning to run SageOS
+20-02-14 13:11:22 >> Power up.
+20-02-14 13:11:22 >> Opening database
+20-02-14 13:14:52 >> Beginning to run SageOS
+20-02-14 13:14:52 >> Power up.
+20-02-14 13:14:52 >> Opening database
+20-02-14 13:14:59 >> Beginning to run SageOS
+20-02-14 13:14:59 >> Power up.
+20-02-14 13:14:59 >> Opening database
+20-02-14 13:22:17 >> Beginning to run SageOS
+20-02-14 13:22:17 >> Power up.
+20-02-14 13:22:17 >> Opening database
+20-02-14 13:23:12 >> Beginning to run SageOS
+20-02-14 13:23:12 >> Power up.
+20-02-14 13:23:12 >> Opening database
+20-02-14 13:24:53 >> Beginning to run SageOS
+20-02-14 13:24:53 >> Power up.
+20-02-14 13:24:53 >> Opening database
+20-02-14 13:25:38 >> Beginning to run SageOS
+20-02-14 13:25:38 >> Power up.
+20-02-14 13:25:38 >> Opening database
+20-02-14 13:30:17 >> Beginning to run SageOS
+20-02-14 13:30:17 >> Power up.
+20-02-14 13:30:17 >> Opening database
+20-02-14 13:30:30 >> Beginning to run SageOS
+20-02-14 13:30:30 >> Power up.
+20-02-14 13:30:30 >> Opening database
+20-02-14 13:31:02 >> Beginning to run SageOS
+20-02-14 13:31:02 >> Power up.
+20-02-14 13:31:02 >> Opening database
+20-02-14 13:38:34 >> Closing database
+20-02-14 13:38:34 >> Power down.
+
+20-02-14 13:39:12 >> Beginning to run SageOS
+20-02-14 13:39:12 >> Power up.
+20-02-14 13:39:12 >> Opening database
+20-02-14 13:40:17 >> Closing database
+20-02-14 13:40:17 >> Power down.
+
+20-02-14 13:40:21 >> Beginning to run SageOS
+20-02-14 13:40:21 >> Power up.
+20-02-14 13:40:21 >> Opening database
+20-02-14 13:40:30 >> Closing database
+20-02-14 13:40:30 >> Power down.
+
+20-02-14 13:40:44 >> Beginning to run SageOS
+20-02-14 13:40:45 >> Power up.
+20-02-14 13:40:45 >> Opening database
+20-02-14 13:42:18 >> Beginning to run SageOS
+20-02-14 13:42:18 >> Power up.
+20-02-14 13:42:18 >> Opening database
+20-02-14 13:42:47 >> Closing database
+20-02-14 13:42:47 >> Power down.
+
+20-02-14 13:42:53 >> Beginning to run SageOS
+20-02-14 13:42:53 >> Power up.
+20-02-14 13:42:53 >> Opening database
+20-02-14 13:43:29 >> Beginning to run SageOS
+20-02-14 13:43:29 >> Power up.
+20-02-14 13:43:29 >> Opening database
+20-02-14 13:45:14 >> Beginning to run SageOS
+20-02-14 13:45:15 >> Power up.
+20-02-14 13:45:15 >> Opening database
+20-02-14 13:45:26 >> Beginning to run SageOS
+20-02-14 13:45:26 >> Power up.
+20-02-14 13:45:27 >> Opening database
+20-02-14 13:46:45 >> Beginning to run SageOS
+20-02-14 13:46:45 >> Power up.
+20-02-14 13:46:45 >> Opening database
+20-02-14 13:47:53 >> Beginning to run SageOS
+20-02-14 13:47:53 >> Power up.
+20-02-14 13:47:53 >> Opening database
+20-02-14 13:49:23 >> Beginning to run SageOS
+20-02-14 13:49:23 >> Power up.
+20-02-14 13:49:23 >> Opening database
+20-02-14 13:50:13 >> Beginning to run SageOS
+20-02-14 13:50:13 >> Power up.
+20-02-14 13:50:13 >> Opening database
+20-02-14 13:52:09 >> Beginning to run SageOS
+20-02-14 13:52:09 >> Power up.
+20-02-14 13:52:09 >> Opening database
+20-02-14 13:54:17 >> Beginning to run SageOS
+20-02-14 13:54:17 >> Power up.
+20-02-14 13:54:17 >> Opening database
+20-02-14 13:54:47 >> Beginning to run SageOS
+20-02-14 13:54:47 >> Power up.
+20-02-14 13:54:47 >> Opening database
+20-02-14 13:54:57 >> Beginning to run SageOS
+20-02-14 13:54:57 >> Power up.
+20-02-14 13:54:57 >> Opening database
+20-02-14 13:56:00 >> Beginning to run SageOS
+20-02-14 13:56:00 >> Power up.
+20-02-14 13:56:00 >> Opening database
+20-02-14 13:56:10 >> Beginning to run SageOS
+20-02-14 13:56:10 >> Power up.
+20-02-14 13:56:10 >> Opening database
+20-02-14 14:00:14 >> Beginning to run SageOS
+20-02-14 14:00:14 >> Power up.
+20-02-14 14:00:14 >> Opening database
+20-02-14 14:00:41 >> Beginning to run SageOS
+20-02-14 14:00:41 >> Power up.
+20-02-14 14:00:41 >> Opening database
+20-02-14 14:02:36 >> Beginning to run SageOS
+20-02-14 14:02:36 >> Power up.
+20-02-14 14:02:36 >> Opening database
+20-02-14 14:02:50 >> Beginning to run SageOS
+20-02-14 14:02:50 >> Power up.
+20-02-14 14:02:50 >> Opening database
+20-02-14 14:08:14 >> Beginning to run SageOS
+20-02-14 14:08:14 >> Power up.
+20-02-14 14:08:14 >> Opening database
+20-02-14 14:10:09 >> Beginning to run SageOS
+20-02-14 14:10:09 >> Power up.
+20-02-14 14:10:09 >> Opening database
+20-02-14 14:10:58 >> Beginning to run SageOS
+20-02-14 14:10:58 >> Power up.
+20-02-14 14:10:58 >> Opening database
+20-02-14 14:11:36 >> Beginning to run SageOS
+20-02-14 14:11:36 >> Power up.
+20-02-14 14:11:36 >> Opening database
+20-02-14 14:14:05 >> Beginning to run SageOS
+20-02-14 14:14:05 >> Power up.
+20-02-14 14:14:05 >> Opening database
+20-02-14 14:17:54 >> Beginning to run SageOS
+20-02-14 14:17:54 >> Power up.
+20-02-14 14:17:54 >> Opening database
+20-02-14 14:18:06 >> Beginning to run SageOS
+20-02-14 14:18:06 >> Power up.
+20-02-14 14:18:06 >> Opening database
+20-02-14 14:19:18 >> Beginning to run SageOS
+20-02-14 14:19:18 >> Power up.
+20-02-14 14:19:18 >> Opening database
+20-02-14 14:21:27 >> Beginning to run SageOS
+20-02-14 14:21:27 >> Power up.
+20-02-14 14:21:27 >> Opening database
+20-02-14 14:21:45 >> Beginning to run SageOS
+20-02-14 14:21:45 >> Power up.
+20-02-14 14:21:45 >> Opening database
+20-02-14 14:22:33 >> Beginning to run SageOS
+20-02-14 14:22:33 >> Power up.
+20-02-14 14:22:33 >> Opening database
+20-02-14 14:22:42 >> Beginning to run SageOS
+20-02-14 14:22:42 >> Power up.
+20-02-14 14:22:42 >> Opening database
+20-02-14 14:23:22 >> Beginning to run SageOS
+20-02-14 14:23:22 >> Power up.
+20-02-14 14:23:22 >> Opening database
+20-02-14 14:23:50 >> Beginning to run SageOS
+20-02-14 14:23:51 >> Power up.
+20-02-14 14:23:51 >> Opening database
+20-02-14 14:25:10 >> Beginning to run SageOS
+20-02-14 14:25:11 >> Power up.
+20-02-14 14:25:11 >> Opening database
+20-02-14 14:26:52 >> Beginning to run SageOS
+20-02-14 14:26:52 >> Power up.
+20-02-14 14:26:52 >> Opening database
+20-02-14 14:27:13 >> Beginning to run SageOS
+20-02-14 14:27:13 >> Power up.
+20-02-14 14:27:13 >> Opening database
+20-02-14 14:28:19 >> Beginning to run SageOS
+20-02-14 14:28:19 >> Power up.
+20-02-14 14:28:19 >> Opening database
+20-02-14 14:30:09 >> Closing database
+20-02-14 14:30:09 >> Power down.
+
+20-02-14 14:30:12 >> Beginning to run SageOS
+20-02-14 14:30:12 >> Power up.
+20-02-14 14:30:12 >> Opening database
+20-02-14 14:31:10 >> Beginning to run SageOS
+20-02-14 14:31:10 >> Power up.
+20-02-14 14:31:10 >> Opening database
+20-02-14 14:31:35 >> Beginning to run SageOS
+20-02-14 14:31:35 >> Power up.
+20-02-14 14:31:35 >> Opening database
+20-02-14 14:33:34 >> Beginning to run SageOS
+20-02-14 14:33:34 >> Power up.
+20-02-14 14:33:34 >> Opening database
+20-02-14 14:34:57 >> Beginning to run SageOS
+20-02-14 14:34:57 >> Power up.
+20-02-14 14:34:57 >> Opening database
+20-02-14 14:36:26 >> Beginning to run SageOS
+20-02-14 14:36:26 >> Power up.
+20-02-14 14:36:26 >> Opening database
+20-02-14 14:36:43 >> Beginning to run SageOS
+20-02-14 14:36:43 >> Power up.
+20-02-14 14:36:43 >> Opening database
+20-02-14 14:40:56 >> Beginning to run SageOS
+20-02-14 14:40:56 >> Power up.
+20-02-14 14:40:56 >> Opening database
+20-02-14 14:41:20 >> Beginning to run SageOS
+20-02-14 14:41:20 >> Power up.
+20-02-14 14:41:20 >> Opening database
+20-02-14 14:42:53 >> Beginning to run SageOS
+20-02-14 14:42:53 >> Power up.
+20-02-14 14:42:53 >> Opening database
+20-02-14 14:43:04 >> Beginning to run SageOS
+20-02-14 14:43:04 >> Power up.
+20-02-14 14:43:04 >> Opening database
+20-02-14 14:43:36 >> Beginning to run SageOS
+20-02-14 14:43:36 >> Power up.
+20-02-14 14:43:36 >> Opening database
+20-02-14 14:43:48 >> Beginning to run SageOS
+20-02-14 14:43:48 >> Power up.
+20-02-14 14:43:48 >> Opening database
+20-02-14 14:47:37 >> Beginning to run SageOS
+20-02-14 14:47:37 >> Power up.
+20-02-14 14:47:37 >> Opening database
+20-02-14 14:47:55 >> Beginning to run SageOS
+20-02-14 14:47:55 >> Power up.
+20-02-14 14:47:55 >> Opening database
+20-02-14 14:53:52 >> Beginning to run SageOS
+20-02-14 14:53:52 >> Power up.
+20-02-14 14:53:52 >> Opening database
+20-02-14 14:54:29 >> Beginning to run SageOS
+20-02-14 14:54:29 >> Power up.
+20-02-14 14:54:29 >> Opening database
+20-02-14 14:55:27 >> Beginning to run SageOS
+20-02-14 14:55:27 >> Power up.
+20-02-14 14:55:27 >> Opening database
+20-02-14 14:57:28 >> Closing database
+20-02-14 14:57:28 >> Power down.
+
+20-02-14 14:57:35 >> Beginning to run SageOS
+20-02-14 14:57:35 >> Power up.
+20-02-14 14:57:35 >> Opening database
+20-02-14 14:58:24 >> Beginning to run SageOS
+20-02-14 14:58:24 >> Power up.
+20-02-14 14:58:24 >> Opening database
+20-02-14 14:58:57 >> Closing database
+20-02-14 14:58:57 >> Power down.
+
+20-02-14 14:59:06 >> Beginning to run SageOS
+20-02-14 14:59:06 >> Power up.
+20-02-14 14:59:06 >> Opening database
+20-02-14 15:01:45 >> Closing database
+20-02-14 15:01:45 >> Power down.
+
+27-02-14 16:02:33 >> Beginning to run SageOS
+27-02-14 16:02:33 >> Power up.
+27-02-14 16:02:33 >> Opening database
+27-02-14 16:03:12 >> Beginning to run SageOS
+27-02-14 16:03:12 >> Power up.
+27-02-14 16:03:12 >> Opening database
+27-02-14 16:15:37 >> Beginning to run SageOS
+27-02-14 16:15:37 >> Power up.
+27-02-14 16:15:37 >> Opening database
+27-02-14 16:17:24 >> Beginning to run SageOS
+27-02-14 16:17:24 >> Power up.
+27-02-14 16:17:24 >> Opening database
+27-02-14 16:18:11 >> Beginning to run SageOS
+27-02-14 16:18:11 >> Power up.
+27-02-14 16:18:11 >> Opening database
+27-02-14 16:18:43 >> Beginning to run SageOS
+27-02-14 16:18:43 >> Power up.
+27-02-14 16:18:43 >> Opening database
+27-02-14 16:19:06 >> Beginning to run SageOS
+27-02-14 16:19:06 >> Power up.
+27-02-14 16:19:06 >> Opening database
+27-02-14 16:20:07 >> Beginning to run SageOS
+27-02-14 16:20:07 >> Power up.
+27-02-14 16:20:07 >> Opening database
+27-02-14 16:20:30 >> Beginning to run SageOS
+27-02-14 16:20:30 >> Power up.
+27-02-14 16:20:30 >> Opening database
+27-02-14 16:21:13 >> Beginning to run SageOS
+27-02-14 16:21:13 >> Power up.
+27-02-14 16:21:13 >> Opening database
+27-02-14 16:22:23 >> Beginning to run SageOS
+27-02-14 16:22:23 >> Power up.
+27-02-14 16:22:23 >> Opening database
+27-02-14 16:30:55 >> Beginning to run SageOS
+27-02-14 16:30:55 >> Power up.
+27-02-14 16:30:55 >> Opening database
+27-02-14 16:34:13 >> Beginning to run SageOS
+27-02-14 16:34:13 >> Power up.
+27-02-14 16:34:13 >> Opening database
+27-02-14 16:37:13 >> Beginning to run SageOS
+27-02-14 16:37:13 >> Power up.
+27-02-14 16:37:13 >> Opening database
+27-02-14 16:37:53 >> Beginning to run SageOS
+27-02-14 16:37:53 >> Power up.
+27-02-14 16:37:53 >> Opening database
+27-02-14 16:45:26 >> Beginning to run SageOS
+27-02-14 16:45:26 >> Power up.
+27-02-14 16:45:26 >> Opening database
+27-02-14 16:46:49 >> Beginning to run SageOS
+27-02-14 16:46:49 >> Power up.
+27-02-14 16:46:49 >> Opening database
+27-02-14 16:47:06 >> Beginning to run SageOS
+27-02-14 16:47:06 >> Power up.
+27-02-14 16:47:06 >> Opening database
+27-02-14 16:50:10 >> Beginning to run SageOS
+27-02-14 16:50:10 >> Power up.
+27-02-14 16:50:10 >> Opening database
+27-02-14 16:50:57 >> Beginning to run SageOS
+27-02-14 16:50:57 >> Power up.
+27-02-14 16:50:57 >> Opening database
+27-02-14 16:52:53 >> Beginning to run SageOS
+27-02-14 16:52:53 >> Power up.
+27-02-14 16:52:53 >> Opening database
+27-02-14 16:55:13 >> Beginning to run SageOS
+27-02-14 16:55:13 >> Power up.
+27-02-14 16:55:13 >> Opening database
+27-02-14 16:57:56 >> Beginning to run SageOS
+27-02-14 16:57:56 >> Power up.
+27-02-14 16:57:56 >> Opening database
+27-02-14 16:58:23 >> Beginning to run SageOS
+27-02-14 16:58:23 >> Power up.
+27-02-14 16:58:23 >> Opening database
+27-02-14 16:59:17 >> Beginning to run SageOS
+27-02-14 16:59:17 >> Power up.
+27-02-14 16:59:17 >> Opening database
+27-02-14 17:03:38 >> Beginning to run SageOS
+27-02-14 17:03:38 >> Power up.
+27-02-14 17:03:38 >> Opening database
+27-02-14 17:07:04 >> Closing database
+27-02-14 17:07:04 >> Power down.
+
+27-02-14 17:07:08 >> Beginning to run SageOS
+27-02-14 17:07:08 >> Power up.
+27-02-14 17:07:08 >> Opening database
+27-02-14 17:07:10 >> Closing database
+27-02-14 17:07:10 >> Power down.
+
+27-02-14 17:08:38 >> Beginning to run SageOS
+27-02-14 17:08:38 >> Power up.
+27-02-14 17:08:38 >> Opening database
+27-02-14 17:09:49 >> Closing database
+27-02-14 17:09:49 >> Power down.
+
+27-02-14 17:09:54 >> Beginning to run SageOS
+27-02-14 17:09:54 >> Power up.
+27-02-14 17:09:54 >> Opening database
+27-02-14 17:10:02 >> Closing database
+27-02-14 17:10:02 >> Power down.
+
+27-02-14 17:12:56 >> Beginning to run SageOS
+27-02-14 17:12:56 >> Power up.
+27-02-14 17:12:56 >> Opening database
+27-02-14 17:13:59 >> Beginning to run SageOS
+27-02-14 17:13:59 >> Power up.
+27-02-14 17:13:59 >> Opening database
+27-02-14 17:19:06 >> Beginning to run SageOS
+27-02-14 17:19:06 >> Power up.
+27-02-14 17:19:06 >> Opening database
+27-02-14 17:20:56 >> Beginning to run SageOS
+27-02-14 17:20:56 >> Power up.
+27-02-14 17:20:56 >> Opening database
+27-02-14 17:21:01 >> Closing database
+27-02-14 17:21:01 >> Power down.
+
+27-02-14 17:21:47 >> Beginning to run SageOS
+27-02-14 17:21:47 >> Power up.
+27-02-14 17:21:47 >> Opening database
+27-02-14 17:21:59 >> Beginning to run SageOS
+27-02-14 17:21:59 >> Power up.
+27-02-14 17:21:59 >> Opening database
+27-02-14 17:22:02 >> Closing database
+27-02-14 17:22:02 >> Power down.
+
+27-02-14 17:24:39 >> Beginning to run SageOS
+27-02-14 17:24:39 >> Power up.
+27-02-14 17:24:39 >> Opening database
+27-02-14 17:24:52 >> Closing database
+27-02-14 17:24:52 >> Power down.
+
+27-02-14 17:31:35 >> Power up.
+27-02-14 17:39:15 >> Beginning to run SageOS
+27-02-14 17:39:54 >> Beginning to run SageOS
+27-02-14 17:39:57 >> Closing database
+27-02-14 17:39:57 >> Power down.
+
+27-02-14 17:40:05 >> Beginning to run SageOS
+27-02-14 17:42:30 >> Power up.
+27-02-14 17:42:30 >> Opening database
+27-02-14 17:42:30 >> Beginning to run SageOS
+27-02-14 17:42:41 >> Closing database
+27-02-14 17:42:41 >> Power down.
+
+27-02-14 17:43:33 >> Power up.
+27-02-14 17:43:33 >> Opening database
+27-02-14 17:43:33 >> Beginning to run SageOS
+27-02-14 17:44:23 >> Closing database
+27-02-14 17:44:23 >> Power down.
+
+27-02-14 17:48:45 >> Power up.
+27-02-14 17:51:51 >> Power up.
+27-02-14 17:52:00 >> Power up.
+27-02-14 17:52:17 >> Power up.
+27-02-14 17:53:51 >> Power up.
+27-02-14 17:53:51 >> Opening database
+27-02-14 17:53:51 >> Beginning to run SageOS
+27-02-14 17:53:54 >> Closing database
+27-02-14 17:53:54 >> Power down.
+
+27-02-14 17:54:19 >> Power up.
+27-02-14 17:54:19 >> Opening database
+27-02-14 17:54:53 >> Beginning to run SageOS
+27-02-14 17:54:58 >> Power up.
+27-02-14 17:54:58 >> Opening database
+27-02-14 17:54:59 >> Beginning to run SageOS
+27-02-14 17:55:01 >> Closing database
+27-02-14 17:55:01 >> Power down.
+
+27-02-14 17:55:04 >> Power up.
+27-02-14 17:55:04 >> Opening database
+27-02-14 17:55:04 >> Beginning to run SageOS
+27-02-14 17:55:35 >> Closing database
+27-02-14 17:55:35 >> Power down.
+
+27-02-14 17:55:39 >> Power up.
+27-02-14 17:55:39 >> Opening database
+27-02-14 17:55:39 >> Beginning to run SageOS
+27-02-14 17:55:41 >> Closing database
+27-02-14 17:55:41 >> Power down.
+
+27-02-14 17:55:44 >> Power up.
+27-02-14 17:55:44 >> Opening database
+27-02-14 17:55:44 >> Beginning to run SageOS
+27-02-14 17:55:46 >> Closing database
+27-02-14 17:55:46 >> Power down.
+
+27-02-14 17:55:52 >> Power up.
+27-02-14 17:55:52 >> Opening database
+27-02-14 17:55:52 >> Beginning to run SageOS
+27-02-14 17:56:03 >> Closing database
+27-02-14 17:56:03 >> Power down.
+
+27-02-14 17:58:02 >> Power up.
+27-02-14 17:58:02 >> Opening database
+27-02-14 17:58:02 >> Beginning to run SageOS
+27-02-14 17:58:28 >> Closing database
+27-02-14 17:58:28 >> Power down.
+
+05-03-14 21:49:27 >> Power up.
+05-03-14 21:49:27 >> Opening database
+05-03-14 21:49:27 >> Beginning to run SageOS
+18-03-14 14:56:19 >> Power up.
+18-03-14 14:56:19 >> Opening database
+18-03-14 14:56:19 >> Beginning to run SageOS
+18-03-14 15:02:50 >> Power up.
+18-03-14 15:02:50 >> Opening database
+18-03-14 15:02:50 >> Beginning to run SageOS
+18-03-14 17:40:55 >> Power up.
+18-03-14 17:40:55 >> Opening database
+18-03-14 17:40:55 >> Beginning to run SageOS
+18-03-14 17:47:50 >> Power up.
+18-03-14 17:47:50 >> Opening database
+18-03-14 17:47:50 >> Beginning to run SageOS
+18-03-14 17:48:14 >> Closing database
+18-03-14 17:48:14 >> Power down.
+
+18-03-14 17:49:32 >> Power up.
+18-03-14 17:49:32 >> Opening database
+18-03-14 17:49:32 >> Beginning to run SageOS
+18-03-14 17:54:51 >> Closing database
+18-03-14 17:54:51 >> Power down.
+
+18-03-14 17:54:56 >> Power up.
+18-03-14 17:54:56 >> Opening database
+18-03-14 17:54:56 >> Beginning to run SageOS
+18-03-14 17:55:11 >> Closing database
+18-03-14 17:55:11 >> Power down.
+
+18-03-14 18:06:29 >> Power up.
+18-03-14 18:06:29 >> Opening database
+18-03-14 18:06:29 >> Beginning to run SageOS
+18-03-14 18:07:04 >> Closing database
+18-03-14 18:07:04 >> Power down.
+
+18-03-14 18:07:08 >> Power up.
+18-03-14 18:07:08 >> Opening database
+18-03-14 18:07:08 >> Beginning to run SageOS
+18-03-14 18:16:09 >> Power up.
+18-03-14 18:16:09 >> Opening database
+18-03-14 18:16:09 >> Beginning to run SageOS
+18-03-14 18:16:47 >> Power up.
+18-03-14 18:16:47 >> Opening database
+18-03-14 18:16:47 >> Beginning to run SageOS
+18-03-14 18:17:24 >> Power up.
+18-03-14 18:17:24 >> Opening database
+18-03-14 18:17:24 >> Beginning to run SageOS
+18-03-14 18:18:48 >> Power up.
+18-03-14 18:18:48 >> Opening database
+18-03-14 18:18:48 >> Beginning to run SageOS
+18-03-14 18:21:12 >> Closing database
+18-03-14 18:21:12 >> Power down.
+
+18-03-14 19:10:22 >> Power up.
+18-03-14 19:10:22 >> Opening database
+18-03-14 19:10:22 >> Beginning to run SageOS
+18-03-14 19:11:22 >> Power up.
+18-03-14 19:11:22 >> Opening database
+18-03-14 19:11:22 >> Beginning to run SageOS
+18-03-14 19:11:50 >> Closing database
+18-03-14 19:11:50 >> Power down.
+
+18-03-14 19:18:54 >> Power up.
+18-03-14 19:18:54 >> Opening database
+18-03-14 19:18:54 >> Beginning to run SageOS
+18-03-14 19:26:22 >> Power up.
+18-03-14 19:26:22 >> Opening database
+18-03-14 19:26:22 >> Beginning to run SageOS
+18-03-14 19:27:54 >> Power up.
+18-03-14 19:27:54 >> Opening database
+18-03-14 19:27:54 >> Beginning to run SageOS
+18-03-14 20:08:02 >> Power up.
+18-03-14 20:08:02 >> Opening database
+18-03-14 20:08:02 >> Beginning to run SageOS
+18-03-14 20:09:00 >> Power up.
+18-03-14 20:09:00 >> Opening database
+18-03-14 20:09:00 >> Beginning to run SageOS
+18-03-14 20:13:16 >> Power up.
+18-03-14 20:13:16 >> Opening database
+18-03-14 20:13:16 >> Beginning to run SageOS
+18-03-14 20:16:45 >> Power up.
+18-03-14 20:16:45 >> Opening database
+18-03-14 20:16:45 >> Beginning to run SageOS
+18-03-14 20:17:46 >> Power up.
+18-03-14 20:17:46 >> Opening database
+18-03-14 20:17:46 >> Beginning to run SageOS
+18-03-14 20:21:53 >> Power up.
+18-03-14 20:21:53 >> Opening database
+18-03-14 20:21:53 >> Beginning to run SageOS
+18-03-14 20:27:00 >> Power up.
+18-03-14 20:27:00 >> Opening database
+18-03-14 20:27:00 >> Beginning to run SageOS
+18-03-14 20:31:25 >> Closing database
+18-03-14 20:31:25 >> Power down.
+
+18-03-14 20:32:27 >> Power up.
+18-03-14 20:32:27 >> Opening database
+18-03-14 20:32:27 >> Beginning to run SageOS
+18-03-14 20:44:32 >> Power up.
+18-03-14 20:44:32 >> Opening database
+18-03-14 20:44:32 >> Beginning to run SageOS
+19-03-14 13:06:58 >> Power up.
+19-03-14 13:06:58 >> Opening database
+19-03-14 13:06:58 >> Beginning to run SageOS
+19-03-14 13:07:43 >> Power up.
+19-03-14 13:07:43 >> Opening database
+19-03-14 13:07:43 >> Beginning to run SageOS
+19-03-14 13:14:54 >> Closing database
+19-03-14 13:14:54 >> Power down.
+
+19-03-14 14:07:14 >> Power up.
+19-03-14 14:07:14 >> Opening database
+19-03-14 14:07:14 >> Beginning to run SageOS
+19-03-14 14:08:01 >> Closing database
+19-03-14 14:08:01 >> Power down.
+
+19-03-14 14:08:04 >> Power up.
+19-03-14 14:08:04 >> Opening database
+19-03-14 14:08:04 >> Beginning to run SageOS
+19-03-14 14:14:36 >> Closing database
+19-03-14 14:14:36 >> Power down.
+
+19-03-14 14:14:46 >> Power up.
+19-03-14 14:14:46 >> Opening database
+19-03-14 14:14:46 >> Beginning to run SageOS
+19-03-14 14:31:07 >> Closing database
+19-03-14 14:31:07 >> Power down.

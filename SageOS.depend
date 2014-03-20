@@ -1,0 +1,463 @@
+# depslib dependency file v1.0
+1390467010 source:c:\users\waers_000\desktop\sageos\os345.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345signals.h"
+	"os345config.h"
+	"os345lc3.h"
+	"os345fat.h"
+
+1390508630 c:\users\waers_000\desktop\sageos\os345.h
+
+1389477866 c:\users\waers_000\desktop\sageos\os345signals.h
+
+1390637846 c:\users\waers_000\desktop\sageos\os345config.h
+	<conio.h>
+	<fcntl.h>
+	<conio.h>
+	<fcntl.h>
+	<fcntl.h>
+
+1389477890 c:\users\waers_000\desktop\sageos\os345lc3.h
+
+1389477908 c:\users\waers_000\desktop\sageos\os345fat.h
+
+1389477910 source:c:\users\waers_000\desktop\sageos\os345fat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345fat.h"
+
+1390530734 source:c:\users\waers_000\desktop\sageos\os345interrupts.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345config.h"
+	"os345signals.h"
+
+1389477896 source:c:\users\waers_000\desktop\sageos\os345lc3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345lc3.h"
+	"os345fat.h"
+
+1389477900 source:c:\users\waers_000\desktop\sageos\os345mmu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345lc3.h"
+
+1390532367 source:c:\users\waers_000\desktop\sageos\os345p1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345signals.h"
+
+1389477872 source:c:\users\waers_000\desktop\sageos\os345p2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	<time.h>
+	"os345.h"
+	"os345signals.h"
+
+1389477876 source:c:\users\waers_000\desktop\sageos\os345p3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345park.h"
+
+1389477882 c:\users\waers_000\desktop\sageos\os345park.h
+
+1389477886 source:c:\users\waers_000\desktop\sageos\os345p4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345lc3.h"
+
+1389477902 source:c:\users\waers_000\desktop\sageos\os345p5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+
+1389477906 source:c:\users\waers_000\desktop\sageos\os345p6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345fat.h"
+
+1389477880 source:c:\users\waers_000\desktop\sageos\os345park.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345park.h"
+
+1389477850 source:c:\users\waers_000\desktop\sageos\os345semaphores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+
+1390530805 source:c:\users\waers_000\desktop\sageos\os345signals.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345signals.h"
+
+1390495271 source:c:\users\waers_000\desktop\sageos\os345tasks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345signals.h"
+
+1390466729 c:\users\waers_000\desktop\sageos\fcntl.h
+	<sys/_types.h>
+	<sys/cdefs.h>
+
+1394085936 source:c:\users\waers_000\documents\sageos\os345.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345signals.h"
+	"os345config.h"
+	"os345lc3.h"
+	"os345fat.h"
+	"logger.h"
+	"queue.h"
+	"bufHist.h"
+
+1395179070 c:\users\waers_000\documents\sageos\os345.h
+	<setjmp.h>
+
+1389481466 c:\users\waers_000\documents\sageos\os345signals.h
+
+1390731208 c:\users\waers_000\documents\sageos\os345config.h
+	<conio.h>
+	<fcntl.h>
+	<conio.h>
+	<fcntl.h>
+	<fcntl.h>
+
+1389481490 c:\users\waers_000\documents\sageos\os345lc3.h
+
+1389481508 c:\users\waers_000\documents\sageos\os345fat.h
+
+1389481510 source:c:\users\waers_000\documents\sageos\os345fat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345fat.h"
+
+1395191839 source:c:\users\waers_000\documents\sageos\os345interrupts.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345config.h"
+	"os345signals.h"
+	"logger.h"
+	"bufHist.h"
+
+1395191904 source:c:\users\waers_000\documents\sageos\os345lc3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345lc3.h"
+	"os345fat.h"
+
+1395199946 source:c:\users\waers_000\documents\sageos\os345mmu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345lc3.h"
+
+1394085753 source:c:\users\waers_000\documents\sageos\os345p1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	<time.h>
+	"os345.h"
+	"os345signals.h"
+
+1394085130 source:c:\users\waers_000\documents\sageos\os345p2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	<time.h>
+	"os345.h"
+	"os345signals.h"
+
+1395180086 source:c:\users\waers_000\documents\sageos\os345p3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345park.h"
+
+1389481482 c:\users\waers_000\documents\sageos\os345park.h
+
+1395195149 source:c:\users\waers_000\documents\sageos\os345p4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345lc3.h"
+
+1391075560 source:c:\users\waers_000\documents\sageos\os345p5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+
+1391075240 source:c:\users\waers_000\documents\sageos\os345p6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345fat.h"
+
+1394314488 source:c:\users\waers_000\documents\sageos\os345park.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345park.h"
+
+1393550492 source:c:\users\waers_000\documents\sageos\os345semaphores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"queue.h"
+
+1391075369 source:c:\users\waers_000\documents\sageos\os345signals.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<assert.h>
+	"os345.h"
+	"os345signals.h"
+
+1395195013 source:c:\users\waers_000\documents\sageos\os345tasks.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<setjmp.h>
+	<time.h>
+	<assert.h>
+	"os345.h"
+	"os345signals.h"
+	"queue.h"
+
+1394080150 source:c:\users\waers_000\documents\sageos\logger.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"os345.h"
+	"logger.h"
+
+1390885424 c:\users\waers_000\documents\sageos\logger.h
+
+1391661678 c:\users\waers_000\documents\sageos\queue.h
+	"os345.h"
+
+1392359477 source:c:\users\waers_000\documents\sageos\queue.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+	"logger.h"
+	"os345.h"
+
+1393551672 source:c:\users\waers_000\documents\sageos\bufhist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bufHist.h"
+	"os345.h"
+	"sqlite3.h"
+	"logger.h"
+
+1391107412 c:\users\waers_000\documents\sageos\bufhist.h
+
+1390983806 c:\users\waers_000\documents\sageos\sqlite3.h
+	<stdarg.h>
+
+1390983806 source:c:\users\waers_000\documents\sageos\sqlite3.c
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	<errno.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1394085463 source:c:\users\waers_000\documents\sageos\dc.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	"dc.h"
+	"logger.h"
+	<string.h>
+
+1394085636 c:\users\waers_000\documents\sageos\dc.h
+	"os345.h"
+
