@@ -77,6 +77,7 @@ int createTask(char* name,						// task name
 			tcb[tid].priority = priority;	// task priority
 			tcb[tid].parent = curTask;		// parent
 			tcb[tid].argc = argc;			// argument count
+			tcb[tid].time = 0;
 
 			// ?? malloc new argv parameters
 			int i;
@@ -100,7 +101,7 @@ int createTask(char* name,						// task name
 
 
 			// ?? may require inserting task into "ready" queue
-			enqueue(rq, tid, MED_PRIORITY);
+			enqueue(rq, tid, tcb[tid].priority);
 
 			if (tid) swapTask();				// do context switch (if not cli)
 			return tid;							// return tcb index (curTask)

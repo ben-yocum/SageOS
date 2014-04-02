@@ -22,7 +22,7 @@ elem #      priority
 
 
 
-extern TCB* tcb;
+extern TCB tcb[MAX_TASKS];
 
 
 
@@ -143,8 +143,10 @@ int dequeue(PQueue *q, int tid)
         }
         j--;
 
-        if(i == -1) //element not found
+        if(i == -1){
             return 0;
+        } //element not found
+
     }
 
     //Save value to be returned
@@ -186,6 +188,7 @@ int peek(PQueue* q)
 
 void pq_print(PQueue* q)
 {
+
     int id;
     for(id=q->size-1; id>=q->bot; id--){
         int i = q->elem[id]->tid;
@@ -256,4 +259,54 @@ int pq_assert(char* message, PQueue* q, int success){
         logg("QUITTING");
         return 0;
     }
+}
+
+
+
+/*
+* Distributes total_time evenly, first to parents,
+* and second to children.
+*/
+void fair_dist_time(PQueue* q, int total_time){
+    int id;
+    //printf("\nBegun fair_dis_time, total_time: %d", total_time);
+    //Find parents of groups
+    int numGroups = 0;
+    int groups[MAX_TASKS];
+    for(id=q->size-1; id>q->bot; id--){
+       // printf("\nTesting %d, parent=%d",q->elem[id]->tid,tcb[q->elem[id]->tid].parent );
+        if(tcb[q->elem[id]->tid].parent == 0 /*&& q->elem[id]->tid != 0*/){
+            //printf("\nFound parent %d", q->elem[id]->tid);
+            groups[numGroups++] = q->elem[id]->tid;
+        }
+    }
+
+    //Divide time between the groups
+    int time_per_group = total_time / (numGroups+1);
+    int i; for(i=0; i<numGroups; i++){
+        //find number of members of group
+        int numTasks = 1; //1 for the parent
+        int tasks[MAX_TASKS];
+        tasks[0] = groups[i];
+        //printf("\nSearching for children to parent %d", groups[i]);
+        for(id=q->size-1; id>q->bot; id--){
+            if(tcb[q->elem[id]->tid].parent == groups[i]){
+                tasks[numTasks++] = q->elem[id]->tid;
+                //printf("\nFound child to parent %d: %d", groups[i], q->elem[id]->tid);
+            }
+
+        }
+
+        //Finally, add the correct amount of time
+        int time_per_task = time_per_group / numTasks;
+        int temp; for(temp=0; temp<numTasks; temp++){
+            //printf("\nAdding %d to %d", time_per_task, tasks[temp]);
+            tcb[tasks[temp]].time = time_per_task;
+        }
+    }
+
+    //Divide the
+
+
+
 }

@@ -59,7 +59,11 @@ int P5_project5(int argc, char* argv[])		// project 5
 	// check if just changing scheduler mode
 	if (argc > 1)
 	{
-		scheduler_mode = atoi(argv[1]);
+	    //Set new scheduler mode
+	    int n = atoi(argv[1]);
+	    if(n) scheduler_mode = 1;
+	    else  scheduler_mode = 0;
+
 		printf("\nScheduler Mode = %d (%s)", scheduler_mode, scheduler_mode ? "FSS" : "RR");
 		return 0;
 	}
@@ -89,11 +93,11 @@ int P5_project5(int argc, char* argv[])		// project 5
 		new_argv[2] = arg3;
 
 		printf("\nCreate %s with %d child%s", arg1, atoi(arg3), (atoi(arg3) == 1 ? "" : "ren"));
-		createTask(new_argv[0]				// task name
-				 , parentTask,				// parent task
+		createTask(new_argv[0],				// task name
+				   parentTask,				// parent task
 				   MED_PRIORITY,			// priority
 				   3,						// argc
-				   new_argv);				// argv
+				   new_argv);				// argvw
 		SEM_WAIT(parentDead);				// wait for parent to die
 	}
 
@@ -199,7 +203,7 @@ int groupReportTask(int argc, char* argv[])
 		for (i=0; i<NUM_PARENTS; i++)
 		{
 //			printf("%10ld", group_count[i]);
-			printf("%10ld (%ld%%)", group_count[i], (group_count[i] * 100) / sum);
+			printf("%10ld (%d%%)", group_count[i], (group_count[i] * 100) / sum);
 			group_count[i] = 0;
 		}
 

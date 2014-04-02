@@ -137,8 +137,8 @@ typedef struct							// task control block
 	char** argv;						// task argument pointers (project 1)
 	int signal;							// task signals (project 1)
 	void (*sigContHandler)(void);	    // task mySIGCONT handler
-	void (*sigIntHandler)(void);	    // task mySIGINT handler
 	void (*sigKillHandler)(void);	    // task mySIGKILL handler
+	void (*sigIntHandler)(void);	    // task mySIGINT handler
 	void (*sigTermHandler)(void);	    // task mySIGTERM handler
 	void (*sigTstpHandler)(void);	    // task mySIGTSTP handler
 	TID parent;							// task parent
@@ -147,6 +147,7 @@ typedef struct							// task control block
 	Semaphore *event;					// blocked task semaphore. Red light / green light.
 	void* stack;						// task stack
 	jmp_buf context;					// task context pointer
+	int time;                           // task time
 } TCB;
 
 // Task specific variables

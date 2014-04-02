@@ -74,7 +74,7 @@ jmp_buf k_context;					// context of kernel stack
 jmp_buf reset_context;				// context of kernel stack
 volatile void* temp;				// temp pointer used in dispatcher
 
-int scheduler_mode;					// scheduler mode
+int scheduler_mode;					// scheduler mode (0=prioritized round-robin, 1=fair scheduler
 int superMode;						// system mode
 int curTask;						// current task #
 long swapCount;						// number of re-schedule cycles
@@ -225,23 +225,66 @@ int main(int argc, char* argv[])
 */
 static int scheduler()
 {
-    //Get nextTask, store in the correct places
-    int nextTask = peek(rq);
+    //Round robin
+    if(scheduler_mode == 0){
+        //Get nextTask, store in the correct places
+        int nextTask = peek(rq);
 
-    if (tcb[nextTask].signal & mySIGSTOP) return -1;
+        if (tcb[nextTask].signal & mySIGSTOP) return -1;
 
-    nextTask = dequeue(rq, -1);
-    curTask = nextTask;
+        nextTask = dequeue(rq, -1);
+        curTask = nextTask;
 
-    //put task right back on the queue
-    enqueue(rq, nextTask, MED_PRIORITY);
+        //put task right back on the queue
+        enqueue(rq, nextTask, tcb[curTask].priority);
 
-    //Return -1 if task has been stopped
-    if (tcb[nextTask].signal & mySIGTERM) killTask(nextTask);
+        //Return -1 if task has been stopped
+        if (tcb[nextTask].signal & mySIGTERM) killTask(nextTask);
 
 
-    //Return task to stack for re-use
-    return nextTask;
+        return nextTask;
+
+    }
+
+    //Fair scheduler
+    else{
+        //printf("\nBeginning fair scheduler cycle");
+
+        int firstTask = dequeue(rq, -1);
+        //printf("\nDequeueing %d", firstTask);
+        enqueue(rq, firstTask, tcb[firstTask].priority);
+        //printf("\nEnqueueing %d", firstTask);
+
+        int nextTask = firstTask;
+
+        //Find next task with time != 0
+        while(tcb[nextTask].time == 0){
+           // printf("\nTesting %d, time = %d", nextTask, tcb[nextTask].time);
+            nextTask = dequeue(rq, -1);
+            enqueue(rq, nextTask, tcb[nextTask].priority);
+
+            //printf("\nAttempting to find next task with time != 0, nextTask = %d", nextTask);
+
+            //If all tasks have 0 time, redistribute time
+            if(nextTask == firstTask){
+                //printf("\nGot to firstTask %d, distributing time", firstTask);
+                int total_time = 10000; //100,000
+
+                fair_dist_time(rq, total_time);
+            }
+        }
+
+        //printf("\nPerforming task %d", nextTask);
+        //Now, perform task
+        tcb[nextTask].time--;
+        if (tcb[nextTask].signal & mySIGSTOP) return -1;
+
+        curTask = nextTask;
+
+        if (tcb[nextTask].signal & mySIGTERM) killTask(nextTask);
+
+        return nextTask;
+    }
 } // end scheduler
 
 
