@@ -33,7 +33,7 @@ extern jmp_buf reset_context;
 // -----
 
 
-#define NUM_COMMANDS 56
+#define NUM_COMMANDS 57
 typedef struct                                // command struct
 {
     char* command;
@@ -428,6 +428,7 @@ Command** P1_init()
     commands[i++] = newCommand("project3", "p3", P3_project3, "P3: Jurassic Park");
     commands[i++] = newCommand("deltaclock", "dc", P3_dc, "List deltaclock entries");
     commands[i++] = newCommand("testdeltaclock", "dct", dc_test, "Run a test on the delta clock");
+    commands[i++] = newCommand("togglemessages", "tm", P3_toggleMessages, "Toggles display of action messages.");
 
 
     // P4: Virtual Memory (13 commands)

@@ -204,6 +204,15 @@ int P3_project3(int argc, char* argv[])
 
 
 
+
+int P3_toggleMessages(int argc, char* argv[]){
+    if(displayMessages) displayMessages = 0;
+    else displayMessages = 1;
+    return 0;
+}
+
+
+
 // ***********************************************************************
 // ***********************************************************************
 // delta clock command

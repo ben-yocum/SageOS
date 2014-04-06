@@ -5438,3 +5438,20 @@ pþ# >> Beginning to run SageOS
 06-04-14 14:26:10 >> Power up.
 06-04-14 14:26:10 >> Opening database
 06-04-14 14:26:10 >> Beginning to run SageOS
+06-04-14 15:40:21 >> Power up.
+06-04-14 15:40:21 >> Opening database
+06-04-14 15:40:21 >> Beginning to run SageOS
+06-04-14 15:40:50 >> Power up.
+06-04-14 15:40:50 >> Opening database
+06-04-14 15:40:50 >> Beginning to run SageOS
+06-04-14 15:42:51 >> Power up.
+06-04-14 15:42:51 >> Opening database
+06-04-14 15:42:51 >> Beginning to run SageOS
+06-04-14 15:45:50 >> Closing database
+06-04-14 15:45:50 >> Power down.
+
+06-04-14 15:47:48 >> Power up.
+06-04-14 15:47:48 >> Opening database
+06-04-14 15:47:48 >> Beginning to run SageOS
+06-04-14 15:49:12 >> Closing database
+06-04-14 15:49:12 >> Power down.
