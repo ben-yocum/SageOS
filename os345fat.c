@@ -182,9 +182,64 @@ int fmsOpenFile(char* fileName, int rwMode)
 //
 int fmsReadFile(int fileDescriptor, char* buffer, int nBytes)
 {
-	// ?? add code here
-	printf("\nfmsReadFile Not Implemented");
+	int error, nextCluster;
+	FDEntry* fdEntry;
+	int numBytesRead = 0;
+	unsigned int bytesLeft, bufferIndex;
 
+	fdEntry = &OFTable[fileDescriptor];
+	if(fdEntry->name[0]==0) return ERR63; //file not found
+	if(fdEntry->pid != tcb[curTask].parent) return ERR85; //illegal access
+	if((fdEntry->mode==1)||(fdEntry->mode==2)) return ERR85; //illegal access
+
+	while ( nBytes > 0)
+	{
+		if(fdEntry->fileSize == fdEntry->fileIndex)
+			return (numBytesRead? numBytesRead:ERR66);  //eof
+		//check for buffer boundary
+		bufferIndex = fdEntry->fileIndex % BYTES_PER_SECTOR;
+		if((bufferIndex==0)&&(fdEntry->fileIndex||!fdEntry->currentCluster))
+		{
+			//cluster boundary
+			if( fdEntry->currentCluster==0)
+			{
+				//read initial cluster
+				if( fdEntry->startCluster==0) return ERR66; //eof
+				nextCluster = fdEntry->startCluster;
+				fdEntry->fileIndex=0;
+			}
+			else
+			{
+				// get next cluster in FAT chain
+				nextCluster = getFatEntry(fdEntry->currentCluster,FAT1);
+				if( nextCluster == FAT_EOC) return numBytesRead; //end of read
+			}
+			if( fdEntry->flags & BUFFER_ALTERED)
+			{
+				//write out  currentCluster if altered
+				if(( error = fmsWriteSector(fdEntry->buffer,C_2_S(fdEntry->currentCluster)))) return error;
+				fdEntry->flags &= ~BUFFER_ALTERED;
+			}
+
+			//read in next cluster
+			if((error = fmsReadSector(fdEntry->buffer, C_2_S(nextCluster)))) return error;
+			fdEntry->currentCluster = nextCluster;
+		}
+
+		//limit bytes to minimum of what's left in buffer, what's left in file, and nBytes
+		bytesLeft = BYTES_PER_SECTOR - bufferIndex;
+		if(bytesLeft> nBytes) bytesLeft = nBytes;
+		if(bytesLeft > (fdEntry->fileSize - fdEntry->fileIndex))
+			bytesLeft = fdEntry->fileSize - fdEntry->fileIndex;
+
+		//move data from internal buffer to user buffer and updata counts
+		memcpy(buffer,&fdEntry->buffer[bufferIndex],bytesLeft);
+		fdEntry->fileIndex += bytesLeft;
+		numBytesRead += bytesLeft;
+		buffer += bytesLeft;
+		nBytes -= bytesLeft;
+	}
+	return numBytesRead;
 	return ERR63;
 } // end fmsReadFile
 
