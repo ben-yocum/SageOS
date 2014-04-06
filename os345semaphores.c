@@ -49,6 +49,7 @@ void semSignal(Semaphore* s)
 {
 	int i;
 	// assert there is a semaphore and it is a legal type
+	//printf("\nSemaphore: %s %d %d", s->name, s->type, s->state);
 	assert("semSignal Error" && s && ((s->type == BINARY) || (s->type == COUNTING)));
 
 	// check semaphore type

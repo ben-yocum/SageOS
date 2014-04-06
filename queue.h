@@ -10,3 +10,4 @@ int enqueue(PQueue *q, int tid, int priority);
 void pq_destruct(PQueue* q);
 PQueue* pq_construct(int size);
 void pq_print(PQueue* q);
+void fair_dist_time(PQueue* q, int total_time);

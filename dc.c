@@ -189,7 +189,6 @@ int dc_dec(d_clock* c)
     while(c->elem[c->size-1]->tic == 0){
         SEM_SIGNAL(c->elem[c->size-1]->sem);
         dc_remove(c);
-        printf("\n");
     }
     return 0;
 }

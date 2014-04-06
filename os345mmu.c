@@ -90,7 +90,6 @@ int getFrame(int unav)
 */
 unsigned short int *getMemAdr(int va, int rwFlg)
 {
-	unsigned short int pa;                  //page address
 	int rpta, rpte1, rpte2;                 //root page table (entries)
 	int upta, upte1, upte2;                 //user page table (entries)
 	int rptFrame, uptFrame;                 //root/user page table frames
@@ -233,7 +232,6 @@ int getAvailableFrame()
 */
 int getClockFrame(int unav){
     int count=0;
-    int isEmpty=0;
     int rpt=0x2400;                //location of root page table
     int upt;
     if(nextrpt) rpt=nextrpt;       //move to next entry in root page table
@@ -257,14 +255,12 @@ int getClockFrame(int unav){
             //front of user page table
             int uptf=FRAME(pte1)<<6;
             //user page table 64 words (entries)
-            isEmpty = 1;
             for(upt=uptf; upt<uptf+64; upt+=2){
                 //data is here
                 if(memory[upt]){
 
                     //set entry pinned bit
                     memory[rpt]=SET_PINNED(memory[rpt]);
-                    isEmpty=0; //mark that it's not empty
                     int upt1=memory[upt];
                     int upt2=memory[upt+1];
 

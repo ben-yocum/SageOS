@@ -23,6 +23,7 @@ elem #      priority
 
 
 extern TCB tcb[MAX_TASKS];
+extern void printTask(int i);
 
 
 
